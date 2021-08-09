@@ -4,18 +4,51 @@
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- Title --> 
     <title>Protype</title>
-    <meta name="description" content="Prototype for UROP">
+
+    <!-- Site Description --> 
+    <meta name="description" content="Github-Page-based Website for the IDEA Lab of Department of Aeronautics, Imperial College London">
+    
+    <!-- Site Viewport --> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+    <!-- 1. Theme --> 
+    <!-- Theme: Simple Dark --> 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+    <!-- Theme: Simple --> 
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">  -->
+
+    <!-- Theme: Simple --> 
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themess/vue.css"/>  -->
+
+    <!-- 2. PrismJS Themes -->
     <link rel="stylesheet" href="https://unpkg.com/prism-github/prism-github.css">
     <link rel="stylesheet" href="https://unpkg.com/prism-theme-one-dark/prism-onedark.css">
+
+    <!-- Footer --> 
     <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-footer@1.x/dist/plugin.min.css"> -->
     <link rel="stylesheet" href="cutom_theme.css">
+
+    <!-- Custom Buttom - DIY CSS file  --> 
     <link rel="stylesheet" href="//unpkg.com/docsify-accordify/src/assets/ugly-dark-theme.css">
+
+    <!-- 3. Custom Theme Properties -->
     <style>
       :root {
+        /* Reduce the font size */
         --base-font-size: 18px;
+
+        /* Change the theme color hue (0-360) */
+        /* --theme-hue: 325; */
+
+        /* Add sidebar navigation bullets */
+        /* --sidebar-nav-link-before-content-l1: "😀"; */
+        /* --sidebar-nav-link-before-content-l2: "💩"; */
+
+        /* Plugin: Zoom Image */
+	/* --zoomimage-overlay-background: rgba(0, 0, 0, 0.875);*/
       }
     </style>
   </head>
@@ -28,32 +61,49 @@
     <!-- <script src="//unpkg.com/docsify-accordify/src/index.js"></script> -->
     <script>
       window.$docsify = {
-        name: 'Prototype',
-        repo: 'https://github.com/wong-hl/urop_prototype',
+        name: 'IDEA Lab',
+        repo: 'https://github.com/IDEA-lab-IC/IDEA-lab-IC.github.io',
         coverpage: true,
+        // onlyCover: false,  // only displays the cover page
         executeScript: true,
+
+        // <!-- Themeable Options -->
         themeable: {
           readyTransition: true, // default
           responsiveTables: true  // default
         },
+
+        // <!-- Turn nav bar on -->
         loadNavbar: true,
         mergeNavbar: true,
+
+        // <!-- Turn side bar on -->
         loadSidebar: true,
+        // Set nested sidebar depth that is shown
         subMaxLevel: 1,
+        // max sidebar depth
         maxLevel: 3,
+        // collapsible sidebar display level
         sidebarDisplayLevel: 0,
+        // create alias for sidebar to prevent issues
         alias: {
           '/.*/_sidebar.md': '/_sidebar.md',
           '/.*/_navbar.md': '/_navbar.md'
         },
+
+        // <!-- Settings for markdown -->
         markdown: {
           smartypants: true,
           smartLists: true,
         },
+
+        // <!-- settings for pagination -->
         pagination: {
           crossChapter: true,
           crossChapterText: true,
         },
+
+        // <!-- settings for tabs -->
         tabs: {
           persist: true,      // default
           sync: true,      // default
@@ -61,6 +111,11 @@
           tabComments: true,      // default
           tabHeadings: true       // default
         },
+
+        // <!-- Settings page footer -->
+        // loadFooter: 'footer.md',
+
+        // <!-- search settings -->
         search: {
           maxAge: 86400000, // Expiration time, the default one day
           paths: 'auto',
@@ -69,6 +124,9 @@
           depth: 6,
           hideOtherSidebarContent: true, // whether or not to hide other sidebar content
         },
+
+
+        // <!-- settings for flexible alerts -->
         'flexible-alerts': {
           style: 'callout',
           note: {
