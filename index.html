@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Protype</title>
+    <meta name="description" content="Prototype for UROP">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+    <link rel="stylesheet" href="https://unpkg.com/prism-github/prism-github.css">
+    <link rel="stylesheet" href="https://unpkg.com/prism-theme-one-dark/prism-onedark.css">
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-footer@1.x/dist/plugin.min.css"> -->
+    <link rel="stylesheet" href="cutom_theme.css">
+    <link rel="stylesheet" href="//unpkg.com/docsify-accordify/src/assets/ugly-dark-theme.css">
+    <style>
+      :root {
+        --base-font-size: 18px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="app">Loading ...</div>
+    <script defer src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
+    <!-- <script src="//unpkg.com/docsify-accordify/src/index.js"></script> -->
+    <script>
+      window.$docsify = {
+        name: 'Prototype',
+        repo: 'https://github.com/wong-hl/urop_prototype',
+        coverpage: true,
+        executeScript: true,
+        themeable: {
+          readyTransition: true, // default
+          responsiveTables: true  // default
+        },
+        loadNavbar: true,
+        mergeNavbar: true,
+        loadSidebar: true,
+        subMaxLevel: 1,
+        maxLevel: 3,
+        sidebarDisplayLevel: 0,
+        alias: {
+          '/.*/_sidebar.md': '/_sidebar.md',
+          '/.*/_navbar.md': '/_navbar.md'
+        },
+        markdown: {
+          smartypants: true,
+          smartLists: true,
+        },
+        pagination: {
+          crossChapter: true,
+          crossChapterText: true,
+        },
+        tabs: {
+          persist: true,      // default
+          sync: true,      // default
+          theme: 'material',
+          tabComments: true,      // default
+          tabHeadings: true       // default
+        },
+        search: {
+          maxAge: 86400000, // Expiration time, the default one day
+          paths: 'auto',
+          placeholder: 'Search',
+          noData: 'No Results!',
+          depth: 6,
+          hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+        },
+        'flexible-alerts': {
+          style: 'callout',
+          note: {
+            label: "Note"
+          },
+          tip: {
+            label: "Tip!"
+          },
+          warning: {
+            label: "Warning!"
+          },
+          attention: {
+            label: "Attention"
+          }
+        },
+        footer: {
+          copy: '<span> &copy; 2021</span>',
+          auth: 'by Hui Ling Wong',
+          pre: '<hr/>',
+          style: 'text-align: right;',
+          class: 'className',
+        },
+        vueComponents: {
+          'button-counter': {
+            template:
+              `<button @click="count += 1">
+              You clicked me {{ count }} times
+            </button>
+            `,
+            data: function () {
+              return {
+                count: 0,
+              };
+            },
+          },
+          'more-button-counters': {
+            template: `
+          <div id='more-button-counters'>
+            <span v-for="counter in 4"> 
+              <button-counter></button-counter> 
+            </span>
+          </div>
+          `,
+          },
+        },
+        vueGlobalOptions: {
+          computed: {
+            timeOfDay: function () {
+              const date = new Date();
+              const hours = date.getHours();
+
+              if (hours < 12) {
+                return 'morning';
+              } else if (hours < 18) {
+                return 'afternoon';
+              } else {
+                return 'evening';
+              }
+            },
+            currentTabComponent: function () {
+              return "tab-" + this.currentTab.toLowerCase();
+            },
+
+          },
+          methods: {
+            hello: function () {
+              alert(this.message);
+            },
+          },
+        },
+        vueMounts: {
+          '#counter': {
+            data: function () {
+              return {
+                count: 0,
+              };
+            },
+          },
+        },
+        plugins: [
+          function (hook, vm) {
+            hook.doneEach(function (html) {
+              Prism.highlightAll()
+              console.log('mounted,', Prism, Prism.languages.flow)
+            })
+          },
+          // loadAccordions,
+        ]
+
+      };
+    </script>
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="prism.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script> -->
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
+  </body>
+
+</html>
