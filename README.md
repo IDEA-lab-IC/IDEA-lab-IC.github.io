@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+<h1> Welcome! </h1>
 
-You can use the [editor on GitHub](https://github.com/IDEA-lab-IC/IDEA-lab-IC.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2> Good {{timeOfDay}}! </h2>
 
-### Markdown
+The above greeting is dynamically determined by the time of day
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Maybe we can embrace open-source and get people to help us spot issues?
+Spot any mistakes in the website? Or is there outdated information? Feel free to raise an issue on the Github and we will work on it!
 
-```markdown
-Syntax highlighted code block
+<h3> There's emojis support :smile: </h3>
 
-# Header 1
-## Header 2
-### Header 3
+I can even add emojis like :joy: or :100:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IDEA-lab-IC/IDEA-lab-IC.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
