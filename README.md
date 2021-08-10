@@ -16,11 +16,3 @@ More emojis like :joy: or :100:
 
 Maybe we can embrace open-source and get people to help us spot issues?
 Spot any mistakes in the website? Or is there outdated information? Feel free to raise an issue on the Github and we will work on it!
-
-
-
-
-
-
-
-
