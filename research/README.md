@@ -1,4 +1,8 @@
-<h1> Research Directory Landing Page </h1>
+<h1> Research </h1>
+
+Overview of the ongoing research topics and maybe also a summary of past research outcomes. Might put a slideshow like component to showcase some figures relevant to the researches. And each sub-page can have more details of the research topics.
+
+Following is just a demonstration of what can be added:
 
 > “I'm a scientist and I know what constitutes proof. But the reason I 
 > call myself by my childhood name is to remind myself that a scientist 

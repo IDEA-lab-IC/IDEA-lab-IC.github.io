@@ -1,8 +1,12 @@
-<h1> Sidebar Title </h1> 
+<h1> Quick Navigation </h1> 
 
 - [Welcome!](README.md)
-- [Space](space.md "Bigger than you can imagine")
-- [Research](research/README.md)
+- [People](People/README.md "Who's in the group?")
+	* [Head of IDEA Lab](People/HoG.md)
+	* [Postdoc. RA](People/postdoc.md)
+	* [PhD Researchers](People/phd.md)
+	* [Alumni](People/alumni.md)
+- [Research](research/README.md "What we do")
 	* [Aircraft](research/planes.md)
 	* [Bread](research/bread.md)
 - [FAQs](faq.md)
