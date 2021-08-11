@@ -26,10 +26,10 @@ dummy1       |  dummy2      | dummy3 | dummy4
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8jgo"><img src="/../_profilePhotos/dummy1.png" width=270 height=270></td>
-    <td class="tg-8jgo"><img src="/../_profilePhotos/dummy2.png" width=270 height=270></td>
-    <td class="tg-8jgo"><img src="/../_profilePhotos/dummy3.png" width=270 height=270></td>
-    <td class="tg-8jgo"><img src="/../_profilePhotos/dummy4.png" width=270 height=270></td>
+    <td class="tg-8jgo"><img src="/../_profilePhotos/dummy1.png" style="max-height:100%; max-width:50%"></td>
+    <td class="tg-8jgo"><img src="/../_profilePhotos/dummy2.png" style="max-height:100%; max-width:100%"></td>
+    <td class="tg-8jgo"><img src="/../_profilePhotos/dummy3.png" style="max-height:100%; max-width:50%"></td>
+    <td class="tg-8jgo"><img src="/../_profilePhotos/dummy4.png" style="max-height:100%; max-width:100%"></td>
   </tr>
 </tbody>
 </table>
