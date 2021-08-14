@@ -9,6 +9,7 @@
 - [Research](research/README.md "What we do")
 	* [Aircraft](research/planes.md)
 	* [Bread](research/bread.md)
+	* [Testing](research/imageSlideshow.html)
 - [FAQs](faq.md)
 - [Experimenting](exp/README.md)
 	* [JavaScript](exp/jsjs.md)

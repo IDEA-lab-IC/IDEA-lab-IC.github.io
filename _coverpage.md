@@ -1,13 +1,13 @@
 <!-- _coverpage.md -->
 
+![icon](_media/genericLogo.png)
 # Home Page for IDEA Lab  <small>v0.1</small>
 
-> Created in Markdown
+> [Write some remarks there]
 
 - Fully customisable
 - Hosted on Github
 - Completely modular
 - Vector Graphics Compatible 
 
-<!-- [Enter](https://wong-hl.github.io/urop_prototype) -->
 [Enter](README.md)
