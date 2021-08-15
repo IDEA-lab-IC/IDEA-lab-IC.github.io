@@ -35,7 +35,7 @@
     <style>
       :root {
         /* Reduce the font size */
-        --base-font-size: 18px;
+        --base-font-size: 14px;
 
         /* Change the theme color hue (0-360) */
         /* --theme-hue: 325; */
@@ -146,6 +146,8 @@
           style: 'text-align: right;',
           class: 'className',
         },
+
+
         vueComponents: {
           'button-counter': {
             template:
@@ -188,10 +190,38 @@
             },
 
           },
+
           methods: {
             hello: function () {
               alert(this.message);
             },
+            
+            // plusSlides: function(n) {
+            //   showSlides(slideIndex +=n);
+            // },
+
+            // currentSlide: function(n){
+            //   showSlides(slideIndex = n);
+            // },
+
+            // showSlides: function(n){
+            //   var i;
+            //   var slides = document.getElementsByClassName("mySlides");
+            //   var dots = document.getElementsByClassName("dot");
+            //   if (n > slides.length) {slideIndex = 1}    
+            //   if (n < 1) {slideIndex = slides.length}
+            //   for (i = 0; i < slides.length; i++) {
+            //       slides[i].style.display = "none";  
+            //   }
+            //   for (i = 0; i < dots.length; i++) {
+            //       dots[i].className = dots[i].className.replace(" active", "");
+            //   }
+            //   slides[slideIndex-1].style.display = "block";  
+            //   dots[slideIndex-1].className += " active";
+              
+            // },
+
+
           },
         },
 
@@ -203,7 +233,9 @@
               };
             },
           },
+
         },
+
         plugins: [
           function (hook, vm) {
             hook.doneEach(function (html) {
@@ -215,6 +247,34 @@
         ]
 
       };
+
+      var slideIndex = 1;
+      showSlides(slideIndex);
+      
+      function plusSlides(n) {
+        showSlides(slideIndex += n);
+      }
+      
+      function currentSlide(n) {
+        showSlides(slideIndex = n);
+      }
+      
+      function showSlides(n) {
+        var i;
+        var slides = document.getElementsByClassName("mySlides");
+        var dots = document.getElementsByClassName("dot");
+        if (n > slides.length) {slideIndex = 1}    
+        if (n < 1) {slideIndex = slides.length}
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex-1].style.display = "block";  
+        dots[slideIndex-1].className += " active";
+      };
+
     </script>
     <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="prism.js"></script>
@@ -231,7 +291,7 @@
     <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
 
-    <script>
+    <!-- <script>
       var slideIndex = 1;
       showSlides(slideIndex);
       
@@ -258,7 +318,7 @@
         slides[slideIndex-1].style.display = "block";  
         dots[slideIndex-1].className += " active";
       }
-      </script>
+      </script> -->
 
   </body>
 

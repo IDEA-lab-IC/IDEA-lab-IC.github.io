@@ -130,4 +130,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
 
-
+<script>
+        var slideIndex = 1;
+      showSlides(slideIndex);
+</script>
