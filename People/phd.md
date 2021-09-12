@@ -11,27 +11,29 @@ For each person, will also list the college email and LindedIn Profile link.
 <h3> XXX </h3>
 <a href="#" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <a href="#" style="text-decoration: none;" title="Twitter" class="twitter"><i class="fa fa-twitter fa-fw"></i> Tweet</a>
-<div class="container">
+<div class="square">
 	<div>
-		<img src="/../_profilePhotos/dummy1.png" width=1200 height=120
-				alt="PhD1">
+		<img src="/../_profilePhotos/dummy1.png" width=120 height=150
+				alt="HoG1">
 	</div>
-	<div class="text">
+	
+	<p>
 		Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales. Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
-	</div>
+	</p>
 </div>
 
 <hr>
 <h3> Mr. Bohan PENG </h3>
 <a href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<div class="container">
-    <div>
-        <img src="/../_profilePhotos/bohan.jpg" width=1200 height=150
-                alt="PhD_Bohan">
-    </div>
-	<div class="text">
-		Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales. Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/bohan.jpg" width=120 height=150
+				alt="HoG1">
 	</div>
+	
+	<p>
+		My area of research is in applying machine learning to design for additive manufacturing. The objective is to improve the efficiency of additive manufacturing by reducing the need for unnecessary support structures and improving the print success rate. It is inspired by my experience as an AM/Repair design engineer during my year-long industrial placement at Airbus. Devising a systematic tool to analyse and improve AM part's printability at the design stage will significantly unleash the full potential of additive manufacturing. With the improved printability and potentially the reduced need for support structure, the cost and waste associated with additive manufacturing will be reduced, making it more apt as the core manufacturing technique for Industry 4.0 and the transition towards zero emission. Machine learning is applied with the aim to reduce the lengthy iterations with the conventional numerical method and its potential capability of extracting the design rules that are not explicitly formulated from the training data as obtained from successful and unsuccessful prints.
+	</p>
 </div>
 
 <!-- <img src="/../_profilePhotos/bohan.jpg" width=120 height=150
@@ -51,20 +53,35 @@ src="/../_media/linkedinButton.jpg" width=48 height=24 border="border of the ima
 href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" > -->
 
 <style>
-    .container {
+    /* .container {
         display: flex;
         align-items: left;
-        /* justify-content: top; */
-      }
-    .text {
+        justify-content: top;
+      } */
+    /* .text {
     padding-left: 10px;
-    }
+    } */
 
-    p {
+    /* p {
         text-align: justify;
         overflow: hidden;
         zoom:1;
-    }
+    } */
+
+	body {
+		margin: 0px;
+		text-align: left;
+	}
+
+	img {
+		float: left;
+		margin: 8px;
+	}
+	p {
+		padding-left: 5px;
+		text-align: justify;
+		font-size: 16px;
+	}
 
    	.btn-linkedin {
 	  background: #0E76A8;
