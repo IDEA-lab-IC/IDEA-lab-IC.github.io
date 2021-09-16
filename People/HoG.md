@@ -22,6 +22,6 @@
 	}
 	p {
 		text-align: justify;
-		font-size: 14px;
+		font-size: 16px;
 	}
 </style>
