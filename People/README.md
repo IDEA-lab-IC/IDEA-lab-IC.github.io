@@ -9,47 +9,11 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/dummy1.png" alt="Jane" style="width:100%">
+      <img src="../_profilePhotos/dummy1.png" alt="Ajit" style="width:100%">
       <div class="container">
-        <h4>Jane Doe</h4>
-        <p class="title">Title</p>
-        <p>(20XX-20XX)</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="../_profilePhotos/dummy2.png" alt="Mike" style="width:100%">
-      <div class="container">
-        <h4>Mike Ross</h4>
-        <p class="title">Title</p>
-        <p>(20XX-20XX)</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="../_profilePhotos/dummy3.png" alt="Mike" style="width:100%">
-      <div class="container">
-        <h4>Mike Ross</h4>
-        <p class="title">Title</p>
-        <p>(20XX-20XX)</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <img src="../_profilePhotos/dummy4.png" alt="John" style="width:100%">
-      <div class="container">
-        <h4>John Doe</h4>
-        <p class="title">Title</p>
-        <p>(20XX-20XX)</p>
+        <h4>Ajit Panesar</h4>
+        <p class="title">Head of IDEA Lab</p>
+        <p>(20XX-Present)</p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>
@@ -59,11 +23,25 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/dummy1.png" alt="Jane" style="width:100%">
+      <img src="../_profilePhotos/dummy1.png" alt="Saeed" style="width:100%">
       <div class="container">
-        <h4>Jane Doe</h4>
-        <p class="title">Title</p>
-        <p>(20XX-20XX)</p>
+        <h4>Saeed Zare Chavoshi</h4>
+        <p class="title">Post Doctoral Research Associates</p>
+        <p>(2021-Present)</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="../_profilePhotos/janos.jpg" alt="János" style="width:100%">
+      <div class="container">
+        <h4>János Plocher</h4>
+        <p class="title">PhD Researcher</p>
+        <p>(2016-Present)</p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>
@@ -71,10 +49,60 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 
   <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/dummy1.png" alt="Mike" style="width:100%">
+      <img src="../_profilePhotos/dummy3.png" alt="Amber" style="width:100%">
       <div class="container">
-        <h4>Mike Ross</h4>
-        <p class="title">Title</p>
+        <h4>Amber Wang</h4>
+        <p class="title">PhD Researcher</p>
+        <p>(2020-Present)</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="../_profilePhotos/bohan.jpg" alt="Bohan" style="width:100%">
+      <div class="container">
+        <h4>Bohan Peng</h4>
+        <p class="title">PhD Researcher</p>
+        <p>(2021-Present)</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="../_profilePhotos/dummy3.png" alt="Pat" style="width:100%">
+      <div class="container">
+        <h4>Piyapat Jameekornkul</h4>
+        <p class="title">PhD Researcher</p>
+        <p>(2021-20XX)</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="../_profilePhotos/dummy1.png" alt="Chanhui" style="width:100%">
+      <div class="container">
+        <h4>Chanhui Lee</h4>
+        <p class="title">PhD alumnus</p>
+        <p>(2017-2021)</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="../_profilePhotos/dummy3.png" alt="Marie" style="width:100%">
+      <div class="container">
+        <h4>Marie Ross</h4>
+        <p class="title">PhD alumna</p>
         <p>(20XX-20XX)</p>
         <p><button class="button">Contact</button></p>
       </div>

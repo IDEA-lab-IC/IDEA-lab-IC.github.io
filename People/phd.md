@@ -23,12 +23,26 @@ For each person, will also list the college email and LindedIn Profile link.
 </div>
 
 <hr>
+<h3> Mr. János PLOCHER </h3>
+<a href="https://www.linkedin.com/in/j%C3%A1nos-plocher-76ab60127/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/janos.jpg" width=120 height=160
+				alt="János">
+	</div>
+	
+	<p>
+		Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales. Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
+	</p>
+</div>
+
+<hr>
 <h3> Mr. Bohan PENG </h3>
 <a href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <div class="square">
 	<div>
-		<img src="/../_profilePhotos/bohan.jpg" width=120 height=150
-				alt="HoG1">
+		<img src="/../_profilePhotos/bohan.jpg" width=120 height=160
+				alt="Bohan">
 	</div>
 	
 	<p>

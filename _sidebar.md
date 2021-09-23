@@ -1,6 +1,7 @@
 <h1> Quick Navigation </h1> 
 
 - [Welcome!](README.md)
+- [News](News/README.md "What's New")
 - [People](People/README.md "Who's in the group?")
 	* [Head of IDEA Lab](People/HoG.md)
 	* [Postdoc. RA](People/postdoc.md)
