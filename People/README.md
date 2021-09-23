@@ -77,7 +77,7 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
       <div class="container">
         <h4>Piyapat Jameekornkul</h4>
         <p class="title">PhD Researcher</p>
-        <p>(2021-20XX)</p>
+        <p>(2021-Present)</p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>
