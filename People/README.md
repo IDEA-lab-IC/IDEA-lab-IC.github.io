@@ -9,12 +9,18 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/dummy1.png" alt="Ajit" style="width:100%">
+      <a href="https://idea-lab-ic.github.io/#/People/HoG">
+        <img src="../_profilePhotos/dummy1.png" alt="Ajit" style="width:100%">
+      </a>
       <div class="container">
         <h4>Ajit Panesar</h4>
         <p class="title">Head of IDEA Lab</p>
         <p>(20XX-Present)</p>
-        <p><button class="button">Contact</button></p>
+        <p>
+        <a href="mailto:a.panesar@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
       </div>
     </div>
   </div>
@@ -23,12 +29,18 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/dummy1.png" alt="Saeed" style="width:100%">
+      <a href="https://idea-lab-ic.github.io/#/People/postdoc">
+        <img src="../_profilePhotos/dummy1.png" alt="Saeed" style="width:100%">
+      </a>
       <div class="container">
         <h4>Saeed Zare Chavoshi</h4>
         <p class="title">Post Doctoral Research Associates</p>
         <p>(2021-Present)</p>
-        <p><button class="button">Contact</button></p>
+        <p>
+        <a href="mailto:s.zare@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
       </div>
     </div>
   </div>
@@ -37,48 +49,72 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/janos.jpg" alt="János" style="width:100%">
+      <a href="https://idea-lab-ic.github.io/#/People/phd">
+        <img src="../_profilePhotos/janos.jpg" alt="János" style="width:100%">
+      </a>
       <div class="container">
         <h4>János Plocher</h4>
         <p class="title">PhD Researcher</p>
         <p>(2017-Present)</p>
-        <p><button class="button">Contact</button></p>
+        <p>
+        <a href="mailto:janos.plocher16@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/dummy3.png" alt="Amber" style="width:100%">
+      <a href="https://idea-lab-ic.github.io/#/People/phd">
+        <img src="../_profilePhotos/dummy3.png" alt="Amber" style="width:100%">
+      </a>
       <div class="container">
         <h4>Amber Wang</h4>
         <p class="title">PhD Researcher</p>
         <p>(2020-Present)</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <img src="../_profilePhotos/bohan.jpg" alt="Bohan" style="width:100%">
-      <div class="container">
-        <h4>Bohan Peng</h4>
-        <p class="title">PhD Researcher</p>
-        <p>(2021-Present)</p>
-        <p><button class="button">Contact</button></p>
+        <p>
+        <a href="mailto:a.wang20@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/dummy3.png" alt="Pat" style="width:100%">
+      <a href="https://idea-lab-ic.github.io/#/People/phd">
+        <img src="../_profilePhotos/bohan.jpg" alt="Bohan" style="width:100%">
+      </a>
+      <div class="container">
+        <h4>Bohan Peng</h4>
+        <p class="title">PhD Researcher</p>
+        <p>(2021-Present)</p>
+        <p>
+        <a href="mailto:bohan.peng16@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/phd">
+        <img src="../_profilePhotos/dummy3.png" alt="Pat" style="width:100%">
+      </a>
       <div class="container">
         <h4>Piyapat Jameekornkul</h4>
         <p class="title">PhD Researcher</p>
         <p>(2021-Present)</p>
-        <p><button class="button">Contact</button></p>
+        <p>
+        <a href="mailto:piyapat.jameekornkul20@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
       </div>
     </div>
   </div>
@@ -87,30 +123,43 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/dummy1.png" alt="Chanhui" style="width:100%">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni">
+        <img src="../_profilePhotos/dummy1.png" alt="Chanhui" style="width:100%">
+      </a>
       <div class="container">
         <h4>Chanhui Lee</h4>
         <p class="title">PhD alumnus</p>
         <p>(2017-2021)</p>
-        <p><button class="button">Contact</button></p>
+        <p>
+        <a href="mailto: " target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
       </div>
     </div>
   </div>
 
-  <div class="column">
+  <!-- <div class="column">
     <div class="card">
-      <img src="../_profilePhotos/dummy3.png" alt="Marie" style="width:100%">
+      <a href="https://idea-lab-ic.github.io/#/People/phd">
+        <img src="../_profilePhotos/dummy3.png" alt="Marie" style="width:100%">
+      </a>
       <div class="container">
         <h4>Marie Ross</h4>
         <p class="title">PhD alumna</p>
         <p>(20XX-20XX)</p>
-        <p><button class="button">Contact</button></p>
+        <p>
+        <a href="mailto: " target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
       </div>
     </div>
-  </div>
+  </div> -->
+
 </div>
 
-As shown, the profile photos should have the same size (at least aspect ratio) so that the 'cards' are aligned.
+
 
 <style>
 /* Three columns side by side */
