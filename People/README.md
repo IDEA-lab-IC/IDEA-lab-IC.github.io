@@ -29,7 +29,7 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 <div class="row">
   <div class="column">
     <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/postdoc">
+      <a href="https://idea-lab-ic.github.io/#/People/postdoc#saeed">
         <img src="../_profilePhotos/dummy1.png" alt="Saeed" style="width:100%">
       </a>
       <div class="container">
@@ -49,7 +49,7 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 <div class="row">
   <div class="column">
     <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/phd">
+      <a href="https://idea-lab-ic.github.io/#/People/phd#janos">
         <img src="../_profilePhotos/janos.jpg" alt="János" style="width:100%">
       </a>
       <div class="container">
@@ -67,7 +67,7 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 
   <div class="column">
     <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/phd">
+      <a href="https://idea-lab-ic.github.io/#/People/phd#amber">
         <img src="../_profilePhotos/dummy3.png" alt="Amber" style="width:100%">
       </a>
       <div class="container">
@@ -85,7 +85,7 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 
   <div class="column">
     <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/phd">
+      <a href="https://idea-lab-ic.github.io/#/People/phd#bohan">
         <img src="../_profilePhotos/bohan.jpg" alt="Bohan" style="width:100%">
       </a>
       <div class="container">
@@ -103,7 +103,7 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
 
   <div class="column">
     <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/phd">
+      <a href="https://idea-lab-ic.github.io/#/People/phd#pat">
         <img src="../_profilePhotos/dummy3.png" alt="Pat" style="width:100%">
       </a>
       <div class="container">
