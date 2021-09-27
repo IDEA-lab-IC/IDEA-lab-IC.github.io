@@ -13,8 +13,9 @@
 	* [DfAM](research/dfam.md)
 	* [Testing](research/testing.md)
 <!-- - [FAQs](faq.md) -->
-<!-- - [Experimenting](exp/README.md)
+- [Experimenting](exp/README.md)
 	* [JavaScript](exp/jsjs.md)
-	* [Embeding](exp/embed.md) -->
+	* [Embeding](exp/embed.md)
+	* [ImageSlideShow](exp/imageSlideShow.md)
 <!-- - [Useful Links](useful_links.md) -->
 
