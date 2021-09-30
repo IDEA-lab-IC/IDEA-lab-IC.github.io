@@ -1,11 +1,6 @@
 <h1> PhD Researchers </h1>
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-We present the PhDs' photos and self intro and research areas here. Arrange horizontally - photo on the left and text on the right; separate different people by a horizontal line.
-
-For each person, will also list the college email and LindedIn Profile link.
-
 <hr>
 <h3 id="janos"> Mr. János PLOCHER </h3>
 <a href="https://www.linkedin.com/in/j%C3%A1nos-plocher-76ab60127/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
@@ -26,7 +21,7 @@ For each person, will also list the college email and LindedIn Profile link.
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
-		<img src="/../_profilePhotos/dummy3.png" width=120 height=150
+		<img src="/../_profilePhotos/dummy3.png" width=120 height=160
 				alt="Amber">
 	</div>
 	
@@ -55,7 +50,7 @@ For each person, will also list the college email and LindedIn Profile link.
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
-		<img src="/../_profilePhotos/dummy3.png" width=120 height=150
+		<img src="/../_profilePhotos/pat.jpg" width=120 height=160
 				alt="Pat">
 	</div>
 	

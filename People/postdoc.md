@@ -1,12 +1,7 @@
 <h1> Post Doctoral Research Associates </h1>
-
-We present the Post Docs' photos and self intro and research area here. Arrange horizontally - photo on the left and text on the right; separate different people by a horizontal line.
-
-For each person, will also list the college email and LindedIn Profile link.
-
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+<hr>
 <h3 id="saeed"> Dr. Saeed Zare CHAVOSHI </h3>
 <!-- <a href="#" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->

@@ -1,11 +1,5 @@
 <h1> Members of IDEA Lab </h1>
-
-Shall we show our members' faces here (grouped in post doc, phd, alumni) and create links to the individual's pages?
-
-For the individual pages, I am thinking one page for the head(s) of the group (so just Ajit occupying the whole page at the moment), one page for the post doc, one page for the phds, and one for the alumni.
-
-<h2>Meet the Team</h2>
-
+<hr>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -104,7 +98,7 @@ For the individual pages, I am thinking one page for the head(s) of the group (s
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/phd#pat">
-        <img src="../_profilePhotos/dummy3.png" alt="Pat" style="width:100%">
+        <img src="../_profilePhotos/pat.jpg" alt="Pat" style="width:100%">
       </a>
       <div class="container">
         <h4>Piyapat Jameekornkul</h4>

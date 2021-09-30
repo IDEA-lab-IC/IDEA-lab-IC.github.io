@@ -1,34 +1,33 @@
 <h1> Good {{timeOfDay}}! Welcome to IDEA Lab! </h1>
 
-[We can add a general and brief introduction of the group here]
+IDEA Lab is established in 20XX at Imperial College London. Consist of ..., the group's work mainly focuses on .... Furthermore, ...
 
-The above greeting is dynamically determined by the time of day.
-Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
+For more details of what we do in the group, please refer to the <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/README">Research</a> section.
 
-<h3> There's emojis support :smile: </h3>
+<h2> Publications </h2>
 
-More emojis like :joy: or :100:
 
-<h3> Automatic Image Slideshow </h3>
+
+<h2> Highlights </h2>
 <!-- AUTOMATIC SLIDESHOW -->
 <div class="slideshow-container">
 
   <div class="mySlides fade">
     <!-- <div class="numbertext">1 / 3</div> -->
-    <img src="/../_media/bread.jpg" style="width:100%">
-    <div class="text">Caption Text</div>
+    <img src="/../_media/Computational-Tools-event.jpg" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
   </div>
 
   <div class="mySlides fade">
     <!-- <div class="numbertext">2 / 3</div> -->
     <img src="/../_media/genericBackground.jpg" style="width:100%">
-    <div class="text">Caption Two</div>
+    <!-- <div class="text">Caption Two</div> -->
   </div>
 
   <div class="mySlides fade">
     <!-- <div class="numbertext">3 / 3</div> -->
     <img src="/../_media/genericLogo.png" style="width:100%">
-    <div class="text">Caption Three</div>
+    <!-- <div class="text">Caption Three</div> -->
   </div>
 
   <!-- <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -45,12 +44,11 @@ More emojis like :joy: or :100:
 
 
 
-<!-- <h2> Good {{timeOfDay}}! </h2> -->
+<!-- <h2> Past Events </h2> -->
 
 
 
-Maybe we can embrace open-source and get people to help us spot issues?
-Spot any mistakes in the website? Or is there outdated information? Feel free to raise an issue on the Github and we will work on it!
+INSERT LINKS TO THE GROUP ACCOUNTS (IF THERE ARE ANY)
 
 
 
