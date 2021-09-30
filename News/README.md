@@ -9,4 +9,4 @@ DfAM is slowly but steadily seeing a shift from a more expertise driven discipli
 
 This thematic area intends to bring experts, practitioners and enthusiasts alike from academia and industry to help define what role does computational tools play in the future direction of DfAM.
 
-For more information or to sign up for the event, please visit the event website: <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/events/computational-tools-pushing-the-frontiers-of-dfam/">https://www.designforam.ac.uk/events/computational-tools-pushing-the-frontiers-of-dfam/</a>
+For more information or to sign up for the event, please visit the event website: <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/events/computational-tools-pushing-the-frontiers-of-dfam/" target = "_blank">https://www.designforam.ac.uk/events/computational-tools-pushing-the-frontiers-of-dfam/</a>
