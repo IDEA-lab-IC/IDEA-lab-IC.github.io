@@ -46,7 +46,7 @@
 
 <hr>
 <h3 id="pat"> Ms. Piyapat JAMEEKORNKUL </h3>
-<!-- <a href="#" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
+<a href="https://th.linkedin.com/in/piyapat-jameekornkul-861670175" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
@@ -55,7 +55,7 @@
 	</div>
 	
 	<p>
-		Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales. Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
+		I developed an interest in numerical simulation and machine learning during my study as an aeronautical engineer. I believe that optimising the process is the crucial part of efficiently solving problems. Those interests were combined to further the additive manufacturing field in my recent project ‘AI Design-tool development: Structure with the embedded system’, which is based on the coupling strategy between structure and electronics system characteristics. The project’s objective is to use machine learning as a tool to optimise the computational time consumed for the design framework. My current research focuses on lattice structure in AM and machine learning to optimise the MFAM design process for the industry. For further details regarding my current research please see <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/dfam">Research</a> Page. 
 	</p>
 </div>
 

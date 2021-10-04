@@ -30,8 +30,8 @@ For more details of what we do in the group, please refer to the <a style = " wh
     <!-- <div class="text">Caption Three</div> -->
   </div>
 
-  <!-- <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a> -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
 <!-- <br> -->
@@ -184,7 +184,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 2000); // Change image every 2 seconds
+  setTimeout(showSlides, 3000); // Change image every 3 seconds
 }
 
 </script>
