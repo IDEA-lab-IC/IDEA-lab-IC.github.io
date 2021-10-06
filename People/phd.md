@@ -21,12 +21,12 @@
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
-		<img src="/../_profilePhotos/dummy3.png" width=120 height=160
+		<img src="/../_profilePhotos/amber.jpg" width=120 height=160
 				alt="Amber">
 	</div>
 	
 	<p>
-		Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales. Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
+		My investigation focuses on applying Machine Learning (ML) in Design for Additive Manufacturing (DfAM), especially in Design of lattice structures. Lattice structures are architectures constructed by spatial periodic cells. The controllable shape and size, the high strength-to-weight ratio, and the tuneable mechanical properties have brought lattice structures greater attention. I'm trying to seek for sophisticated lattice generation methods which could enhance the structural performance and robustness. I believe that lattice structures can approximate the high performance of Topology Optimisation (TO) design, but shrink the time required for generating high-resolution structures. I'm also looking forward to exploiting other functions and applications of lattices.
 	</p>
 </div>
 

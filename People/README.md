@@ -62,7 +62,7 @@
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/phd#amber">
-        <img src="../_profilePhotos/dummy3.png" alt="Amber" style="width:100%">
+        <img src="../_profilePhotos/amber.jpg" alt="Amber" style="width:100%">
       </a>
       <div class="container">
         <h4>Amber Wang</h4>
