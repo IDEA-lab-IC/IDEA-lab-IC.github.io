@@ -9,6 +9,7 @@
 	* [Alumni](People/alumni.md)
 	<!-- * [Testing](People/test.md) -->
 - [Research](research/README.md "What we do")
+	* [Optimisation](research/optimisation.md)
 	* [Lattice Structure](research/Lattice.md)
 	* [DfAM](research/dfam.md)
 	<!-- * [Testing](research/testing.md) -->
