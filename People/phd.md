@@ -4,6 +4,8 @@
 <hr>
 <h3 id="janos"> Mr. János PLOCHER </h3>
 <a href="https://www.linkedin.com/in/j%C3%A1nos-plocher-76ab60127/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://scholar.google.com/citations?user=W8pi7-AAAAAJ&hl=de" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
+<a href="https://www.researchgate.net/profile/Janos-Plocher" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a>
 <div class="square">
 	<div>
 		<img src="/../_profilePhotos/janos.jpg" width=120 height=160
@@ -11,7 +13,7 @@
 	</div>
 	
 	<p>
-		Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales. Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
+		With a B.Sc. in Sports engineering from the Technical University Chemnitz and a M.Sc. in Composite Materials from Imperial College London, my background is in mechanical engineering and material science. Being a passionate climber, runner, and golfer, I have always been fascinated by the technology and materials used to develop better performing and lighter equipment. With the PhD research into additive manufacturing of composites, I had the opportunity to work on lightweight structures that have potential applications in this field. Furthermore, I am fascinated by the immense potential of additive manufacturing, transforming the way we design products and offering new and exciting solutions. After having collected significant experiences in the experimental testing of materials (polymers, metals, and ceramics), the motivation for this research also stemmed from the desire to expand my knowledge in the numerical simulation. 
 	</p>
 </div>
 
@@ -128,4 +130,37 @@
     .linkedin {
         background-color: #0077b5;
     }
+	.Google{
+		background-color: #DB4437;
+		color: #fff;
+		border-width: 1px;
+		border-style: solid;
+		border-color: #084461;
+		border-radius: 0;
+	}
+	.Google:link, .Google:visited {
+	  	color: #fff;
+	}
+	.Google:active, .Google:hover {
+		background: #DB4437;
+		color: #fff;
+	}
+
+	.researchGate{
+		background-color: #0cb;
+		color: #FFFFFF;
+		border-width: 1px;
+		border-style: solid;
+		border-color: #084461;
+		border-radius: 0;
+	}
+	.researchGate:link, .researchGate:visited {
+	  	color: #FFFFFF;
+	}
+	.researchGate:active, .researchGate:hover {
+		background: #0cb;
+		color: #fff;
+	}
+
+	
 </style>
