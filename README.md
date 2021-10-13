@@ -6,7 +6,9 @@ For more details of what we do in the group, please refer to the <a style = " wh
 
 <h2> Publications </h2>
 
+J. Plocher, A. Panesar, <i> Review on design and structural optimisation in additive manufacturing: Towards next-generation lightweight structures</i>, Mater. Des. 183 (2019), 108164. https://doi.org/10.1016/j.matdes.2019.108164
 
+J. Plocher, A. Panesar, <i> Effect of density and unit cell size grading on the stiffness and energy absorption of short fibre-reinforced functionally graded lattice structures</i>, Additive Manufacturing Journal, Volume 33, (2020), 101171. https://doi.org/10.1016/j.addma.2020.101171 
 
 <h2> Highlights </h2>
 <!-- AUTOMATIC SLIDESHOW -->
@@ -20,13 +22,13 @@ For more details of what we do in the group, please refer to the <a style = " wh
 
   <div class="mySlides fade">
     <!-- <div class="numbertext">2 / 3</div> -->
-    <img src="/../_media/genericBackground.jpg" style="width:100%">
+    <img src="/../_media/optiReview.jpg" style="width:100%">
     <!-- <div class="text">Caption Two</div> -->
   </div>
 
   <div class="mySlides fade">
     <!-- <div class="numbertext">3 / 3</div> -->
-    <img src="/../_media/genericLogo.png" style="width:100%">
+    <img src="/../_media/lattice.png" style="width:100%">
     <!-- <div class="text">Caption Three</div> -->
   </div>
 

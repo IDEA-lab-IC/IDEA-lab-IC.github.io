@@ -4,6 +4,7 @@
 The research in design for additive manufacturing mainly focuses on improving the part printability at the design stage. Furthermore, we also investigate the possibility of incorporating AM design considerations with other design techniques such as topology optimisation. The ongoing researches in this area within the group are presented below.
 </div>
 
+<hr>
 <h3> Support-free, topologically optimised 3D structure generation with Machine Learning</h3>
 
 <div style="text-align: justify"> 
