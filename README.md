@@ -1,6 +1,6 @@
 <h1> Good {{timeOfDay}}! Welcome to IDEA Lab! </h1>
 
-IDEA Lab is established in 20XX at Imperial College London. Consist of ..., the group's work mainly focuses on .... Furthermore, ...
+Innovative DEsign & Advanced manufacturing (IDEA) Lab is established in 2021 at Imperial College London. Consist of 6 PhD Researchers, 1 post-doctoral researcher, the group's work revolves around 3 main categories: Multifunctional Meta-materials, Optimisation and Machine Learning in Design for Additive Manufacturing, and Additive Manufacturing. Despite of being young, the group has produced 2 review papers with over 200 citations in the last 2 years. 
 
 For more details of what we do in the group, please refer to the <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/README">Research</a> section.
 
