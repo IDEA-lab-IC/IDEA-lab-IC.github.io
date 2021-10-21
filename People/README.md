@@ -29,7 +29,7 @@
         <p class="title">Post Doctoral Research Associates</p>
         <p>(2021-Present)</p>
         <p>
-        <a href="mailto:s.zare@imperial.ac.uk" target = "_blank">
+        <a href="mailto:s.zare@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
         </a>
         </p>
@@ -52,7 +52,7 @@
         <p class="title">PhD Researcher</p>
         <p>(2017-Present)</p>
         <p>
-        <a href="mailto:janos.plocher16@imperial.ac.uk" target = "_blank">
+        <a href="mailto:janos.plocher16@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
         </a>
         </p>
@@ -70,7 +70,7 @@
         <p class="title">PhD Researcher</p>
         <p>(2017-Present)</p>
         <p>
-        <a href="mailto:XXXXXX" target = "_blank">
+        <a href="mailto:y.hou17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
         </a>
         </p>
@@ -88,7 +88,7 @@
         <p class="title">PhD Researcher</p>
         <p>(2020-Present)</p>
         <p>
-        <a href="mailto:a.wang20@imperial.ac.uk" target = "_blank">
+        <a href="mailto:a.wang20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
         </a>
         </p>
@@ -106,7 +106,7 @@
         <p class="title">PhD Researcher</p>
         <p>(2021-Present)</p>
         <p>
-        <a href="mailto:bohan.peng16@imperial.ac.uk" target = "_blank">
+        <a href="mailto:bohan.peng16@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
         </a>
         </p>
@@ -128,7 +128,7 @@
         <p class="title">PhD Researcher</p>
         <p>(2021-Present)</p>
         <p>
-        <a href="mailto:piyapat.jameekornkul20@imperial.ac.uk" target = "_blank">
+        <a href="mailto:piyapat.jameekornkul20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
         </a>
         </p>
