@@ -18,9 +18,7 @@
       </div>
     </div>
   </div>
-</div>
 
-<div class="row">
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/postdoc#saeed">
@@ -38,7 +36,10 @@
       </div>
     </div>
   </div>
+
 </div>
+
+
 
 <div class="row">
   <div class="column">
@@ -52,6 +53,24 @@
         <p>(2017-Present)</p>
         <p>
         <a href="mailto:janos.plocher16@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/phd#yingwei">
+        <img src="../_profilePhotos/dummy1.jpg" alt="Yingwei" style="width:100%">
+      </a>
+      <div class="container">
+        <h4>Amber Wang</h4>
+        <p class="title">PhD Researcher</p>
+        <p>(2017-Present)</p>
+        <p>
+        <a href="mailto:XXXXXX" target = "_blank">
           <button class="button">Contact</button>
         </a>
         </p>
@@ -95,6 +114,10 @@
     </div>
   </div>
 
+  
+</div>
+
+<div class="row">
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/phd#pat">
@@ -112,6 +135,7 @@
       </div>
     </div>
   </div>
+
 </div>
 
 <div class="row">
