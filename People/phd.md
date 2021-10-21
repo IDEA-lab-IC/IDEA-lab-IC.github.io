@@ -34,7 +34,7 @@
 
 <hr>
 <h3 id="amber"> Ms. Amber WANG </h3>
-<!-- <a href="#" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
+<a href="https://www.linkedin.com/in/jier-wang-b8a755223" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
@@ -49,7 +49,8 @@
 
 <hr>
 <h3 id="bohan"> Mr. Bohan PENG </h3>
-<a href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
+<a href="https://www.linkedin.com/in/bohan-peng-573724147/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <div class="square">
 	<div>
 		<img src="/../_profilePhotos/bohan.jpg" width=120 height=160

@@ -4,7 +4,7 @@
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/HoG">
-        <img src="../_profilePhotos/dummy1.png" alt="Ajit" style="width:100%">
+        <img src="../_profilePhotos/ajit.jpg" alt="Ajit" style="width:100%">
       </a>
       <div class="container">
         <h4>Ajit Panesar</h4>
@@ -66,7 +66,7 @@
         <img src="../_profilePhotos/dummy1.png" alt="Yingwei" style="width:100%">
       </a>
       <div class="container">
-        <h4>Amber Wang</h4>
+        <h4>Yingwei Hou</h4>
         <p class="title">PhD Researcher</p>
         <p>(2017-Present)</p>
         <p>

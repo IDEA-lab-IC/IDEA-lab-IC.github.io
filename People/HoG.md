@@ -8,7 +8,7 @@
 
 <div class="square">
 	<div>
-		<img src="/../_profilePhotos/dummy1.png" width=140 height=140
+		<img src="/../_profilePhotos/ajit.jpg" width=120 height=160
 				alt="HoG1">
 	</div>
 	
