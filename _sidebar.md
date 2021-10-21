@@ -9,9 +9,9 @@
 	* [Alumni](People/alumni.md)
 	<!-- * [Testing](People/test.md) -->
 - [Research](research/README.md "What we do")
-	* [Optimisation](research/optimisation.md)
-	* [Lattice Structure](research/Lattice.md)
-	* [DfAM](research/dfam.md)
+	* [Additive Manufacturing](research/additiveManu.md)
+	* [Opti. and ML in DfAM](research/OptiMLDfAM.md)
+	* [Multi-Func. Meta-Materials](research/MFMM.md)
 	<!-- * [Testing](research/testing.md) -->
 <!-- - [FAQs](faq.md) -->
 <!-- - [Experimenting](exp/README.md)

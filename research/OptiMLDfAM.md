@@ -1,7 +1,6 @@
-<h1> Design for Additive Manufacturing </h1>
-
+<h1> Optimisation & Machine Learning in Design for Additive Manufacturing</h1>
 <div style="text-align: justify"> 
-The research in design for additive manufacturing mainly focuses on improving the part printability at the design stage. Furthermore, we also investigate the possibility of incorporating AM design considerations with other design techniques such as topology optimisation. The ongoing researches in this area within the group are presented below.
+Our current researches in the area of optimisation and adoption of machine learning in DfAM mainly focus on the generation of function-graded materials (FGM) and MDO as well as the generation of support-free, topologically optimised structures with machine learning.
 </div>
 
 <hr>
@@ -14,3 +13,4 @@ Many additive manufacturing processes require support structures for features wi
 
 Hence, we propose the use of a Generative Adversarial Network (GANs) to replace the need for the many iterations and therefore reduce the computing time significantly. More specifically, the GANs model that we adopted is a conditional, deeply convoluting GANs. It takes in the strain field of the part after the first "topology optimisation + AM filter" iteration as the input and generate the topologically optimised and support-free structure within seconds. Our train models works with both 2D and 3D structures.
 </div>
+

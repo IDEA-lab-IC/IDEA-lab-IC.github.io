@@ -3,8 +3,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <hr>
 <h3> Dr. Ajit PANESAR </h3>
-<!-- <a href="#" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
-<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<a href="https://www.linkedin.com/in/ajit-panesar-bb986540/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://scholar.google.com/citations?user=owqDRlUAAAAJ&hl=en&oi=ao" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
+<!-- <a href="https://www.researchgate.net/profile/Janos-Plocher" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a> -->
 
 <div class="square">
 	<div>
@@ -13,7 +14,7 @@
 	</div>
 	
 	<p>
-		Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales. Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
+		Ajit is a Senior Lecturer (Assoc. Prof.) in Design for Innovative Manufacturing at Imperial College London focusing on next-generation computational tools that enable 21st century products. His research efforts have been on design-optimisation for light-weighting (incl. meta-materials) and multifunctional Additive Manufacturing (AM). More recently, there has been a strong drive in his group – IDEA lab – on exploiting Machine Learning in Design for AM and applying AM design tools to offer a step change, for example, in the energy sector. He is thrilled to have ongoing collaborations with Catapult Centres, specifically, AMRC, ORE and MTC, and is the recipient of the EPSRC/RCUK Catapult Researchers in Residence fellowship.
 	</p>
 </div>
 
@@ -67,4 +68,21 @@
 	}
     .linkedin {
         background-color: #0077b5;
+	}
+
+	.Google{
+		background-color: #DB4437;
+		color: #fff;
+		border-width: 1px;
+		border-style: solid;
+		border-color: #084461;
+		border-radius: 0;
+	}
+	.Google:link, .Google:visited {
+	  	color: #fff;
+	}
+	.Google:active, .Google:hover {
+		background: #DB4437;
+		color: #fff;
+	}
 </style>

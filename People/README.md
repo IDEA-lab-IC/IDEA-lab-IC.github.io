@@ -9,7 +9,7 @@
       <div class="container">
         <h4>Ajit Panesar</h4>
         <p class="title">Head of IDEA Lab</p>
-        <p>(20XX-Present)</p>
+        <p>(2017-Present)</p>
         <p>
         <a href="mailto:a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
@@ -138,6 +138,7 @@
 
 </div>
 
+<h2> Alumni </h2>
 <div class="row">
   <div class="column">
     <div class="card">
