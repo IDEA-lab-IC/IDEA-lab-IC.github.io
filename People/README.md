@@ -63,7 +63,7 @@
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/phd#yingwei">
-        <img src="../_profilePhotos/dummy1.png" alt="Yingwei" style="width:100%">
+        <img src="../_profilePhotos/yingwei.jpg" alt="Yingwei" style="width:100%">
       </a>
       <div class="container">
         <h4>Yingwei Hou</h4>

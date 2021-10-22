@@ -1,6 +1,6 @@
 <h1> Good {{timeOfDay}}! Welcome to IDEA Lab! </h1>
 
-Innovative DEsign & Advanced manufacturing (IDEA) Lab is established in 2021 at Imperial College London. Consist of 6 PhD Researchers, 1 post-doctoral researcher, the group's work revolves around 3 main categories: Multifunctional Meta-materials, Optimisation and Machine Learning in Design for Additive Manufacturing, and Additive Manufacturing. Despite of being young, the group has produced 2 review papers with over 200 citations in the last 2 years. 
+Innovative DEsign & Advanced manufacturing (IDEA) Lab is established in 2021 at Imperial College London. Consists of 5 PhD researchers, 1 post-doctoral researcher, the group's work revolves around 3 main categories: Multifunctional Meta-materials, Optimisation and Machine Learning in Design for Additive Manufacturing, and Additive Manufacturing. Despite of being young, the group has produced 2 review papers with over 200 citations in the last 2 years. 
 
 For more details of what we do in the group, please refer to the <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/README">Research</a> section.
 
@@ -9,6 +9,8 @@ For more details of what we do in the group, please refer to the <a style = " wh
 J. Plocher, A. Panesar, <i> Review on design and structural optimisation in additive manufacturing: Towards next-generation lightweight structures</i>, Mater. Des. 183 (2019), 108164. https://doi.org/10.1016/j.matdes.2019.108164
 
 J. Plocher, A. Panesar, <i> Effect of density and unit cell size grading on the stiffness and energy absorption of short fibre-reinforced functionally graded lattice structures</i>, Additive Manufacturing Journal, Volume 33, (2020), 101171. https://doi.org/10.1016/j.addma.2020.101171 
+
+D.G. Bekas, Y. Hou, Y. Liu, A. Panesar, <i> 3D printing to enable multifunctionality in polymer-based composites: A review</i>, Composites Part B: Engineering, Volume 179, 2019, 107540, ISSN 1359-8368, https://doi.org/10.1016/j.compositesb.2019.107540.
 
 <h2> Highlights </h2>
 <!-- AUTOMATIC SLIDESHOW -->

@@ -19,16 +19,17 @@
 
 <hr>
 <h3 id="yingwei"> Mr. Yingwei HOU </h3>
-<!-- <a href="#" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
+<a href="http://www.linkedin.com/in/yingwei-hou" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://www.researchgate.net/profile/Yingwei-Hou" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
-		<img src="/../_profilePhotos/dummy1.png" width=120 height=160
+		<img src="/../_profilePhotos/yingwei.jpg" width=120 height=160
 				alt="Yingwei">
 	</div>
 	
 	<p>
-		Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales. Auctor eu augue ut lectus arcu. Mi quis hendrerit dolor magna eget est lorem ipsum. Praesent tristique magna sit amet. Vestibulum lorem sed risus ultricies tristique nulla. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Orci ac auctor augue mauris augue neque. Venenatis urna cursus eget nunc. In hac habitasse platea dictumst vestibulum. Faucibus nisl tincidunt eget nullam non nisi. Velit laoreet id donec ultrices tincidunt arcu non sodales.
+		I like to study polymer material with a BSc in polymer and a MSc in composite science and engineering, respectively. Now my PhD research interest is additive manufacturing of fibre reinforced polymers (FRPs) and investigation on their mechanical performance. Additive manufacturing attracts increasing attention as it develops from fabricating only prototypes to manufacture engineering components. However, the mechanical performance of additively manufactured parts still needs improvement and more relative research efforts are needed. My current study is investigating factors influencing the mechanical performance of FRPs by experimental characterisation. I like to use characterising technologies to analysis the structure of additively manufactured FRPs and investigate how the structure influences the mechanical performance. 
 	</p>
 </div>
 

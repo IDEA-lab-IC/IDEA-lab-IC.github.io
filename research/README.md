@@ -1,7 +1,7 @@
 <h1> Research </h1>
 
 <div style="text-align: justify"> 
-Overview of the ongoing research topics and maybe also a summary of past research outcomes. Might put a slideshow like component to showcase some figures relevant to the researches. And each sub-page can have more details of the research topics.
+The researches carried out within IDEA lab can be categorised into 3 main categories: 1) additive manufacturing; 2) optimisation and machine learning in design for additive manufacturing; 3) multi-functional meta-materials. Within each category, works covering various specific areas are conducted. For more details, please refer to the pages of the categories.
 
 </div>
 

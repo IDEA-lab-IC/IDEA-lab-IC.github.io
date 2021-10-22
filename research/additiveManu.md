@@ -46,6 +46,16 @@ A comprehensive database on strut- and surface-based FGLs was established by tes
 
 J. Plocher, A. Panesar, <i> Effect of density and unit cell size grading on the stiffness and energy absorption of short fibre-reinforced functionally graded lattice structures</i>, Additive Manufacturing Journal, Volume 33, (2020), 101171. https://doi.org/10.1016/j.addma.2020.101171 
 
+<hr>
+<h3> Review on 3D printing to enable multifunctionality in polymer-based composites </h3>
+<div style="text-align: justify"> 
+The employment of 3D printing for the fabrication of advanced multi-functional composites is attracting increased interest of the research community due to the opportunities offered by this technology (i.e. the wide range of materials that can be printed, short time, low costs). Numerous attempts are being presented every year regarding the incorporation of specific functionalities such as conductive, magnetic, embedded circuitry, thermal, sensing and self-healing to composites by employing different 3D printing processes and materials. This review provides an overview of the main functionalities that have been incorporated, homogeneously or locally, to polymer based composite materials via 3D printing. A strong emphasis is laid on the two main pillars enabling functionalisation: additives and printing methods. Finally, promise offered by the maturation of technology and recommendation on research efforts that are imminently needed to fulfil the untapped potential of functional 3D printing is given.
+</div>
+
+<b> Relevant Publications: </b>
+
+D.G. Bekas, Y. Hou, Y. Liu, A. Panesar, <i> 3D printing to enable multifunctionality in polymer-based composites: A review</i>, Composites Part B: Engineering, Volume 179, 2019, 107540, ISSN 1359-8368, https://doi.org/10.1016/j.compositesb.2019.107540.
+
 
 
 <style>
