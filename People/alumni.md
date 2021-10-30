@@ -2,13 +2,13 @@
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <hr>
-<h3> Dr. Chanhui LEE </h3>
+<h3 id="chanhui"> Dr. Chanhui LEE </h3>
 <!-- <a href="#" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
-		<img src="/../_profilePhotos/dummy1.png" width=120 height=150
-				alt="Saeed">
+		<img src="/../_profilePhotos/chanhui.png" width=120 height=160
+				alt="Chanhui">
 	</div>
 	
 	<p>

@@ -18,8 +18,13 @@
       </div>
     </div>
   </div>
+</div>
 
-  <div class="column">
+
+
+<div class="row">
+
+  <!-- <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/postdoc#saeed">
         <img src="../_profilePhotos/dummy1.png" alt="Saeed" style="width:100%">
@@ -35,13 +40,8 @@
         </p>
       </div>
     </div>
-  </div>
+  </div> -->
 
-</div>
-
-
-
-<div class="row">
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/phd#janos">
@@ -142,8 +142,8 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/alumni">
-        <img src="../_profilePhotos/dummy1.png" alt="Chanhui" style="width:100%">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#chanhui">
+        <img src="../_profilePhotos/chanhui.jpg" alt="Chanhui" style="width:100%">
       </a>
       <div class="container">
         <h4>Chanhui Lee</h4>

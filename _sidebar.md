@@ -4,7 +4,7 @@
 - [News](News/README.md "What's New")
 - [People](People/README.md "Who's in the group")
 	* [Head of IDEA Lab](People/HoG.md)
-	* [Postdoc. RA](People/postdoc.md)
+	<!-- * [Postdoc. RA](People/postdoc.md) -->
 	* [PhD Researchers](People/phd.md)
 	* [Alumni](People/alumni.md)
 	<!-- * [Testing](People/test.md) -->
