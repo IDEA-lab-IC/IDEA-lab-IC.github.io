@@ -150,7 +150,7 @@
         <p class="title">PhD alumnus</p>
         <p>(2017-2021)</p>
         <p>
-        <a href="mailto: " target = "_blank">
+        <a href="mailto:c.lee17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
         </a>
         </p>
