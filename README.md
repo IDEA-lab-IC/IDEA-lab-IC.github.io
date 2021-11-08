@@ -52,7 +52,7 @@ D.G. Bekas, Y. Hou, Y. Liu, A. Panesar, <i> 3D printing to enable multifunctiona
 
 
 
-INSERT LINKS TO THE GROUP ACCOUNTS (IF THERE ARE ANY)
+<!-- INSERT LINKS TO THE GROUP ACCOUNTS (IF THERE ARE ANY) -->
 
 
 
