@@ -1,37 +1,7 @@
 <h1> PhD Researchers </h1>
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<hr>
-<h3 id="janos"> Mr. János PLOCHER </h3>
-<a href="https://www.linkedin.com/in/j%C3%A1nos-plocher-76ab60127/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<a href="https://scholar.google.com/citations?user=W8pi7-AAAAAJ&hl=de" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
-<a href="https://www.researchgate.net/profile/Janos-Plocher" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a>
-<div class="square">
-	<div>
-		<img src="/../_profilePhotos/janos.jpg" width=120 height=160
-				alt="János">
-	</div>
-	
-	<p>
-		With a B.Sc. in Sports engineering from the Technical University Chemnitz and a M.Sc. in Composite Materials from Imperial College London, my background is in mechanical engineering and material science. Being a passionate climber, runner, and golfer, I have always been fascinated by the technology and materials used to develop better performing and lighter equipment. With the PhD research into additive manufacturing of composites, I had the opportunity to work on lightweight structures that have potential applications in this field. Furthermore, I am fascinated by the immense potential of additive manufacturing, transforming the way we design products and offering new and exciting solutions. After having collected significant experiences in the experimental testing of materials (polymers, metals, and ceramics), the motivation for this research also stemmed from the desire to expand my knowledge in the numerical simulation. 
-	</p>
-</div>
 
-<hr>
-<h3 id="yingwei"> Mr. Yingwei HOU </h3>
-<a href="http://www.linkedin.com/in/yingwei-hou" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<a href="https://www.researchgate.net/profile/Yingwei-Hou" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a>
-<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
-<div class="square">
-	<div>
-		<img src="/../_profilePhotos/yingwei.jpg" width=120 height=160
-				alt="Yingwei">
-	</div>
-	
-	<p>
-		I like to study polymer material with a BSc in polymer and a MSc in composite science and engineering, respectively. Now my PhD research interest is additive manufacturing of fibre reinforced polymers (FRPs) and investigation on their mechanical performance. Additive manufacturing attracts increasing attention as it develops from fabricating only prototypes to manufacture engineering components. However, the mechanical performance of additively manufactured parts still needs improvement and more relative research efforts are needed. My current study is investigating factors influencing the mechanical performance of FRPs by experimental characterisation. I like to use characterising technologies to analysis the structure of additively manufactured FRPs and investigate how the structure influences the mechanical performance. 
-	</p>
-</div>
 
 <hr>
 <h3 id="amber"> Ms. Amber WANG </h3>
