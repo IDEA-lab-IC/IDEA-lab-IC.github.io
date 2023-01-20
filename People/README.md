@@ -8,7 +8,7 @@
       </a>
       <div class="container">
         <h4>Ajit Panesar</h4>
-        <p class="title">Head of IDEA Lab</p>
+        <p class="title">Director of IDEA Lab</p>
         <p>(2017-Present)</p>
         <p>
         <a href="mailto:a.panesar@imperial.ac.uk" target = "_blank">
@@ -126,13 +126,13 @@
 
   <div class="column">
     <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/phd#janos">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#janos">
         <img src="../_profilePhotos/janos.jpg" alt="János" style="width:100%">
       </a>
       <div class="container">
         <h4>János Plocher</h4>
         <p class="title">PhD alumnus</p>
-        <p>(2017-2021)</p>
+        <p>(2017-2022)</p>
         <p>
         <a href="mailto:janos.plocher16@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
@@ -144,13 +144,13 @@
 
   <div class="column">
     <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/phd#yingwei">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#yingwei">
         <img src="../_profilePhotos/yingwei.jpg" alt="Yingwei" style="width:100%">
       </a>
       <div class="container">
         <h4>Yingwei Hou</h4>
         <p class="title">PhD alumnus</p>
-        <p>(2017-2021)</p>
+        <p>(2017-2022)</p>
         <p>
         <a href="mailto:y.hou17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
