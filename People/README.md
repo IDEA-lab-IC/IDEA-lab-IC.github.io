@@ -16,6 +16,7 @@
   </div>
 
   <div class="columnmajor">
+  <div align="justify">
 <b>Mission</b>: 
 
 * Exploit machine learning (ML) and optimisation techniques to address the needs of aerospace/auto/bio/energy/renewable sector.
@@ -25,9 +26,7 @@
 
 <b>Profile</b>: 
 
-Ajit is a Senior Lecturer (Assoc. Prof.) in Design for Innovative Manufacturing at ICL and has extensive experience in design-optimisation including leveraging ML in design, and manufacturing expertise in composites and AM. He has authored a <a style = " white-space:nowrap; " href="https://doi.org/10.31399/asm.hb.v24A.a0006950">book chapter in the ASM Handbook Vol 24B</a> and contributed to over 40 publications (receiving >2350 citations; h-index = 15) in Q1 journals and leading conferences, with several papers exceeding 400+ citations. His efforts have been recognised by the <a style = " white-space:nowrap; " href="https://imperiallondon-my.sharepoint.com/personal/apanesar_ic_ac_uk/Documents/%23%20MAIN/%23%20Imperial/%23%20IDEA%20Lab/Admin/~%20IDEA%20Lab%20PPT%20Template/EP/V001108/1">EPSRC funded DfAM network</a> where he currently holds the <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/research/">key research theme leader</a> position for the “Computational Tools” theme. Ajit has several ongoing collaborations to progress SOTA and create tangible impact across a wide-ranging sectors. He has been successful in securing funding for his research from both research councils and Industry. Importantly. he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors and the wider community!
-
-
+Ajit is a Senior Lecturer (Assoc. Prof.) in Design for Innovative Manufacturing at ICL and has extensive experience in design-optimisation including leveraging ML in design, and manufacturing expertise in composites and AM. He has authored a book chapter in the <a style = " white-space:nowrap; " href="https://doi.org/10.31399/asm.hb.v24A.a0006950">ASM Handbook Vol 24B</a> and contributed to over 40 publications (receiving >2350 citations; h-index = 15) in Q1 journals and leading conferences, with several papers exceeding 400+ citations. His efforts have been recognised by the <a style = " white-space:nowrap; " href="https://imperiallondon-my.sharepoint.com/personal/apanesar_ic_ac_uk/Documents/%23%20MAIN/%23%20Imperial/%23%20IDEA%20Lab/Admin/~%20IDEA%20Lab%20PPT%20Template/EP/V001108/1">EPSRC funded DfAM network</a> where he currently holds the <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/research/">key research theme leader</a> position for the “Computational Tools” theme. Ajit has several ongoing collaborations to progress SOTA and create tangible impact across a wide-ranging sectors. He has been successful in securing funding for his research from both research councils and Industry. Importantly. he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors and the wider community!
 <!-- <details>
 <summary> <b>Short scientific description</b> (click to expand) </summary>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -35,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </details> -->
 
 <b>Something more about me</b>: loves to solve puzzles and is trained in a few martial arts (Brazilian Jiu Jitsu, Wing Chun)
-
+  </div>
   </div>
 </div>
 
@@ -55,6 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   </div>
 
   <div class="columnmajor">
+  <div align="justify">
 <b>Research Aim</b>: Control of nanoscale architecture of battery electrodes to maximise battery performance and lifetime.
 
 <b>Objectives</b>: 
@@ -73,6 +73,7 @@ Energy storage systems such as batteries are critical components in the delivery
 <b>Something more about me</b>: I have a good ear. 
 
   </div>
+  </div>
 </div>
 
 <!-- ------------------------------ -->
@@ -90,6 +91,7 @@ Energy storage systems such as batteries are critical components in the delivery
   </div>
 
   <div class="columnmajor">
+  <div align="justify">
 <b>Research Aim</b>: Applying Machine Learning (ML) to improve design of lattice structure and to enhance metamaterial design.
 
 <b>Objectives</b>: 
@@ -105,6 +107,7 @@ Cellular structures are widely being employed in various lightweighting and mult
 
 <b>Something more about me</b>: I enjoy baking.
 
+  </div>
   </div>
 </div>
 
@@ -124,6 +127,7 @@ Cellular structures are widely being employed in various lightweighting and mult
   </div>
 
   <div class="columnmajor">
+  <div align="justify">
 <b>Research Aim</b>: Improve the rate of first-time-right for additive manufacturing (AM) through the use of machine learning (ML) techniques 
 
 <b>Objectives</b>: 
@@ -139,6 +143,7 @@ One main endeavour for realising the goals of the project is shifting the ML met
 
 <b>Something more about me</b>: Aviation geek
 
+  </div>
   </div>
 </div>
 
@@ -156,6 +161,7 @@ One main endeavour for realising the goals of the project is shifting the ML met
   </div>
 
   <div class="columnmajor">
+  <div align="justify">
 <b>Research Aim</b>: Innovative design framework to elevate the mechanical properties for continuous fiber-reinforced AM, integrating cellular and bio-inspired strategies.
  
 <b>Objectives</b>: 
@@ -172,6 +178,7 @@ My goal of study is to create an inventive design framework suited to the contin
 <b>Something more about me</b>: Exploring cool art exhibition and local cuisine 
 
   </div>
+  </div>
 </div>
 
 <hr>
@@ -187,6 +194,7 @@ My goal of study is to create an inventive design framework suited to the contin
   </div>
 
   <div class="columnmajor">
+  <div align="justify">
 <b>Research Aim</b>: Development and demonstration of structural power composites that simultaneously store electrical energy and carry mechanical loads.
 
 <b>Objectives</b>: 
@@ -204,12 +212,16 @@ Structural power composites are devices that allow radical weight savings for an
 <b>Something more about me</b>: Member of Imperial Kendo Club, enjoy hiking and music shows, plan to start indoor rock climbing. 
 
   </div>
+  </div>
 </div>
 
 
 
 
 <h2> Alumni </h2>
+<details>
+<summary> <b>Name Cards</b> (click to expand) </summary>
+
 <div class="row">
 
   <div class="column">
@@ -286,7 +298,7 @@ Structural power composites are devices that allow radical weight savings for an
 
 </div>
 
-
+</details>
 
 <style>
 /* Three columns side by side */
@@ -330,7 +342,7 @@ Structural power composites are devices that allow radical weight savings for an
   border: none;
   outline: 0;
   display: inline-block;
-  padding: 8px;
+  padding: 0px;
   color: white;
   background-color: rgb(109, 158, 242);
   text-align: center;

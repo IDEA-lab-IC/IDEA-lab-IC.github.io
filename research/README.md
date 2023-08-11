@@ -1,10 +1,10 @@
 <h1> Research </h1>
 
 <div style="text-align: justify"> 
-The researches carried out within IDEA lab can be categorised into 3 main categories: 1) additive manufacturing; 2) optimisation and machine learning in design for additive manufacturing; 3) multi-functional meta-materials. Within each category, works covering various specific areas are conducted. For more details, please refer to the pages of the categories.
-
+An overview of the research within IDEA Lab is presented in the figure below. Two main areas of work are: 1) computational design; 2) material & processes. Further details can be found in the subsections.
 </div>
 
-
-
+<div style="text-align:center">
+<img src="/../_media/research/researchOverview.png" style="width:100%">
+</div>
 
