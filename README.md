@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-We, at Innovative DEsign & Advanced manufacturing (IDEA) Lab, led by Dr Ajit Panesar (link ot people page), are driven by the possibility to create tangible impact across a wide-ranging sectors by focusing on ubiquitous underpinning engineering objectives. For example, designing optimal structures for: light-weighting, vibration-resilience, thermal-efficiency, and multi-functionality.
+We, at Innovative DEsign & Advanced manufacturing (IDEA) Lab, led by <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/People/README#Ajit" target = "_blank">Dr Ajit Panesar</a>, are driven by the possibility to create tangible impact across a wide-ranging sectors by focusing on ubiquitous underpinning engineering objectives. For example, designing optimal structures for: light-weighting, vibration-resilience, thermal-efficiency, and multi-functionality.
 <!-- Innovative DEsign & Advanced manufacturing (IDEA) Lab is established in 2021 at Imperial College London. Consists of 5 PhD researchers, 2 research associates, and led by Dr Ajit Panesar, the group's work revolves around 3 main categories: Multifunctional Meta-materials, Optimisation and Machine Learning in Design for Additive Manufacturing, and Additive Manufacturing. Despite of being young, the group has produced 2 review papers with over 200 citations in the last 2 years.  -->
 </div>
 
