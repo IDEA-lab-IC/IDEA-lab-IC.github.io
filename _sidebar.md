@@ -1,11 +1,11 @@
 <h1> Quick Navigation </h1> 
 
 - [Welcome](README.md)
-- [News](News/README.md "What's New")
+<!-- - [News](News/README.md "What's New") -->
 - [People](People/README.md "Who's in the group")
-	* [Director of IDEA Lab](People/HoG.md)
-	* [Postdoc. RA](People/postdoc.md)
-	* [PhD Researchers](People/phd.md)
+	<!-- * [Director of IDEA Lab](People/HoG.md) -->
+	<!-- * [Postdoc. RA](People/postdoc.md) -->
+	<!-- * [PhD Researchers](People/phd.md) -->
 	* [Alumni](People/alumni.md)
 	<!-- * [Testing](People/test.md) -->
 - [Research](research/README.md "What we do")
