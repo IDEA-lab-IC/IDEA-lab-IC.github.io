@@ -7,7 +7,7 @@ We, at Innovative DEsign & Advanced manufacturing (IDEA) Lab, led by <a style = 
 </div>
 
 <div style="text-align:center">
-<img src="/../_media/IdeaLab_TOP.svg" style="width:100%">
+<img src="/../_media/IdeaLab_TOP.png" style="width:100%">
 </div>
 
 <h3> Highlights </h3>
