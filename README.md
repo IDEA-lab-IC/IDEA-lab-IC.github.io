@@ -24,7 +24,7 @@ We, at Innovative DEsign & Advanced manufacturing (IDEA) Lab, led by <a style = 
 <h2> Research Overview </h2>
 
 <div style="text-align:center">
-<img src="/../_media/overview.svg" style="width:75%">
+<img src="/../_media/overview.png" style="width:75%">
 </div>
 
 <div align="justify">
