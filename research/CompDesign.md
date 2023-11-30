@@ -19,7 +19,7 @@ The outcomes clearly show that the newly-proposed method can generate lattice de
 
 <b> Relevant Publication(s): </b>
 
-J. Plocher, A. Panesar, <i> Effect of density and unit cell size grading on the stiffness and energy absorption of short fibre-reinforced functionally graded lattice structures</i>, Additive Manufacturing Journal, Volume 33, (2020), 101171. https://doi.org/10.1016/j.addma.2020.101171
+J. Wang, A. Panesar, <i> Machine learning based lattice generation method derived from topology optimisation</i>, Additive Manufacturing Journal, Volume 60, (2022), 103238. https://doi.org/10.1016/j.addma.2022.103238
 
 <hr>
 
