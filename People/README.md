@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div class="row">
   <div class="columnminor">
     <figure>
-        <img src="/../_profilePhotos/CK.jpg" style="width:100%"
+        <img src="/../_profilePhotos/ck.jpg" style="width:100%"
 				alt="CK", style="float: left; margin:5px">
     </figure>
   </div>
