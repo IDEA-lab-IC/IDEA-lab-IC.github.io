@@ -48,6 +48,11 @@
 
         /* Plugin: Zoom Image */
 	/* --zoomimage-overlay-background: rgba(0, 0, 0, 0.875);*/
+        /* Side Bar */
+        --sidebar-background: black;
+        --sidebar-name-color:  white;
+        --sidebar-nav-link-color: white;
+        --sidebar-nav-link-color--active: white;
       }
     </style>
   </head>
@@ -63,7 +68,8 @@
         name: 'IDEA Lab',
         repo: 'https://github.com/IDEA-lab-IC/IDEA-lab-IC.github.io',
         // coverpage: true,
-        // onlyCover: false,  // only displays the cover page
+        // onlyCover: true,  // only displays the cover page
+        logo: '/_media/logo/imperial_logo.png', // add logo to the side bar
         executeScript: true,
 
         // <!-- Themeable Options -->
@@ -83,7 +89,7 @@
         // max sidebar depth
         maxLevel: 3,
         // collapsible sidebar display level
-        sidebarDisplayLevel: 0,
+        sidebarDisplayLevel: 1,
         // create alias for sidebar to prevent issues
         alias: {
           '/.*/_sidebar.md': '/_sidebar.md',
@@ -142,7 +148,7 @@
           }
         },
         footer: {
-          copy: '<span> &copy; 2023</span>',
+          copy: '<span> &copy; 2024</span>',
           auth: 'by IDEA Lab, Department of Aeronautics, Imperial College London',
           pre: '<hr/>',
           style: 'text-align: right;',

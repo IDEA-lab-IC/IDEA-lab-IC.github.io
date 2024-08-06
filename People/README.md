@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <hr>
 <h2> Head of Group </h2>
-<h3 id="Ajit"> Dr. Ajit PANESAR </h3>
+<h3 id="ajit"> Dr Ajit PANESAR </h3>
 <a href="https://www.linkedin.com/in/ajit-panesar-bb986540/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <a href="https://scholar.google.com/citations?user=owqDRlUAAAAJ&hl=en&oi=ao" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
 <!-- <a href="https://www.researchgate.net/profile/Janos-Plocher" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a> -->
@@ -11,7 +11,7 @@
   <div class="columnminor">
     <figure>
         <img src="/../_profilePhotos/ajit.jpg" style="width:100%"
-				alt="Ajit">
+				alt="Ajit", style="float: left; margin:5px">
     </figure>
   </div>
 
@@ -19,14 +19,14 @@
   <div align="justify">
 <b>Mission</b>: 
 
-* Exploit machine learning (ML) and optimisation techniques to address the needs of aerospace/auto/bio/energy/renewable sector.
-* Design for innovative manufacturing technologies, such as, additive manufacturing (AM) and automated fibre placement (AFP) for composites.
+* Exploit machine learning (ML) and optimisation techniques to address the engineering needs of aerospace/auto/bio/energy/renewable sector.
+* Design for digital fabrication technologies, such as, additive manufacturing (AM).
 * Help inspire, train and nurture the next generation of workforce.
 
 
 <b>Profile</b>: 
 
-Ajit is a Senior Lecturer (Assoc. Prof.) in Design for Innovative Manufacturing at ICL and has extensive experience in design-optimisation including leveraging ML in design, and manufacturing expertise in composites and AM. He has authored a book chapter in the <a style = " white-space:nowrap; " href="https://doi.org/10.31399/asm.hb.v24A.a0006950">ASM Handbook Vol 24B</a> and contributed to over 40 publications (receiving >2350 citations; h-index = 15) in Q1 journals and leading conferences, with several papers exceeding 400+ citations. His efforts have been recognised by the <a style = " white-space:nowrap; " href="https://imperiallondon-my.sharepoint.com/personal/apanesar_ic_ac_uk/Documents/%23%20MAIN/%23%20Imperial/%23%20IDEA%20Lab/Admin/~%20IDEA%20Lab%20PPT%20Template/EP/V001108/1">EPSRC funded DfAM network</a> where he currently holds the <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/research/">key research theme leader</a> position for the “Computational Tools” theme. Ajit has several ongoing collaborations to progress SOTA and create tangible impact across a wide-ranging sectors. He has been successful in securing funding for his research from both research councils and Industry. Importantly. he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors and the wider community!
+Ajit is an Associate Professor in Computational Design for Advanced Manufacturing at ICL  and has extensive experience in design-optimisation including leveraging ML in design, and manufacturing expertise in composites and AM. He has authored a book chapter in the <a style = " white-space:nowrap; " href="https://doi.org/10.31399/asm.hb.v24A.a0006950">ASM Handbook Vol 24B</a> and contributed to over 40 publications (receiving >2350 citations; h-index = 15) in Q1 journals and leading conferences, with several papers exceeding 400+ citations. His efforts have been recognised by the <a style = " white-space:nowrap; " href="https://imperiallondon-my.sharepoint.com/personal/apanesar_ic_ac_uk/Documents/%23%20MAIN/%23%20Imperial/%23%20IDEA%20Lab/Admin/~%20IDEA%20Lab%20PPT%20Template/EP/V001108/1">EPSRC funded DfAM network</a> where he currently holds the <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/research/">key research theme leader</a> position for the “Computational Tools” theme. Ajit has several ongoing collaborations to progress state-of-the-art and create tangible impact across a wide-ranging sectors. He has been successful in securing funding for his research from both research councils and Industry. Importantly. he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors and the wider community!
 <!-- <details>
 <summary> <b>Short scientific description</b> (click to expand) </summary>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -41,27 +41,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- ----------------------------------------- -->
 <h2> Research Associates/Assistants </h2>
-<h3 id="CK"> Dr. Chikwesiri IMEDIEGWU (CK) </h3>
+<h3 id="CK"> Dr Chikwesiri IMEDIEGWU (CK) </h3>
 <a href="https://www.linkedin.com/in/chikwesiri-imediegwu/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <a href="https://scholar.google.com/citations?user=_tIAiyUAAAAJ&hl=en&oi=ao" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
   <div class="columnminor">
     <figure>
-        <img src="/../_profilePhotos/CK.png" style="width:100%"
-				alt="CK">
+        <img src="/../_profilePhotos/CK.jpg" style="width:100%"
+				alt="CK", style="float: left; margin:5px">
     </figure>
   </div>
 
   <div class="columnmajor">
   <div align="justify">
-<b>Research Aim</b>: Control of nanoscale architecture of battery electrodes to maximise battery performance and lifetime.
+<b>Research Aim</b>: To apply computational methods and mathematical optimisation to solve challenging physical problems and to design state-of-the-art engineering devices.
 
 <b>Objectives</b>: 
 
 * To generate numerical models of insertion-electrode batteries including underlying electrochemical transport mechanisms within the batteries. 
-* To formulate a physics-driven search leveraging topology optimisation formulation for the discovery of optimal battery electrode topologies.
-* To manufacture and validate optimised electrodes experimentally.
+* To formulate a physics-driven search leveraging topology optimisation formulation for the discovery of optimal battery electrode topologies as well as in the design of optimal orthopaedic implants.
+* To incorporate advanced digital manufacturing constraints to realise optimised electrodes and implants for onward experimental validation.
 
 
 <details>
@@ -76,9 +76,44 @@ Energy storage systems such as batteries are critical components in the delivery
   </div>
 </div>
 
+<hr>
+<h3 id="john"> Dr Cletus John AKISIN (John) </h3>
+<a href="https://www.linkedin.com/in/cletus-john-akisin" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://scholar.google.com/citations?hl=en&tzom=-60&user=SxTmHXYAAAAJ" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/john.jpg" style="width:100%"
+				alt="John", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: Design, manufacture, and operation of custom-made vacuum cold spray system for in-space manufacturing and repair. A project funded by the UK space agency (UKSA).
+
+<b>Objectives</b>: 
+
+* To become an expert in metal AM fabrication processes, specifically, cold spray system.
+*	To demonstrate breadth of expertise, both, in computational and experimental methods to enable CSAM.
+*	To translate low-TRL research from University to Industry.
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+Cold spray additive manufacturing (CSAM) systems are already being used on Earth for additive manufacturing and repair of metal components under atmospheric conditions. Through this project we will evaluate the feasibility of CSAM for in-situ (in-free space) repairs of spacecraft components.
+
+</details>
+
+<b>Something more about me</b>: Swimming, cycling and driving long distance or road trips 
+
+  </div>
+  </div>
+</div>
+
 <!-- ------------------------------ -->
 <h2> PhD Students </h2>
-<h3 id="amber"> Ms. Jier WANG (Amber) </h3>
+<h3 id="amber"> Ms Jier WANG (Amber) </h3>
 <a href="https://www.linkedin.com/in/jier-wang-b8a755223" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 
@@ -86,23 +121,24 @@ Energy storage systems such as batteries are critical components in the delivery
   <div class="columnminor">
     <figure>
         <img src="/../_profilePhotos/amber.jpg" style="width:100%"
-				alt="Amber">
+				alt="Amber", style="float: left; margin:5px">
     </figure>
   </div>
 
   <div class="columnmajor">
   <div align="justify">
-<b>Research Aim</b>: Applying Machine Learning (ML) to improve design of lattice structure and to enhance metamaterial design.
+<b>Research Aim</b>: Applying Machine Learning (ML) to achieve inverse design of metamaterials and optimisation of functionally graded metamaterial structures.
 
 <b>Objectives</b>: 
 
-* To propose efficient ML-based multiscale structure design methods considering multiple objectives.
-* To build ML-based generators for unit cell generation based on target properties.
-* To establish models that characterise the elastic-plastic behaviour of cellular structures.
+* To propose efficient ML-based functionally graded metamaterial structural design methods considering multiple objectives.
+*	To build ML-based inverse generators for metamaterial architecture design based on target properties.
+*	To apply functionally graded metamaterial designs to electric vehicles’ battery protection structures, for efficient thermal management and high structural stiffness.
+
 
 <details>
 <summary> <b>Short scientific description</b> (click to expand) </summary>
-Cellular structures are widely being employed in various lightweighting and multifunctional applications. With the developments in Additive Manufacturing (AM), cellular structures can now be fabricated with limited manufacturing constraints, which facilitates the design of lattice structures to become more flexible. My work seeks to employ ML to improve the performance of cellular structure designs and significantly reduce the required computational effort.
+Metamaterial structures, known for their outstanding properties, have been applied across a wide range of sectors to achieve lightweight and functional designs. Their high performance and functionality typically arise from multiscale designs, where spatially graded metamaterials with intricate complex architectures are used to construct entire structures through effective optimisation strategies. With the developments in Additive Manufacturing (AM), metamaterial structures can now be fabricated with limited manufacturing constraints, which facilitates the design of metamaterials to become more flexible. My work seeks to employ ML to improve the performance of functionally graded metamaterial designs and significantly reduce the required computational effort.
 </details>
 
 <b>Something more about me</b>: I enjoy baking.
@@ -114,7 +150,7 @@ Cellular structures are widely being employed in various lightweighting and mult
 
 
 <hr>
-<h3 id="bohan"> Mr. Bohan PENG </h3>
+<h3 id="bohan"> Mr Bohan PENG </h3>
 <!-- <a href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
 <a href="https://www.linkedin.com/in/bohan-peng-573724147/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 
@@ -122,18 +158,18 @@ Cellular structures are widely being employed in various lightweighting and mult
   <div class="columnminor">
     <figure>
         <img src="/../_profilePhotos/bohan.jpg" style="width:100%"
-				alt="Bohan" >
+				alt="Bohan", style="float: left; margin:5px" >
     </figure>
   </div>
 
   <div class="columnmajor">
   <div align="justify">
-<b>Research Aim</b>: Improve the rate of first-time-right for additive manufacturing (AM) through the use of machine learning (ML) techniques 
+<b>Research Aim</b>: Improve the rate of first-time-right for additive manufacturing (AM) through the use of machine learning (ML) techniques. 
 
 <b>Objectives</b>: 
 
 * To investigate the effectiveness of ML-based techniques in generating designs for AM
-* To investigate the possible means to transform ML-based method from black-box to grey-box
+* T•	To realise the transformation of ML from black-box to grey-box with scientific machine learning approaches
 * To develop ML-based methods alternative to the current numerical AM simulation methods that are less time-consuming, enabling the subsequent design optimisation that is manufacturing-aware
 
 <details>
@@ -149,30 +185,31 @@ One main endeavour for realising the goals of the project is shifting the ML met
 
 
 <hr>
-<h3 id="pat"> Ms. Piyapat JAMEEKORNKUL (Pat) </h3>
+<h3 id="pat"> Ms Piyapat JAMEEKORNKUL (Pat) </h3>
 <a href="https://th.linkedin.com/in/piyapat-jameekornkul-861670175" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
   <div class="columnminor">
     <figure>
         <img src="/../_profilePhotos/pat.jpg" style="width:100%"
-				alt="Pat">
+				alt="Pat", style="float: left; margin:5px">
     </figure>
   </div>
 
   <div class="columnmajor">
   <div align="justify">
-<b>Research Aim</b>: Innovative design framework to elevate the mechanical properties for continuous fiber-reinforced AM, integrating cellular and bio-inspired strategies.
- 
+<b>Research Aim</b>: Innovative design framework to elevate the mechanical properties for fibre-reinforced AM, integrating cellular structure and bio-inspired strategies.
+
 <b>Objectives</b>: 
 
 * To explore and utilise the nature-inspired approaches in design for AM to enhance the mechanical properties
-* To investigate the plastic behaviour and failure characteristics of fibre-reinforced AM parts at micro-scale
-* To investigate innovative composite manufacturing processes and apply to create application-specific structures
+*	To investigate the plastic behaviour and failure characteristics of fibre-reinforced and metallic lattice structures fabricated by AM under dynamic loading conditions
+*	To explore innovative composite manufacturing processes and apply them to create structures for energy absorption
+
 
 <details>
 <summary> <b>Short scientific description</b> (click to expand) </summary>
-My goal of study is to create an inventive design framework suited to the continuous fibre reinforcement AM and optimising the fibre customisation to enhance the mechanical properties. It encompasses investigating nature-inspired structures e.g., cellular structure, bouligand structure, showcasing notable properties like energy absorption and impact resistance. This promises to expand manufacturing limits through effective design and thus, improving tool for engineering applications.
+Known for their notable properties such as specific energy absorption and impact resistance, nature-inspired structures like cellular and hierarchical forms have been utilised for Additive Manufacturing (AM). Through experimental investigation, my objective is to explore structural design options and material variations, such as composites, to enhance energy absorption during a crash and thereby expand AM capabilities through innovative design. This work also seeks to provide insight into the dynamic behaviour of AM parts and broaden the adoption of AM in crashworthiness applications.
 </details>
 
 <b>Something more about me</b>: Exploring cool art exhibition and local cuisine 
@@ -182,14 +219,14 @@ My goal of study is to create an inventive design framework suited to the contin
 </div>
 
 <hr>
-<h3 id="Shimeng"> Ms. Shimeng QIAN </h3>
+<h3 id="shimeng"> Ms Shimeng QIAN </h3>
 <a href="https://www.linkedin.com/in/shimeng-qian-4698aa237/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
   <div class="columnminor">
     <figure>
         <img src="/../_profilePhotos/shimeng.jpg" style="width:100%"
-				alt="Shimeng">
+				alt="Shimeng", style="float: left; margin:5px">
     </figure>
   </div>
 
@@ -199,28 +236,98 @@ My goal of study is to create an inventive design framework suited to the contin
 
 <b>Objectives</b>: 
 
-* Investigate scale-up strategy for structural power devices
-* Optimize microstructures for multifunctional constituent
-* Develop multi-physics models for structural supercapacitor.
+* To investigate scale-up strategy for structural power devices
+* To optimize microstructures for multifunctional constituent
+* To develop multi-physics models for structural supercapacitor.
 
 <details>
 <summary> <b>Short scientific description</b> (click to expand) </summary>
-Structural power composites are devices that allow radical weight savings for any electrically powered structural system, from mobile phones to aircraft. The focuses of my study are on scale-up and multifunctional design with structural supercapacitors, with a particular focus on optimizing current collection and multifunctional constituent, as well as developing multi-scale multi-physics models for the entire devices. Both experimental studies and numerical simulation are involved within this study, the aim of the later is to develop new strategies and multifunctional design tools for adopting structural power in future applications that can fully exploit their benefits.
+Structural power composites are devices that allow radical weight savings for any electrically powered structural system, from mobile phones to aircraft. The focuses of my study are on scale-up and multifunctional design with structural supercapacitors, with a particular focus on optimizing current collection and multifunctional constituent, as well as developing multi-scale multi-physics models for the entire devices. Both experimental studies and numerical simulation are involved within this study, the aim of the latter is to develop new strategies and multifunctional design tools for adopting structural power in future applications that can fully exploit their benefits.
 
 </details>
 
-<b>Something more about me</b>: Member of Imperial Kendo Club, enjoy hiking and music shows, plan to start indoor rock climbing. 
+<b>Something more about me</b>: Member of Imperial Kendo Club, enjoy hiking and music shows, plan to start indoor rock climbing
 
   </div>
   </div>
 </div>
 
 
+<hr>
+<h3 id="erin"> Ms Xiaochen YU (Erin) </h3>
+<a href="https://www.linkedin.com/in/erin-xc-yu/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/erin.jpg" style="width:100%"
+				alt="Erin", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: Computational design of functionally graded materials (FGMs) with machine learning (ML) techniques.
+
+<b>Objectives</b>: 
+
+* To explore latent space arithmetic and multi-objective optimisation strategies in designing lattice structures
+*	To develop a ML-based inverse design generator suited for the graph-represented lattice
+*	To propose a computational design framework for multi-material multi-scale structures 
+
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+FGMs enabled property / performance control by spatially varying the design of microstructures. Recent development in multi-material additive manufacturing (MMAM) expands the design freedom by allowing control over both geometric parameters and material compositions. However, computational efficiency and flexibility in incorporating diverse engineering objectives become challenges in traditional numerical methods. Therefore, my research will follow a data-driven approach, exploring various ML techniques to facilitate the design of FGMs in aerospace/biomedical applications.
+
+</details>
+
+<b>Something more about me</b>: always enchanted by sunsets
+
+  </div>
+  </div>
+</div>
+
+<hr>
+<h3 id="priyanka"> Ms Priyanka GOYAL </h3>
+<a href="www.linkedin.com/in/priyanka-goyal1608" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/priyanka.jpg" style="width:100%"
+				alt="Priyanka", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: Development of multifunctional hybrid shape memory polymer nanocomposites
+
+<b>Objectives</b>: 
+
+* To improve nanoparticle dispersion in polymer matrix and obtain a composite with improved mechanical and electrical properties 
+* To develop shape memory polymer nanocomposites that can be electrically actuated 
+*	To design a complex structure through additive manufacturing that exhibits shape memory behaviour  
+
+
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+In aeronautics, shape memory polymer nanocomposites are crucial for morphing structures, requiring reinforcement with carbon nanofillers for effective electrical actuation. Their 3D printability allows for complex, customizable designs, suitable for advanced technological applications. Multifunctional hybrid 3D-printed shape memory polymer nanocomposites can be engineered by combining thermoplastic polyurethane (TPU), carbon nanotubes (CNTs), and graphene nanoplatelets (GNPs). These nanocomposites leverage the shape memory properties of TPU, enabling them to return to a predefined shape upon heating. The incorporation of CNTs and GNPs enhances mechanical strength, electrical conductivity, and thermal stability.
+
+</details>
+
+<b>Something more about me</b>: I enjoy exploring new locations and cuisines. 
+
+  </div>
+  </div>
+</div>
 
 
 <h2> Alumni </h2>
-<details>
-<summary> <b>Name Cards</b> (click to expand) </summary>
+<!-- <details>
+<summary> <b>Name Cards</b> (click to expand) </summary> -->
 
 <div class="row">
 
@@ -296,9 +403,49 @@ Structural power composites are devices that allow radical weight savings for an
     </div>
   </div> -->
 
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
+        <img src="../_profilePhotos/rachel.jpg" alt="Rachel" style="width:100%">
+      </a>
+      <div class="container">
+        <h4>Rachel Moloney</h4>
+        <p class="title">RA alumna</p>
+        <p>(2023-2024)</p>
+        <p>
+        <a href="mailto:r.moloney@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
 </div>
 
-</details>
+<!-- <div class="row">
+
+<div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
+        <img src="../_profilePhotos/rachel.jpg" alt="Rachel" style="width:100%">
+      </a>
+      <div class="container">
+        <h4>Rachel Moloney</h4>
+        <p class="title">RA alumna</p>
+        <p>(2023-2024)</p>
+        <p>
+        <a href="mailto:r.moloney@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div> -->
+
+<!-- </details> -->
 
 <style>
 /* Three columns side by side */
@@ -371,10 +518,10 @@ Structural power composites are devices that allow radical weight savings for an
 		text-align: left;
 	}
 
-	img {
+	/* img {
 		float: left;
 		margin: 0px;
-	}
+	} */
 	p {
 		text-align: justify;
 		font-size: 16px;

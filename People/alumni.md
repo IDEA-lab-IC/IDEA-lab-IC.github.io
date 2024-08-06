@@ -2,14 +2,14 @@
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <hr>
-<h3 id="chanhui"> Dr. Chanhui LEE </h3>
+<h3 id="chanhui"> Dr Chanhui LEE </h3>
 <a href="https://www.linkedin.com/in/chanhui-lee-929a1a16a/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <a href="https://www.researchgate.net/profile/Chan-Hui-Lee" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
 		<img src="/../_profilePhotos/chanhui.jpg" width=120 height=160
-				alt="Chanhui">
+				alt="Chanhui", style="float: left; margin:5px">
 	</div>
 	
 	<p>
@@ -24,14 +24,14 @@
 </div>
 
 <hr>
-<h3 id="janos"> Dr. János PLOCHER </h3>
+<h3 id="janos"> Dr János PLOCHER </h3>
 <a href="https://www.linkedin.com/in/j%C3%A1nos-plocher-76ab60127/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <a href="https://scholar.google.com/citations?user=W8pi7-AAAAAJ&hl=de" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
 <a href="https://www.researchgate.net/profile/Janos-Plocher" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a>
 <div class="square">
 	<div>
 		<img src="/../_profilePhotos/janos.jpg" width=120 height=160
-				alt="János">
+				alt="János", style="float: left; margin:5px">
 	</div>
 	
 	<p>
@@ -43,18 +43,39 @@
 </div>
 
 <hr>
-<h3 id="yingwei"> Dr. Yingwei HOU </h3>
+<h3 id="yingwei"> Dr Yingwei HOU </h3>
 <a href="http://www.linkedin.com/in/yingwei-hou" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <a href="https://www.researchgate.net/profile/Yingwei-Hou" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
 		<img src="/../_profilePhotos/yingwei.jpg" width=120 height=160
-				alt="Yingwei">
+				alt="Yingwei", style="float: left; margin:5px">
 	</div>
 	
 	<p>
 		I like to study polymer material with a BSc in polymer and a MSc in composite science and engineering, respectively. Now my PhD research interest is additive manufacturing of fibre reinforced polymers (FRPs) and investigation on their mechanical performance. Additive manufacturing attracts increasing attention as it develops from fabricating only prototypes to manufacture engineering components. However, the mechanical performance of additively manufactured parts still needs improvement and more relative research efforts are needed. My current study is investigating factors influencing the mechanical performance of FRPs by experimental characterisation. I like to use characterising technologies to analysis the structure of additively manufactured FRPs and investigate how the structure influences the mechanical performance. 
+	</p>
+</div>
+
+<hr>
+<h3 id="rachel"> Dr Rachel MOLONEY </h3>
+<a href="https://www.linkedin.com/in/rachel-moloney/ " style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://scholar.google.com/citations?user=uuWKT5QAAAAJ&hl=en" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/rachel.jpg" width=120 height=160
+				alt="Rachel", style="float: left; margin:5px">
+	</div>
+	
+	<p>
+		Rachel's research project was on designing, developing, and demonstrating a cold spray additive manufacturing device for in-space applications
+	</p>
+	<p>
+		Cold spray additive manufacturing systems are already being used on Earth for 3D printing of metal components under atmospheric conditions. By developing a cold spray system that can operate under high vacuum conditions, and by demonstrating successful operation within a high vacuum environment, the applications of this type of technology will be broadened to include in-space operation, thus, allowing for in-situ repairs of spacecraft. This will help to increase the lifetime of spacecraft while reducing the repair mass requirements by using a material that can be sprayed into the required shape instead of carrying a variety of specific components.	
+	</p>
+	<p>
+		Rachel is currently a <a style = " white-space:nowrap; " href="https://www.surrey.ac.uk/people/rachel-moloney">research fellow at Univerity of Surry</a> 
 	</p>
 </div>
 
@@ -65,10 +86,10 @@
 		text-align: left;
 	}
 
-	img {
+	/* img {
 		float: left;
-		margin: 8px;
-	}
+		margin: 0px;
+	} */
 	p {
 		padding-left: 5px;
 		text-align: justify;
