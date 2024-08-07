@@ -5,6 +5,31 @@ Our current researches in the area of optimisation and adoption of machine learn
 
 
 <h2> Machine Learning Aided Design </h2>
+<h3 id="batt-casing_AW"> Multidisciplinary design optimisation of lattice-based battery housing for electric vehicles </h3>
+<div style="text-align:center">
+<img src="/../_media/research/Amber_BatteryCase.jpg" style="width:95%">
+</div>
+
+<div style="text-align: justify"> 
+In this study, a graded lattice design framework is developed based on Topology Optimisation (TO) to effectively tackle the multidisciplinary objectives associated with battery housing.
+
+* Leverages the triply periodic minimal surfaces lattices, aiming for high mechanical stiffness and efficient heat dissipation considering heat conduction and convection. 
+* Bridges the research gap by embedding thermal convection into the TO framework, while accounting for thermal conduction in thermal management.
+* Demonstrated through the battery housing design, showcasing its ability to address multidisciplinary objectives as evidenced by the analysis of the Pareto front. 
+
+This study identifies the potential of lattices in lightweight applications incorporating multiphysics and offers an efficient lattice design framework readily extended to other engineering challenges. 
+</div>
+
+<b> Key collaborators </b>: 
+
+Members from Hamburg University of Applied Sciences (HAW): <a style = " white-space:nowrap; " href="https://www.haw-hamburg.de/en/university/employees/detail/person/person/show/thomas-kletschkowski/" target = "_blank">Prof. Thomas Kletschkowski</a>, <a style = " white-space:nowrap; " href="https://www.haw-hamburg.de/en/university/employees/detail/person/person/show/benedikt-plaumann/" target = "_blank">Prof. Benedikt Plaumann</a>, <a style = " white-space:nowrap; " href="https://www.haw-hamburg.de/en/university/employees/detail/person/person/show/maximilian-schutzeichel/" target = "_blank">Dr Maximilian Schutzeichel</a>
+
+<b> Relevant Publication(s): </b>
+
+J. Wang, M. Schutzeichel , B. Plaumann, T. Kletschkowski, A. Panesar, <i>Multidisciplinary design optimisation of lattice-based battery housing for electric vehicles.</i> Scientific Report 14, 12265 (2024). https://doi.org/10.1038/s41598-024-60124-4 
+
+<hr>
+
 <h3 id="inverse-design_AW"> Machine learning based lattice generation method derived from topology optimisation </h3>
 <div style="text-align:center">
 <img src="/../_media/research/Amber_inversedesign.gif" style="width:95%">
@@ -24,28 +49,24 @@ J. Wang, A. Panesar, <i> Machine learning based lattice generation method derive
 
 <hr>
 
-<h3 id="batt-casing_AW"> Multidisciplinary design optimisation of lattice-based battery housing for electric vehicles </h3>
+<h3 id="PINN"> Multi-layer temperature history prediction during directed energy deposition using physics-informed neural network (PINN) </h3>
 <div style="text-align:center">
-<img src="/../_media/research/Amber_BatteryCase.jpg" style="width:95%">
+<img src="/../_media/research/PINN_DED_gif.gif" style="width:95%">
 </div>
 
 <div style="text-align: justify"> 
-In this study, a graded lattice design framework is developed based on Topology Optimisation (TO) to effectively tackle the multidisciplinary objectives associated with battery housing.
+This project implements a physics-informed neural network (PINN)-based solution framework that predicts the thermal history during a multi-layer Directed Energy Deposition (DED) process. 
 
-* Leverages the triply periodic minimal surfaces lattices, aiming for high mechanical stiffness and efficient heat dissipation considering heat conduction and convection. 
-* Bridges the research gap by embedding thermal convection into the TO framework, while accounting for thermal conduction in thermal management.
-* Demonstrated through the battery housing design, showcasing its ability to address multidisciplinary objectives as evidenced by the analysis of the Pareto front. 
+* New opportunities for modelling the thermally induced distortion in metal AM with the meshless nature and the readily available derivative information from PINN solution.
+* Overcomes the usual shortfall of neural networks (NNs) in dealing with discontinuities making multi-layer PINN-based simulation possible.
+* Benchmark against ANSYS validates accuracy of the proposed framework to be comparable to numerical methods. Additionally, offering computational time-savings thereby making it amenable for use in design-optimisation algorithms.
 
-This study identifies the potential of lattices in lightweight applications incorporating multiphysics and offers an efficient lattice design framework readily extended to other engineering challenges. 
+The proposed framework sets the foundation for the subsequent exploration of applying scientific machine learning (SciML) techniques to real-life engineering applications. Furthermore, remarks on strategies to improve ease of training and prediction accuracy by PINN for the particular use case in DED temperature history prediction have been made. 
 </div>
-
-<b> Key collaborators </b>: 
-
-Members from Hamburg University of Applied Sciences (HAW): <a style = " white-space:nowrap; " href="https://www.haw-hamburg.de/en/university/employees/detail/person/person/show/thomas-kletschkowski/" target = "_blank">Thomas Kletschkowski</a>, <a style = " white-space:nowrap; " href="https://www.haw-hamburg.de/en/university/employees/detail/person/person/show/benedikt-plaumann/" target = "_blank">Benedikt Plaumann</a>, <a style = " white-space:nowrap; " href="https://www.haw-hamburg.de/en/university/employees/detail/person/person/show/maximilian-schutzeichel/" target = "_blank">Maximilian Schutzeichel</a>
 
 <b> Relevant Publication(s): </b>
 
-J. Wang, M. Schutzeichel , B. Plaumann, T. Kletschkowski, A. Panesar, <i>Multidisciplinary design optimisation of lattice-based battery housing for electric vehicles.</i> Scientific Report 14, 12265 (2024). https://doi.org/10.1038/s41598-024-60124-4 
+B. Peng, A. Panesar, <i> Multi-scan thermal simulation using physics-informed neural network</i>, (Under review)
 
 <hr>
 
@@ -68,26 +89,7 @@ Benchmark comparisons against analytical morphing and existing ML-based solution
 
 X. Yu, B. Peng, A. Panesar, <i> Smooth 3D transition cell generation based on latent space arithmetic</i>, (In preparation)
 
-<hr>
 
-<h3 id="PINN"> Multi-layer temperature history prediction during directed energy deposition using physics-informed neural network (PINN) </h3>
-<div style="text-align:center">
-<img src="/../_media/research/PINN_DED_gif.gif" style="width:95%">
-</div>
-
-<div style="text-align: justify"> 
-This project implements a physics-informed neural network (PINN)-based solution framework that predicts the thermal history during a multi-layer Directed Energy Deposition (DED) process. 
-
-* New opportunities for modelling the thermally induced distortion in metal AM with the meshless nature and the readily available derivative information from PINN solution.
-* Overcomes the usual shortfall of neural networks (NNs) in dealing with discontinuities making multi-layer PINN-based simulation possible.
-* Benchmark against ANSYS validates accuracy of the proposed framework to be comparable to numerical methods. Additionally, offering computational time-savings thereby making it amenable for use in design-optimisation algorithms.
-
-The proposed framework sets the foundation for the subsequent exploration of applying scientific machine learning (SciML) techniques to real-life engineering applications. Furthermore, remarks on strategies to improve ease of training and prediction accuracy by PINN for the particular use case in DED temperature history prediction have been made. 
-</div>
-
-<b> Relevant Publication(s): </b>
-
-B. Peng, A. Panesar, <i> Multi-scan thermal simulation using physics-informed neural network</i>, (Under review)
 
 
 
@@ -112,9 +114,9 @@ Efficient storage and deployment of renewable energy sources like solar and wind
 
 <b> Key collaborators </b>: 
 
-Members from Imperial: <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.p.ryan" target = "_blank">Mary Ryan</a>, <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.shaffer" target = "_blank">Milo Shaffer</a>, <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.titirici" target = "_blank">Magda Titirici</a>, <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/i.stephens" target = "_blank">Ifan Stephens</a>;
+Members from Imperial: <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.p.ryan" target = "_blank">Prof. Mary Ryan</a>, <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.shaffer" target = "_blank">Prof. Milo Shaffer</a>, <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.titirici" target = "_blank">Prof. Magda Titirici</a>, <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/i.stephens" target = "_blank">Prof. Ifan Stephens</a>;
 
-Industry sponsor: Shell (contributor: <a style = " white-space:nowrap; " href="https://www.linkedin.com/in/peterklusener/" target = "_blank">Peter Klusener</a>) 
+Industry sponsor: Shell (contributor: <a style = " white-space:nowrap; " href="https://www.linkedin.com/in/peterklusener/" target = "_blank">Dr Peter Klusener</a>) 
 
 <b> Relevant Publication(s): </b>
 
@@ -140,7 +142,7 @@ The collaboration between Imperial College London and the University of Birmingh
 
 <b> Key collaborators </b>: 
 
-Members from University of Birmingham: <a style = " white-space:nowrap; " href="https://www.birmingham.ac.uk/staff/profiles/metallurgy/attallah-moataz" target = "_blank">Moataz Attallah</a>, <a style = " white-space:nowrap; " href="https://www.birmingham.ac.uk/research/activity/metallurgy-materials/amplab/team" target = "_blank">Peter Ibrahim</a>
+Members from University of Birmingham: <a style = " white-space:nowrap; " href="https://www.birmingham.ac.uk/staff/profiles/metallurgy/attallah-moataz" target = "_blank">Prof. Moataz Attallah</a>, <a style = " white-space:nowrap; " href="https://www.birmingham.ac.uk/research/activity/metallurgy-materials/amplab/team" target = "_blank">Peter Ibrahim</a>
 
 <b> Relevant Publication(s): </b>
 
@@ -176,6 +178,6 @@ A three-dimensional finite element model for structural supercapacitors (SSCs) w
 
 <b> Key collaborators </b>: 
 
-Members from Imperial: <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/e.greenhalgh" target = "_blank">Emile S Greenhalgh</a>, <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.shaffer" target = "_blank">Milo Shaffer</a>, <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/anthony" target = "_blank">Anthony Kucernak</a>
+Members from Imperial: <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/e.greenhalgh" target = "_blank">Prof. Emile S Greenhalgh</a>, <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.shaffer" target = "_blank">Prof. Milo Shaffer</a>, <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/anthony" target = "_blank">Prof. Anthony Kucernak</a>
 
 <!-- <b> Relevant Publication(s): </b> -->

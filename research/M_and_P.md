@@ -48,7 +48,7 @@ This study focuses on the material and structural development of a novel shape m
 
 <b> Key collaborators </b>: 
 
-Members from Imperial: <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/qianqian.li" target = "_blank">Qianqian Li</a>
+Members from Imperial: <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/qianqian.li" target = "_blank">Dr Qianqian Li</a>
 
 
 <hr>
@@ -87,7 +87,7 @@ The COSMOS project combines cold spraying with vacuum technology or processes to
 
 <b> Key collaborators </b>: 
 
-Members from Imperial: <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.p.ryan" target = "_blank">Aaron Knoll</a>
+Members from Imperial: <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.p.ryan" target = "_blank">Dr Aaron Knoll</a>
 
 Industrial Collaborator: <a style = " white-space:nowrap; " href="https://www.twi-global.com/" target = "_blank">TWI Ltd</a> 
 

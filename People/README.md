@@ -337,7 +337,9 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
         <img src="../_profilePhotos/chanhui.jpg" alt="Chanhui" style="width:100%">
       </a>
       <div class="container">
-        <h4>Chanhui Lee</h4>
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#chanhui">
+        <h4>Dr Chanhui Lee</h4>
+      </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2021)</p>
         <p>
@@ -355,7 +357,9 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
         <img src="../_profilePhotos/janos.jpg" alt="János" style="width:100%">
       </a>
       <div class="container">
-        <h4>János Plocher</h4>
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#janos">
+        <h4>Dr János Plocher</h4>
+        </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2022)</p>
         <p>
@@ -373,7 +377,9 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
         <img src="../_profilePhotos/yingwei.jpg" alt="Yingwei" style="width:100%">
       </a>
       <div class="container">
-        <h4>Yingwei Hou</h4>
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#yingwei">
+        <h4>Dr Yingwei Hou</h4>
+        </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2022)</p>
         <p>
@@ -409,7 +415,9 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
         <img src="../_profilePhotos/rachel.jpg" alt="Rachel" style="width:100%">
       </a>
       <div class="container">
-        <h4>Rachel Moloney</h4>
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
+        <h4>Dr Rachel Moloney</h4>
+      </a>
         <p class="title">RA alumna</p>
         <p>(2023-2024)</p>
         <p>

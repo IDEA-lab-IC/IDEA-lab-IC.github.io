@@ -35,32 +35,55 @@ with a strong focus on fulfilling the respective engineering objectives.
 <div class="grid-container">
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/CompDesign#inverse-design_AW" target="_blank">
+      <figure>
+      <figcaption>Comp. Design - Metamaterial Inverse Design</figcaption>
         <img src="/../_media/research/Amber_inversedesign.gif" alt="amber_inverse" style="width:100%"> 
-    </a>
-  </div>
-  <div class="grid-item">
-    <a href="https://idea-lab-ic.github.io/#/research/CompDesign#PINN" target="_blank">
-        <img src="/../_media/research/PINN_DED_gif.gif" alt="pinn" style="width:100%"> 
+        
+        </figure>
     </a>
   </div>
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/CompDesign#battery_CK" target="_blank">
+      <figure>
+        <figcaption>Comp. Design - TO for battery electrode</figcaption>
         <img src="/../_media/research/2023_08_CK_battery.gif" alt="ck_battery" style="width:100%"> 
+        
+        </figure>
     </a>
   </div>  
   <div class="grid-item">
-    <a href="https://idea-lab-ic.github.io/#/research/CompDesign#latent-space" target="_blank">
-        <img src="/../_media/research/latent_space.gif" alt="latent-space" style="width:100%"> 
+    <a href="https://idea-lab-ic.github.io/#/research/M_and_P#cold-spray" target="_blank">
+      <figure>
+        <figcaption>M&P - Cold Spray in Vacuum</figcaption>
+        <br>
+        <img src="/../_media/research/cold-spray.gif" alt="cold-spray" style="width:100%"> 
+        
+        </figure>
     </a>
   </div> 
+
   <div class="grid-item">
-    <a href="https://idea-lab-ic.github.io/#/research/M_and_P#cold-spray" target="_blank">
-        <img src="/../_media/research/cold-spray.gif" alt="cold-spray" style="width:100%"> 
+    <a href="https://idea-lab-ic.github.io/#/research/CompDesign#PINN" target="_blank">
+      <figure>
+        <figcaption>Comp. Design - PINN for DED Temp. History Prediction</figcaption>
+        <img src="/../_media/research/PINN_DED_gif.gif" alt="pinn" style="width:100%"> 
+        </figure>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="https://idea-lab-ic.github.io/#/research/CompDesign#latent-space" target="_blank">
+      <figure>
+        <figcaption>Comp. Design - Transition cell generation from Latant Space</figcaption>
+        <img src="/../_media/research/latent_space.gif" alt="latent-space" style="width:100%"> 
+        </figure>
     </a>
   </div> 
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/M_and_P#impact_PJ" target="_blank">
+      <figure>
+        <figcaption>M&P - Grading for Impact</figcaption>
         <img src="/../_media/research/CF_Grading_pat.gif" alt="impact_PJ" style="width:100%"> 
+        </figure>
     </a>
   </div> 
 </div>
@@ -104,7 +127,7 @@ with a strong focus on fulfilling the respective engineering objectives.
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto;  /* defines number of columns */
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;  /* defines number of columns */
   /* background-color: #2196F3; */
   /* padding: 10px; */
 }
@@ -112,7 +135,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   /* background-color: rgba(255, 255, 255, 0.8); */
   /* border: 1px solid rgba(0, 0, 0, 0.8); */
   padding: 1px;
-  font-size: 0px;
+  /* font-size: 0px; */
   text-align: center;
 }
 
@@ -123,6 +146,21 @@ with a strong focus on fulfilling the respective engineering objectives.
   line-height: 1.2;
   row-gap: 0px; 
   }
+
+
+figure {
+  /* border: 1px #cccccc solid; */
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  /* background-color: black; */
+  color: black;
+  /* font-style: italic; */
+  padding: 2px;
+  text-align: center;
+}
 
 .Google{
 		background-color: #DB4437;
