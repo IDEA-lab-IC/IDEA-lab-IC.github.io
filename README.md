@@ -67,6 +67,11 @@ with a strong focus on fulfilling the respective engineering objectives.
 
 
 <h2> Collaborators/Partners </h2>
+<b> External Collaborators </b>
+<div style="text-align:center">
+<img src="/../_media/collaborators.png" style="width:100%">
+</div>
+
 <b> Internal Collaborators </b>
 <div class="two-column-layout"> 
 
@@ -88,11 +93,6 @@ with a strong focus on fulfilling the respective engineering objectives.
 
   <p> <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/composites-centre" target = "_blank">The Composite Centre</a> </p>
   <p> Dr <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/qianqian.li" target = "_blank">Qianqian Li</a> </p>
-</div>
-
-<b> External Collaborators </b>
-<div style="text-align:center">
-<img src="/../_media/collaborators.png" style="width:100%">
 </div>
 
 <h2> Funders/Sponsors </h2>
