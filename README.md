@@ -19,7 +19,7 @@ The research conducted in IDEA Lab revolves around two main themes:
 1. <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/CompDesign" target = "_blank">**computational design**</a>
 2. <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/M_and_P" target = "_blank">**material & processes**</a>  
 
-with a strong focus on fulfilling the resepctive engineering objectives.
+with a strong focus on fulfilling the respective engineering objectives.
 </div>
 
 <!-- <div style="text-align:center">
@@ -70,10 +70,7 @@ with a strong focus on fulfilling the resepctive engineering objectives.
 <b> Internal Collaborators </b>
 <div class="two-column-layout"> 
 
-  <p> </p>
-  <p> Professor <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/m.p.ryan" target = "_blank">Mary Ryan</a> </p>
-
-  <p> <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/structural-power-composites/" target = "_blank">Structural Power Composites</a> </p>
+   <p> <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/structural-power-composites/" target = "_blank">Structural Power Composites</a> </p>
   <p> Professor <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/e.greenhalgh" target = "_blank">Emile S Greenhalgh</a> 
   <br>
   Professor <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.shaffer" target = "_blank">Milo Shaffer</a> 
@@ -82,6 +79,12 @@ with a strong focus on fulfilling the resepctive engineering objectives.
 
   <p> <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/structural-metamaterials/" target = "_blank">Structural Metamaterials Group</a> </p>
   <p> Professor <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/r.hewson" target = "_blank">Robert Hewson</a> </p>
+
+  <p> </p>
+  <p> Professor <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/m.p.ryan" target = "_blank">Mary Ryan</a> </p>
+
+  <p> <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/aeronautics/research/facilities/space-lab/" target = "_blank">Space Engineering Lab</a> </p>
+  <p> Dr <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/a.knoll" target = "_blank">Aaron Knoll</a> </p>
 
   <p> <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/composites-centre" target = "_blank">The Composite Centre</a> </p>
   <p> Dr <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/qianqian.li" target = "_blank">Qianqian Li</a> </p>
