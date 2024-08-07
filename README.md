@@ -19,7 +19,7 @@ The research conducted in IDEA Lab revolves around two main themes:
 1. <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/CompDesign" target = "_blank">**computational design**</a>
 2. <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/M_and_P" target = "_blank">**material & processes**</a>  
 
-with a strong focus on fulfilling the resepctive engineering objectives.
+with a strong focus on fulfilling the respective engineering objectives.
 </div>
 
 <!-- <div style="text-align:center">
