@@ -16,8 +16,8 @@ We, at Innovative DEsign & Advanced manufacturing (IDEA) Lab, led by <a style = 
 <div style="text-align: justify"> 
 The research conducted in IDEA Lab revolves around two main themes: 
 
-1. <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/CompDesign" target = "_blank">**computational design**</a>
-2. <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/M_and_P" target = "_blank">**material & processes**</a>  
+1. <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/CompDesign" target = "_blank">**computational design** (CD)</a>
+2. <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/M_and_P" target = "_blank">**material & processes**(M&P)</a>  
 
 with a strong focus on fulfilling the respective engineering objectives.
 </div>
@@ -36,7 +36,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/CompDesign#inverse-design_AW" target="_blank">
       <figure>
-      <figcaption>Comp. Design - Metamaterial Inverse Design</figcaption>
+      <figcaption>CD - Metamaterial Inverse Design</figcaption>
         <img src="/../_media/research/Amber_inversedesign.gif" alt="amber_inverse" style="width:100%"> 
         
         </figure>
@@ -45,7 +45,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/CompDesign#battery_CK" target="_blank">
       <figure>
-        <figcaption>Comp. Design - TO for battery electrode</figcaption>
+        <figcaption>CD - TO for battery electrode</figcaption>
         <img src="/../_media/research/2023_08_CK_battery.gif" alt="ck_battery" style="width:100%"> 
         
         </figure>
@@ -65,7 +65,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/CompDesign#PINN" target="_blank">
       <figure>
-        <figcaption>Comp. Design - PINN for DED Temp. History Prediction</figcaption>
+        <figcaption>CD - PINN for DED Temp. History Prediction</figcaption>
         <img src="/../_media/research/PINN_DED_gif.gif" alt="pinn" style="width:100%"> 
         </figure>
     </a>
@@ -73,7 +73,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/CompDesign#latent-space" target="_blank">
       <figure>
-        <figcaption>Comp. Design - Transition cell generation from Latant Space</figcaption>
+        <figcaption>CD - Transition cell generation from Latent Space</figcaption>
         <img src="/../_media/research/latent_space.gif" alt="latent-space" style="width:100%"> 
         </figure>
     </a>
@@ -90,15 +90,15 @@ with a strong focus on fulfilling the respective engineering objectives.
 
 
 <h2> Collaborators/Partners </h2>
-<b> External Collaborators </b>
+<h3> External Collaborators </h3>
 <div style="text-align:center">
 <img src="/../_media/collaborators.png" style="width:100%">
 </div>
 
-<b> Internal Collaborators </b>
+<h3> Internal Collaborators </h3>
 <div class="two-column-layout"> 
 
-   <p> <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/structural-power-composites/" target = "_blank">Structural Power Composites</a> </p>
+  <p> <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/structural-power-composites/" target = "_blank">Structural Power Composites</a> </p>
   <p> Professor <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/e.greenhalgh" target = "_blank">Emile S Greenhalgh</a> 
   <br>
   Professor <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.shaffer" target = "_blank">Milo Shaffer</a> 
@@ -130,6 +130,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   grid-template-columns: 0.5fr 0.5fr 0.5fr;  /* defines number of columns */
   /* background-color: #2196F3; */
   /* padding: 10px; */
+  grid-row-gap: 0px;
 }
 .grid-item {
   /* background-color: rgba(255, 255, 255, 0.8); */
@@ -142,11 +143,10 @@ with a strong focus on fulfilling the respective engineering objectives.
 .two-column-layout { 
   display: grid;              /* Use CSS Grid */ 
   grid-template-columns: 0.5fr 0.5fr;   /* Create two equal-width columns */ 
-  grid-gap: 12px;             /* Add spacing between columns (adjust as needed) */ 
+  grid-gap: 5px;             /* Add spacing between columns (adjust as needed) */ 
   line-height: 1.2;
-  row-gap: 0px; 
+  grid-row-gap: 0px; 
   }
-
 
 figure {
   /* border: 1px #cccccc solid; */
