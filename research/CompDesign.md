@@ -87,7 +87,7 @@ Benchmark comparisons against analytical morphing and existing ML-based solution
 
 <b> Relevant Publication(s): </b>
 
-X. Yu, B. Peng, A. Panesar, <i> Smooth 3D transition cell generation based on latent space arithmetic</i>, (In preparation)
+X. Yu, B. Peng, A. Panesar, <i> Smooth 3D transition cell generation based on latent space arithmetic</i>, (Under review)
 
 
 
