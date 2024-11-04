@@ -12,6 +12,8 @@
 	<!-- * [Postdoc. RA](People/postdoc.md) -->
 	<!-- * [PhD Researchers](People/phd.md) -->
 	<!-- * [Testing](People/test.md) -->
+- [Resources](README_GROUP.md "IDEA Lab")
+	* [Adjoint Method](https://sashalsey.github.io/adjointh)
 <!-- - [TEST](exp/README.md) -->
 <!-- - [FAQs](faq.md) -->
 <!-- - [Experimenting](exp/README.md)
