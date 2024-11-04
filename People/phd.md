@@ -48,6 +48,21 @@
 	</p>
 </div>
 
+<hr>
+<h3 id="amber"> Ms. Sasha Halsey </h3>
+<a href="https://www.linkedin.com/in/sasha-halsey-51a172202/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/sasha.jpg" width=120 height=160
+				alt="Sasha">
+	</div>
+	
+	<p>
+		My research is optimzing laser wire additive manufacturing (LWAM) processes and topology. There are many constraints and competing objectives that need to be considered to produce large-scale, manufacturable parts using direct energy deposition. The interaction between the laser and metal is partially understood, affected by temperature, size, speed and shape – in turn defining deposition. This covers everything from the grain structure, residual stress to surface roughness and deformations due to thermal histories.
+	</p>
+</div>
+
 <!-- --------------- TEMPLATE ----------------------- -->
 <!-- <hr>
 <h3> XXX </h3>
