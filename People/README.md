@@ -324,6 +324,40 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
   </div>
 </div>
 
+<hr>
+<h3 id="sasha"> Ms Sasha Halsey </h3>
+<a href="www.linkedin.com/in/sasha-halsey-51a172202/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/sasha.jpg" style="width:100%"
+				alt="Sasha", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: Optimization of laser wire additive manufacturing processes and topology
+
+<b>Objectives</b>: 
+
+* To develop a computational tool for the LWAM machine
+* To test and evaluate example componenents
+
+
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+My research is optimzing laser wire additive manufacturing (LWAM) processes and topology. There are many constraints and competing objectives that need to be considered to produce large-scale, manufacturable parts using direct energy deposition. The interaction between the laser and metal is partially understood, affected by temperature, size, speed and shape – in turn defining deposition. This covers everything from the grain structure, residual stress to surface roughness and deformations due to thermal histories.
+
+</details>
+
+<b>Something more about me</b>: I enjoy cycling up mountains across Europe. 
+
+  </div>
+  </div>
+</div>
 
 <h2> Alumni </h2>
 <!-- <details>
