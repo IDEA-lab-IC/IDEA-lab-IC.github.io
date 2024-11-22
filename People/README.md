@@ -353,6 +353,7 @@ Metamaterials have attracted interest due to their outstanding properties across
 
 </details>
 <b>Collaboration / sponsor</b>: Asahi Kasei Corporation
+
 <b>Something more about me</b>: I enjoy hiking and skiing. 
 
   </div>
