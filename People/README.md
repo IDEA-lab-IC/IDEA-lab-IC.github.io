@@ -325,6 +325,41 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
 </div>
 
 <hr>
+<h3 id="sasha"> Ms Aya Hosoi </h3>
+<a href="www.linkedin.com/in/aya-hosoi-ba1764326/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/aya.jpg" style="width:100%"
+				alt="Aya", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: Develop a topology optimisation method to design multifunctional metamaterials
+
+<b>Objectives</b>: 
+
+* Develop an efficient ML-based multi-scale topology optimisation method to achieve multi-objectives
+* Validate the performance of designed structures through fabrication and experiments
+
+
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+Metamaterials have attracted interest due to their outstanding properties across various fields, such as mechanical, thermal, electromagnetic and acoustic.  Those properties are realised by underlying architectures of metamaterials. Controlling the micro-architecture in a multiscale metamaterial opens the possibility to fulfil multifunctional applications.  The study aims to advance on the ML-based method by extending the geometry space to include 3-dimensional (3D) unit cells and caters for material anisotropy opening the opportunity to utilise fibre-reinforced additive manufacturing (FRAM).
+
+</details>
+<b>Collaboration / sponsor</b>: Asahi Kasei Corporation
+<b>Something more about me</b>: I enjoy hiking and skiing. 
+
+  </div>
+  </div>
+</div>
+
+<hr>
 <h3 id="sasha"> Ms Sasha Halsey </h3>
 <a href="www.linkedin.com/in/sasha-halsey-51a172202/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
