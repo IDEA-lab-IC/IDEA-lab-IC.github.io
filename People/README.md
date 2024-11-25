@@ -76,41 +76,6 @@ Energy storage systems such as batteries are critical components in the delivery
   </div>
 </div>
 
-<hr>
-<h3 id="john"> Dr Cletus John AKISIN (John) </h3>
-<a href="https://www.linkedin.com/in/cletus-john-akisin" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<a href="https://scholar.google.com/citations?hl=en&tzom=-60&user=SxTmHXYAAAAJ" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
-<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
-<div class="row">
-  <div class="columnminor">
-    <figure>
-        <img src="/../_profilePhotos/john.jpg" style="width:100%"
-				alt="John", style="float: left; margin:5px">
-    </figure>
-  </div>
-
-  <div class="columnmajor">
-  <div align="justify">
-<b>Research Aim</b>: Design, manufacture, and operation of custom-made vacuum cold spray system for in-space manufacturing and repair. A project funded by the UK space agency (UKSA).
-
-<b>Objectives</b>: 
-
-* To become an expert in metal AM fabrication processes, specifically, cold spray system.
-*	To demonstrate breadth of expertise, both, in computational and experimental methods to enable CSAM.
-*	To translate low-TRL research from University to Industry.
-
-<details>
-<summary> <b>Short scientific description</b> (click to expand) </summary>
-Cold spray additive manufacturing (CSAM) systems are already being used on Earth for additive manufacturing and repair of metal components under atmospheric conditions. Through this project we will evaluate the feasibility of CSAM for in-situ (in-free space) repairs of spacecraft components.
-
-</details>
-
-<b>Something more about me</b>: Swimming, cycling and driving long distance or road trips 
-
-  </div>
-  </div>
-</div>
-
 <!-- ------------------------------ -->
 <h2> PhD Students </h2>
 <h3 id="amber"> Ms Jier WANG (Amber) </h3>
