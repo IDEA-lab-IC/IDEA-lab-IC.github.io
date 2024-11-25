@@ -375,7 +375,7 @@ My research is optimzing laser wire additive manufacturing (LWAM) processes and 
         <h4>Dr Cletus John AKISIN (John)</h4>
       </a>
         <p class="title">PhD alumnus</p>
-        <p>(2017-2021)</p>
+        <p>(2023-2024)</p>
         <p>
         <a href="mailto:c.akisin@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
           <button class="button">Contact</button>
