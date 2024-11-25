@@ -365,7 +365,26 @@ My research is optimzing laser wire additive manufacturing (LWAM) processes and 
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
 
 <div class="row">
-
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
+        <img src="../_profilePhotos/john.jpg" alt="John" style="width:100%">
+      </a>
+      <div class="container">
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
+        <h4>Dr Cletus John AKISIN (John)</h4>
+      </a>
+        <p class="title">PhD alumnus</p>
+        <p>(2017-2021)</p>
+        <p>
+        <a href="mailto:c.akisin@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
+      </div>
+    </div>
+  </div>
+	
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#chanhui">
