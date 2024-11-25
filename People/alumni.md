@@ -1,6 +1,24 @@
 <h1> Alumni </h1>
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<hr>
+<h3 id="john"> Dr Cletus John AKISIN (John) </h3>
+<a href="https://www.linkedin.com/in/cletus-john-akisin" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://scholar.google.com/citations?hl=en&tzom=-60&user=SxTmHXYAAAAJ" style="text-decoration: none;" title="researchGate" class="researchGate" target = "_blank"> Research Gate</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/john.jpg" style="width:100%"
+				alt="John", style="float: left; margin:5px">
+	</div>
+	
+	<p>
+		My project spanned the design, manufacture, and operation of custom-made vacuum cold spray system for in-space manufacturing and repair, and was funded by the UK space agency (UKSA). Cold spray additive manufacturing (CSAM) systems are already being used on Earth for additive manufacturing and repair of metal components under atmospheric conditions. This project evaluated the feasibility of CSAM for in-situ (in-free space) repairs of spacecraft components, demonstrating expertise in computational and experimental methods to enable CSAM. It also enabled translation of low-TRL research from university to industry.
+	</p>
+</div>
+
+
 <hr>
 <h3 id="chanhui"> Dr Chanhui LEE </h3>
 <a href="https://www.linkedin.com/in/chanhui-lee-929a1a16a/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
