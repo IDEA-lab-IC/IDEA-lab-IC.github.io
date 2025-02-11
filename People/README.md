@@ -336,7 +336,7 @@ My research is optimzing laser wire additive manufacturing (LWAM) processes and 
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
-        <h4>Dr Amber WANG</h4>
+        <h4>Dr Jier WANG (Amber)</h4>
       </a>
         <p class="title">PhD alumnus</p>
         <p>(2023-2024)</p>
