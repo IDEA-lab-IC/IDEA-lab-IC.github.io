@@ -78,42 +78,6 @@ Energy storage systems such as batteries are critical components in the delivery
 
 <!-- ------------------------------ -->
 <h2> PhD Students </h2>
-<h3 id="amber"> Ms Jier WANG (Amber) </h3>
-<a href="https://www.linkedin.com/in/jier-wang-b8a755223" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
-
-<div class="row">
-  <div class="columnminor">
-    <figure>
-        <img src="/../_profilePhotos/amber.jpg" style="width:100%"
-				alt="Amber", style="float: left; margin:5px">
-    </figure>
-  </div>
-
-  <div class="columnmajor">
-  <div align="justify">
-<b>Research Aim</b>: Applying Machine Learning (ML) to achieve inverse design of metamaterials and optimisation of functionally graded metamaterial structures.
-
-<b>Objectives</b>: 
-
-* To propose efficient ML-based functionally graded metamaterial structural design methods considering multiple objectives.
-*	To build ML-based inverse generators for metamaterial architecture design based on target properties.
-*	To apply functionally graded metamaterial designs to electric vehicles’ battery protection structures, for efficient thermal management and high structural stiffness.
-
-
-<details>
-<summary> <b>Short scientific description</b> (click to expand) </summary>
-Metamaterial structures, known for their outstanding properties, have been applied across a wide range of sectors to achieve lightweight and functional designs. Their high performance and functionality typically arise from multiscale designs, where spatially graded metamaterials with intricate complex architectures are used to construct entire structures through effective optimisation strategies. With the developments in Additive Manufacturing (AM), metamaterial structures can now be fabricated with limited manufacturing constraints, which facilitates the design of metamaterials to become more flexible. My work seeks to employ ML to improve the performance of functionally graded metamaterial designs and significantly reduce the required computational effort.
-</details>
-
-<b>Something more about me</b>: I enjoy baking.
-
-  </div>
-  </div>
-</div>
-
-
-
 <hr>
 <h3 id="bohan"> Mr Bohan PENG </h3>
 <!-- <a href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
@@ -364,6 +328,27 @@ My research is optimzing laser wire additive manufacturing (LWAM) processes and 
 <!-- <details>
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
 
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
+        <img src="../_profilePhotos/amber.jpg" alt="Amber" style="width:100%">
+      </a>
+      <div class="container">
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
+        <h4>Dr Amber WANG</h4>
+      </a>
+        <p class="title">PhD alumnus</p>
+        <p>(2023-2024)</p>
+        <p>
+        <a href="mailto:a.wang20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
+          <button class="button">Contact</button>
+        </a>
+        </p>
+      </div>
+    </div>
+  </div>
+	
 <div class="row">
   <div class="column">
     <div class="card">
