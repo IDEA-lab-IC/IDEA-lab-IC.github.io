@@ -2,6 +2,23 @@
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+
+<hr>
+<h3 id="amber"> Dr Amber WANG </h3>
+<a href="https://www.linkedin.com/in/jier-wang-b8a755223" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/amber.jpg" style="width:100%"
+				alt="Amber", style="float: left; margin:5px">
+	</div>
+	
+	<p>
+		My investigation focused on applying Machine Learning (ML) in Design for Additive Manufacturing (DfAM), especially in Design of lattice structures. Lattice structures are architectures constructed by spatial periodic cells. The controllable shape and size, the high strength-to-weight ratio, and the tuneable mechanical properties have brought lattice structures greater attention. I'm trying to seek for sophisticated lattice generation methods which could use ML to enhance the structural performance. I believe that lattice structures can approximate the high performance of Topology Optimisation (TO) design, but shrink the time required for generating high-resolution structures. Recent work applying ML-based lattice inverse design to functionally-graded lattice generation is published in AM journal (doi:10.1016/j.addma.2022.103238). I'm now looking into exploiting multi-functionality of lattice designs and lattice-based compliant mechanisms. Further investigation into lattice behaviour under plastic deformation is also expected to help improve lattice energy absorption capability.
+	</p>
+</div>
+
+
 <hr>
 <h3 id="john"> Dr Cletus John AKISIN (John) </h3>
 <a href="https://www.linkedin.com/in/cletus-john-akisin" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
