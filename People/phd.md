@@ -33,7 +33,7 @@
 </div>
 
 <hr>
-<h3 id="amber"> Ms. Sasha Halsey </h3>
+<h3 id="Sasha"> Ms. Sasha Halsey </h3>
 <a href="https://www.linkedin.com/in/sasha-halsey-51a172202/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
@@ -44,6 +44,21 @@
 	
 	<p>
 		My research is optimzing laser wire additive manufacturing (LWAM) processes and topology. There are many constraints and competing objectives that need to be considered to produce large-scale, manufacturable parts using direct energy deposition. The interaction between the laser and metal is partially understood, affected by temperature, size, speed and shape – in turn defining deposition. This covers everything from the grain structure, residual stress to surface roughness and deformations due to thermal histories.
+	</p>
+</div>
+
+<hr>
+<h3 id="Victor"> Mr Victor Moanta </h3>
+<a href="https://www.linkedin.com/in/victor-moanta-6337b01b9/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/victor" width=120 height=160
+				alt="Victor">
+	</div>
+	
+	<p>
+		Repeatability of part quality is one of the biggest challenges faced by the laser powder bed fusion manufacturing process. High demands for part certification in industries such as aerospace require a mature understanding of the complex phenomena occurring during printing and their influence on the quality of the part. The gas flow system is one particular component where current knowledge is very limited due to the many challenges posed by the printer environment in terms of data acquisition. However, the influence of the gas flow is undeniable and has been noted numerous times in literature due to its effect on spatter redeposition and removal of process by-products. Creating a method of in-situ flow characterisation and investigating improvements to the gas delivery system are, therefore, crucial steps in the evolution of laser powder bed fusion.
 	</p>
 </div>
 
