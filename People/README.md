@@ -324,6 +324,41 @@ My research is optimzing laser wire additive manufacturing (LWAM) processes and 
   </div>
 </div>
 
+<hr>
+<h3 id="victor"> Mr Victor Moanta </h3>
+<a href="www.linkedin.com/in/victor-moanta-6337b01b9/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/sasha.jpg" style="width:100%"
+				alt="Victor", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: To study and experimentally characterise gas flows and their influence on part quality in laser powder bed fusion printers
+
+<b>Objectives</b>: 
+
+* To devise experimental measuring techniques for measuring the flow field inside the chamber of laser powder bed fusion printers
+* To correlate the mapped flow with spatter redeposition, process by-product removal and, ultimately, resulting quality of printed parts
+* To investigate design improvements and optimisations of the gas delivery system
+
+
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+Repeatability of part quality is one of the biggest challenges faced by the laser powder bed fusion manufacturing process. High demands for part certification in industries such as aerospace require a mature understanding of the complex phenomena occurring during printing and their influence on the quality of the part. The gas flow system is one particular component where current knowledge is very limited due to the many challenges posed by the printer environment in terms of data acquisition. However, the influence of the gas flow is undeniable and has been noted numerous times in literature due to its effect on spatter redeposition and removal of process by-products. Creating a method of in-situ flow characterisation and investigating improvements to the gas delivery system are, therefore, crucial steps in the evolution of laser powder bed fusion.
+
+</details>
+
+<b>Something more about me</b>: I am very passionate about music and games.
+
+  </div>
+  </div>
+</div>
 <h2> Alumni </h2>
 <!-- <details>
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
