@@ -331,7 +331,7 @@ My research is optimzing laser wire additive manufacturing (LWAM) processes and 
 <div class="row">
   <div class="columnminor">
     <figure>
-        <img src="/../_profilePhotos/sasha.jpg" style="width:100%"
+        <img src="/../_profilePhotos/victor.jpg" style="width:100%"
 				alt="Victor", style="float: left; margin:5px">
     </figure>
   </div>
@@ -359,6 +359,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
   </div>
   </div>
 </div>
+
 <h2> Alumni </h2>
 <!-- <details>
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
