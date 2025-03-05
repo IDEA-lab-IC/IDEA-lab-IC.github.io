@@ -3,7 +3,7 @@
 <b> Department of Aeronautics, Imperial College London </b>
 
 <div style="text-align:center">
-<img src="/../_media/group-photo_2024_a.jpg" style="width:100%">
+<img src="/../_media/group-photo_2025_a.jpg" style="width:100%">
 </div>
 
 <div align="justify">
