@@ -364,7 +364,6 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
 <!-- <details>
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
 
-<div class="row">
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
@@ -385,7 +384,6 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
     </div>
   </div>
 	
-<div class="row">
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
