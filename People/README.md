@@ -363,7 +363,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
 <h2> Alumni </h2>
 <!-- <details>
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
-
+<div class="row">
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
@@ -424,6 +424,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
     </div>
   </div>
 
+<div class="row">
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#janos">
@@ -464,24 +465,6 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
     </div>
   </div>
 
-  <!-- <div class="column">
-    <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/phd">
-        <img src="../_profilePhotos/dummy3.png" alt="Marie" style="width:100%">
-      </a>
-      <div class="container">
-        <h4>Marie Ross</h4>
-        <p class="title">PhD alumna</p>
-        <p>(20XX-20XX)</p>
-        <p>
-        <a href="mailto: " target = "_blank">
-          <button class="button">Contact</button>
-        </a>
-        </p>
-      </div>
-    </div>
-  </div> -->
-
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
@@ -503,28 +486,6 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
   </div>
 
 </div>
-
-<!-- <div class="row">
-
-<div class="column">
-    <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
-        <img src="../_profilePhotos/rachel.jpg" alt="Rachel" style="width:100%">
-      </a>
-      <div class="container">
-        <h4>Rachel Moloney</h4>
-        <p class="title">RA alumna</p>
-        <p>(2023-2024)</p>
-        <p>
-        <a href="mailto:r.moloney@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
-        </p>
-      </div>
-    </div>
-  </div>
-
-</div> -->
 
 <!-- </details> -->
 
