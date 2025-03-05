@@ -12,9 +12,9 @@
 	<!-- * [Postdoc. RA](People/postdoc.md) -->
 	<!-- * [PhD Researchers](People/phd.md) -->
 	<!-- * [Testing](People/test.md) -->
-- [Resources](README_GROUP.md "IDEA Lab")
+<!--- [Resources](README_GROUP.md "IDEA Lab")
 	* [Adjoint Method](https://sashalsey.github.io/adjointh)
-	* [Strong Form vs Weak Form](https://sashalsey.github.io/strong_and_weak_form)
+	* [Strong Form vs Weak Form](https://sashalsey.github.io/strong_and_weak_form) -->
 <!-- - [TEST](exp/README.md) -->
 <!-- - [FAQs](faq.md) -->
 <!-- - [Experimenting](exp/README.md)
