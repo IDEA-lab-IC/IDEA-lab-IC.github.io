@@ -1,7 +1,7 @@
 <h1> Members of IDEA Lab </h1>
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<hr>
+
 <h2> Head of Group </h2>
 <h3 id="ajit"> Dr Ajit PANESAR </h3>
 <a href="https://www.linkedin.com/in/ajit-panesar-bb986540/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
@@ -78,7 +78,6 @@ Energy storage systems such as batteries are critical components in the delivery
 
 <!-- ------------------------------ -->
 <h2> PhD Students </h2>
-<hr>
 <h3 id="bohan"> Mr Bohan PENG </h3>
 <!-- <a href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
 <a href="https://www.linkedin.com/in/bohan-peng-573724147/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
