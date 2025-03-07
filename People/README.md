@@ -364,6 +364,8 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
 <!-- <details>
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
 
+<div class="row">
+  <!-- First row with 3 cards -->
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
@@ -371,14 +373,14 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
-        <h4>Dr Jier WANG (Amber)</h4>
-      </a>
+          <h4>Dr Jier WANG (Amber)</h4>
+        </a>
         <p class="title">PhD alumnus</p>
         <p>(2023-2024)</p>
         <p>
-        <a href="mailto:a.wang20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:a.wang20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
@@ -391,14 +393,14 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
-        <h4>Dr Cletus John AKISIN (John)</h4>
-      </a>
+          <h4>Dr Cletus John AKISIN (John)</h4>
+        </a>
         <p class="title">PhD alumnus</p>
         <p>(2023-2024)</p>
         <p>
-        <a href="mailto:c.akisin@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:c.akisin@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
@@ -411,34 +413,37 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#chanhui">
-        <h4>Dr Chanhui Lee</h4>
-      </a>
+          <h4>Dr Chanhui Lee</h4>
+        </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2021)</p>
         <p>
-        <a href="mailto:c.lee17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:c.lee17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
   </div>
+</div>
 
 <div class="row">
+  <!-- Second row with 3 cards -->
+  <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#janos">
         <img src="../_profilePhotos/janos.jpg" alt="János" style="width:100%">
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#janos">
-        <h4>Dr János Plocher</h4>
+          <h4>Dr János Plocher</h4>
         </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2022)</p>
         <p>
-        <a href="mailto:janos.plocher16@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:janos.plocher16@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
@@ -451,14 +456,14 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#yingwei">
-        <h4>Dr Yingwei Hou</h4>
+          <h4>Dr Yingwei Hou</h4>
         </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2022)</p>
         <p>
-        <a href="mailto:y.hou17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:y.hou17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
@@ -471,19 +476,18 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
-        <h4>Dr Rachel Moloney</h4>
-      </a>
+          <h4>Dr Rachel Moloney</h4>
+        </a>
         <p class="title">RA alumna</p>
         <p>(2023-2024)</p>
         <p>
-        <a href="mailto:r.moloney@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:r.moloney@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
   </div>
-
 </div>
 
 <!-- </details> -->
