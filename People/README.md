@@ -26,7 +26,7 @@
 
 <b>Profile</b>: 
 
-Ajit is an Associate Professor in Computational Design for Advanced Manufacturing at ICL  and has extensive experience in design-optimisation including leveraging ML in design, and manufacturing expertise in composites and AM. He has authored a book chapter in the <a style = " white-space:nowrap; " href="https://doi.org/10.31399/asm.hb.v24A.a0006950">ASM Handbook Vol 24B</a> and contributed to over 40 publications (receiving >2350 citations; h-index = 15) in Q1 journals and leading conferences, with several papers exceeding 400+ citations. His efforts have been recognised by the <a style = " white-space:nowrap; " href="https://imperiallondon-my.sharepoint.com/personal/apanesar_ic_ac_uk/Documents/%23%20MAIN/%23%20Imperial/%23%20IDEA%20Lab/Admin/~%20IDEA%20Lab%20PPT%20Template/EP/V001108/1">EPSRC funded DfAM network</a> where he currently holds the <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/research/">key research theme leader</a> position for the “Computational Tools” theme. Ajit has several ongoing collaborations to progress state-of-the-art and create tangible impact across a wide-ranging sectors. He has been successful in securing funding for his research from both research councils and Industry. Importantly. he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors and the wider community!
+Ajit is an Associate Professor in Computational Design for Advanced Manufacturing at ICL  and has extensive experience in design-optimisation including leveraging ML in design, and manufacturing expertise in composites and AM. He has authored a book chapter in the <a style = " white-space:nowrap; " href="https://doi.org/10.31399/asm.hb.v24A.a0006950">ASM Handbook Vol 24B</a> and contributed to over 40 publications (receiving >3400 citations; h-index = 17) in Q1 journals and leading conferences, with several papers exceeding 250+ citations. His efforts have been recognised by the <a style = " white-space:nowrap; " href="https://imperiallondon-my.sharepoint.com/personal/apanesar_ic_ac_uk/Documents/%23%20MAIN/%23%20Imperial/%23%20IDEA%20Lab/Admin/~%20IDEA%20Lab%20PPT%20Template/EP/V001108/1">EPSRC funded DfAM network</a> where he currently holds the <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/research/">key research theme leader</a> position for the “Computational Tools” theme. Ajit has several ongoing collaborations to progress state-of-the-art and create tangible impact across a wide-ranging sectors. He has been successful in securing funding for his research from both research councils and Industry. Importantly. he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors and the wider community!
 <!-- <details>
 <summary> <b>Short scientific description</b> (click to expand) </summary>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -97,7 +97,7 @@ Energy storage systems such as batteries are critical components in the delivery
 <b>Objectives</b>: 
 
 * To investigate the effectiveness of ML-based techniques in generating designs for AM
-* T•	To realise the transformation of ML from black-box to grey-box with scientific machine learning approaches
+* To realise the transformation of ML from black-box to grey-box with scientific machine learning approaches
 * To develop ML-based methods alternative to the current numerical AM simulation methods that are less time-consuming, enabling the subsequent design optimisation that is manufacturing-aware
 
 <details>
@@ -253,7 +253,7 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
 </div>
 
 <hr>
-<h3 id="sasha"> Ms Aya Hosoi </h3>
+<h3 id="aya"> Ms Aya HOSOI </h3>
 <a href="www.linkedin.com/in/aya-hosoi-ba1764326/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
@@ -289,7 +289,7 @@ Metamaterials have attracted interest due to their outstanding properties across
 </div>
 
 <hr>
-<h3 id="sasha"> Ms Sasha Halsey </h3>
+<h3 id="sasha"> Ms Sasha HALSEY </h3>
 <a href="www.linkedin.com/in/sasha-halsey-51a172202/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
@@ -324,7 +324,7 @@ My research is optimzing laser wire additive manufacturing (LWAM) processes and 
 </div>
 
 <hr>
-<h3 id="victor"> Mr Victor Moanta </h3>
+<h3 id="victor"> Mr Victor MOANTA </h3>
 <a href="www.linkedin.com/in/victor-moanta-6337b01b9/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
@@ -392,7 +392,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
-          <h4>Dr Cletus John AKISIN (John)</h4>
+          <h4>Dr Cletus AKISIN (John)</h4>
         </a>
         <p class="title">PhD alumnus</p>
         <p>(2023-2024)</p>
@@ -412,7 +412,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#chanhui">
-          <h4>Dr Chanhui Lee</h4>
+          <h4>Dr Chanhui LEE</h4>
         </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2021)</p>
@@ -435,7 +435,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#janos">
-          <h4>Dr János Plocher</h4>
+          <h4>Dr János PLOCHER</h4>
         </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2022)</p>
@@ -455,7 +455,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#yingwei">
-          <h4>Dr Yingwei Hou</h4>
+          <h4>Dr Yingwei HOU</h4>
         </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2022)</p>
@@ -475,7 +475,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
-          <h4>Dr Rachel Moloney</h4>
+          <h4>Dr Rachel MOLONEY</h4>
         </a>
         <p class="title">RA alumna</p>
         <p>(2023-2024)</p>
