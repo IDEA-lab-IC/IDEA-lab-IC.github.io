@@ -13,7 +13,7 @@
 </div>
 
 <div style="text-align:center">
-<img src="/../_media/IdeaLab_TOP_1.png" style="width:100%">
+<img src="/../_media/IDEALab_TOP_1.png" style="width:100%">
 </div>
 
 <h2> Awards & Highlights </h2>
