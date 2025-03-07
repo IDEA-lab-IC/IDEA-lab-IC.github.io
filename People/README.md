@@ -218,7 +218,7 @@ FGMs enabled property / performance control by spatially varying the design of m
 
 <hr>
 <h3 id="priyanka"> Ms Priyanka GOYAL </h3>
-<a href="www.linkedin.com/in/priyanka-goyal1608" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://www.linkedin.com/in/priyanka-goyal1608/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
   <div class="columnminor">
@@ -254,7 +254,7 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
 
 <hr>
 <h3 id="aya"> Ms Aya HOSOI </h3>
-<a href="www.linkedin.com/in/aya-hosoi-ba1764326/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://www.linkedin.com/in/aya-hosoi-ba1764326/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
   <div class="columnminor">
@@ -290,7 +290,7 @@ Metamaterials have attracted interest due to their outstanding properties across
 
 <hr>
 <h3 id="sasha"> Ms Sasha HALSEY </h3>
-<a href="www.linkedin.com/in/sasha-halsey-51a172202/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://www.linkedin.com/in/sasha-halsey-51a172202/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
   <div class="columnminor">
@@ -325,7 +325,7 @@ My research is optimzing laser wire additive manufacturing (LWAM) processes and 
 
 <hr>
 <h3 id="victor"> Mr Victor MOANTA </h3>
-<a href="www.linkedin.com/in/victor-moanta-6337b01b9/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://www.linkedin.com/in/victor-moanta-6337b01b9/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
   <div class="columnminor">
