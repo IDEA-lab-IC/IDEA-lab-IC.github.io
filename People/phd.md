@@ -19,7 +19,7 @@
 
 <hr>
 <h3 id="pat"> Ms. Piyapat JAMEEKORNKUL </h3>
-<a href="https://th.linkedin.com/in/piyapat-jameekornkul-861670175" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://th.linkedin.com/in/piyapat-jameekornkul-861670175/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
 	<div>
@@ -33,7 +33,67 @@
 </div>
 
 <hr>
-<h3 id="Sasha"> Ms. Sasha Halsey </h3>
+<h3 id="shimeng"> Ms Shimeng QIAN </h3>
+<a href="https://th.linkedin.com/in/shimeng-qian-4698aa237/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/shimeng.jpg" width=120 height=160
+				alt="Shimeng">
+	</div>
+	
+	<p>
+		Structural power composites are devices that allow radical weight savings for any electrically powered structural system, from mobile phones to aircraft. The focuses of my study are on scale-up and multifunctional design with structural supercapacitors, with a particular focus on optimizing current collection and multifunctional constituent, as well as developing multi-scale multi-physics models for the entire devices. Both experimental studies and numerical simulation are involved within this study, the aim of the latter is to develop new strategies and multifunctional design tools for adopting structural power in future applications that can fully exploit their benefits.
+	</p>
+</div>
+
+<hr>
+<h3 id="erin"> Ms Xiaochen YU (Erin)  </h3>
+<a href="https://th.linkedin.com/in/erin-xc-yu/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/erin.jpg" width=120 height=160
+				alt="Erin">
+	</div>
+	
+	<p>
+		FGMs enabled property / performance control by spatially varying the design of microstructures. Recent development in multi-material additive manufacturing (MMAM) expands the design freedom by allowing control over both geometric parameters and material compositions. However, computational efficiency and flexibility in incorporating diverse engineering objectives become challenges in traditional numerical methods. Therefore, my research will follow a data-driven approach, exploring various ML techniques to facilitate the design of FGMs in aerospace/biomedical applications.
+	</p>
+</div>
+
+<hr>
+<h3 id="priyanka"> Ms Priyanka GOYAL </h3>
+<a href="https://th.linkedin.com/in/priyanka-goyal1608/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/priyanka.jpg" width=120 height=160
+				alt="Priyanka">
+	</div>
+	
+	<p>
+		In aeronautics, shape memory polymer nanocomposites are crucial for morphing structures, requiring reinforcement with carbon nanofillers for effective electrical actuation. Their 3D printability allows for complex, customizable designs, suitable for advanced technological applications. Multifunctional hybrid 3D-printed shape memory polymer nanocomposites can be engineered by combining thermoplastic polyurethane (TPU), carbon nanotubes (CNTs), and graphene nanoplatelets (GNPs). These nanocomposites leverage the shape memory properties of TPU, enabling them to return to a predefined shape upon heating. The incorporation of CNTs and GNPs enhances mechanical strength, electrical conductivity, and thermal stability.
+	</p>
+</div>
+
+<hr>
+<h3 id="aya"> Ms Aya HOSOI </h3>
+<a href="https://th.linkedin.com/in/aya-hosoi-ba1764326/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/aya.jpg" width=120 height=160
+				alt="Aya">
+	</div>
+	
+	<p>
+		Metamaterials have attracted interest due to their outstanding properties across various fields, such as mechanical, thermal, electromagnetic and acoustic.  Those properties are realised by underlying architectures of metamaterials. Controlling the micro-architecture in a multiscale metamaterial opens the possibility to fulfil multifunctional applications.  The study aims to advance on the ML-based method by extending the geometry space to include 3-dimensional (3D) unit cells and caters for material anisotropy opening the opportunity to utilise fibre-reinforced additive manufacturing (FRAM).
+	</p>
+</div>
+
+<hr>
+<h3 id="Sasha"> Ms. Sasha HALSEY </h3>
 <a href="https://www.linkedin.com/in/sasha-halsey-51a172202/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
@@ -48,7 +108,7 @@
 </div>
 
 <hr>
-<h3 id="Victor"> Mr Victor Moanta </h3>
+<h3 id="Victor"> Mr Victor MOANTA </h3>
 <a href="https://www.linkedin.com/in/victor-moanta-6337b01b9/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="square">
