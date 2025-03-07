@@ -4,7 +4,6 @@ Our current researches in the area of optimisation and adoption of machine learn
 </div>
 
 <h2> Machine Learning Aided Design </h2>
-<hr>
 <h3 id="PINN"> Multi-layer temperature history prediction during directed energy deposition using physics-informed neural network (PINN) </h3>
 <div style="text-align:center">
 <img src="/../_media/research/PINN_DED_gif.gif" style="width:95%">
@@ -91,7 +90,6 @@ J. Wang, A. Panesar, <i> Machine learning based lattice generation method derive
 
 
 <h2> Topology Optimisation for Multi-physics Problems </h2>
-<hr>
 <h3 id="battery_CK"> Discovery of next-generation battery electrodes using topology optimization </h3>
 <div style="text-align:center">
 <img src="/../_media/research/2023_08_CK_battery.gif" style="width:100%">
@@ -163,7 +161,6 @@ C. Lee, E. S. Greenhalgh, M. S. P. Shaffer, A. Panesar, <i> Optimized microstruc
 
 
 <h2> Numerical Modelling </h2>
-<hr>
 <h3 id="struc-power-comp"> Multiphysics Modelling for Structural Supercapacitors </h3>
 <div style="text-align:center">
 <img src="/../_media/research/shimeng_strucComp.png" style="width:100%">
