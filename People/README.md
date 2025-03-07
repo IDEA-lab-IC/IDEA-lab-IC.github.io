@@ -496,7 +496,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
 /* Three columns side by side */
 .column {
   float: left;
-  width: 25%;
+  width: 33.3%;
   margin-bottom: 16px;
   padding: 0 8px;
 }
