@@ -375,7 +375,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
           <h4>Dr Jier WANG (Amber)</h4>
         </a>
         <p class="title">PhD alumnus</p>
-        <p>(2023-2024)</p>
+        <p>(2020-2024)</p>
         <p>
           <a href="mailto:a.wang20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
             <button class="button">Contact</button>
@@ -394,7 +394,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
         <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
           <h4>Dr Cletus AKISIN (John)</h4>
         </a>
-        <p class="title">PhD alumnus</p>
+        <p class="title">RA alumnus</p>
         <p>(2023-2024)</p>
         <p>
           <a href="mailto:c.akisin@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
