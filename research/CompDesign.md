@@ -3,8 +3,28 @@
 Our current researches in the area of optimisation and adoption of machine learning in DfAM mainly focus on the generation of function-graded materials (FGM) and MDO as well as the generation of support-free, topologically optimised structures with machine learning.
 </div>
 
-
 <h2> Machine Learning Aided Design </h2>
+<h3 id="PINN"> Multi-layer temperature history prediction during directed energy deposition using physics-informed neural network (PINN) </h3>
+<div style="text-align:center">
+<img src="/../_media/research/PINN_DED_gif.gif" style="width:95%">
+</div>
+
+<div style="text-align: justify"> 
+This project implements a physics-informed neural network (PINN)-based solution framework that predicts the thermal history during a multi-layer Directed Energy Deposition (DED) process. 
+
+* New opportunities for modelling the thermally induced distortion in metal AM with the meshless nature and the readily available derivative information from PINN solution.
+* Overcomes the usual shortfall of neural networks (NNs) in dealing with discontinuities making multi-layer PINN-based simulation possible.
+* Benchmark against ANSYS validates accuracy of the proposed framework to be comparable to numerical methods. Additionally, offering computational time-savings thereby making it amenable for use in design-optimisation algorithms.
+
+The proposed framework sets the foundation for the subsequent exploration of applying scientific machine learning (SciML) techniques to real-life engineering applications. Furthermore, remarks on strategies to improve ease of training and prediction accuracy by PINN for the particular use case in DED temperature history prediction have been made. 
+</div>
+
+<b> Relevant Publication(s): </b>
+
+B. Peng, A. Panesar, <i> Multi-scan thermal simulation using physics-informed neural network</i> (2024) https://doi.org/10.1016/j.addma.2024.104498
+
+<hr>
+
 <h3 id="batt-casing_AW"> Multidisciplinary design optimisation of lattice-based battery housing for electric vehicles </h3>
 <div style="text-align:center">
 <img src="/../_media/research/Amber_BatteryCase.jpg" style="width:95%">
@@ -30,46 +50,6 @@ J. Wang, M. Schutzeichel , B. Plaumann, T. Kletschkowski, A. Panesar, <i>Multidi
 
 <hr>
 
-<h3 id="inverse-design_AW"> Machine learning based lattice generation method derived from topology optimisation </h3>
-<div style="text-align:center">
-<img src="/../_media/research/Amber_inversedesign.gif" style="width:95%">
-</div>
-
-<div style="text-align: justify"> 
-We propose a novel lattice generation method that designs graded lattice structures with the assistance of Machine Learning (ML). 
-
-* A Neural Network (NN)-based inverse lattice generator is trained to output lattice unit cells from the input of target mechanical properties. 
-* Utilises information from fast low-resolution Topology Optimisation (TO) design to inform the trained inverse generator and map lattice cells. 
-* The proposed method provides close to optimal performance whilst making the realisation of these solutions exceptionally quick. 
-</div>
-
-<b> Relevant Publication(s): </b>
-
-J. Wang, A. Panesar, <i> Machine learning based lattice generation method derived from topology optimisation</i>, Additive Manufacturing Journal, Volume 60, (2022), 103238. https://doi.org/10.1016/j.addma.2022.103238
-
-<hr>
-
-<h3 id="PINN"> Multi-layer temperature history prediction during directed energy deposition using physics-informed neural network (PINN) </h3>
-<div style="text-align:center">
-<img src="/../_media/research/PINN_DED_gif.gif" style="width:95%">
-</div>
-
-<div style="text-align: justify"> 
-This project implements a physics-informed neural network (PINN)-based solution framework that predicts the thermal history during a multi-layer Directed Energy Deposition (DED) process. 
-
-* New opportunities for modelling the thermally induced distortion in metal AM with the meshless nature and the readily available derivative information from PINN solution.
-* Overcomes the usual shortfall of neural networks (NNs) in dealing with discontinuities making multi-layer PINN-based simulation possible.
-* Benchmark against ANSYS validates accuracy of the proposed framework to be comparable to numerical methods. Additionally, offering computational time-savings thereby making it amenable for use in design-optimisation algorithms.
-
-The proposed framework sets the foundation for the subsequent exploration of applying scientific machine learning (SciML) techniques to real-life engineering applications. Furthermore, remarks on strategies to improve ease of training and prediction accuracy by PINN for the particular use case in DED temperature history prediction have been made. 
-</div>
-
-<b> Relevant Publication(s): </b>
-
-B. Peng, A. Panesar, <i> Multi-scan thermal simulation using physics-informed neural network</i>, (Under review)
-
-<hr>
-
 <h3 id="latent-space"> Smooth transition unit cell generation via latent-space arithmetic </h3>
 <div style="text-align:center">
 <img src="/../_media/research/latent_space.gif" style="width:100%">
@@ -87,14 +67,29 @@ Benchmark comparisons against analytical morphing and existing ML-based solution
 
 <b> Relevant Publication(s): </b>
 
-X. Yu, B. Peng, A. Panesar, <i> Smooth 3D transition cell generation based on latent space arithmetic</i>, (Under review)
+X. Yu, B. Peng, A. Panesar, <i> Smooth 3D transition cell generation based on latent space arithmetic</i> (2025) https://doi.org/10.1016/j.addma.2025.104714
 
+<hr>
 
+<h3 id="inverse-design_AW"> Machine learning based lattice generation method derived from topology optimisation </h3>
+<div style="text-align:center">
+<img src="/../_media/research/Amber_inversedesign.gif" style="width:95%">
+</div>
 
+<div style="text-align: justify"> 
+We propose a novel lattice generation method that designs graded lattice structures with the assistance of Machine Learning (ML). 
+
+* A Neural Network (NN)-based inverse lattice generator is trained to output lattice unit cells from the input of target mechanical properties. 
+* Utilises information from fast low-resolution Topology Optimisation (TO) design to inform the trained inverse generator and map lattice cells. 
+* The proposed method provides close to optimal performance whilst making the realisation of these solutions exceptionally quick. 
+</div>
+
+<b> Relevant Publication(s): </b>
+
+J. Wang, A. Panesar, <i> Machine learning based lattice generation method derived from topology optimisation</i>, Additive Manufacturing Journal, Volume 60, (2022), 103238. https://doi.org/10.1016/j.addma.2022.103238
 
 
 <h2> Topology Optimisation for Multi-physics Problems </h2>
-
 <h3 id="battery_CK"> Discovery of next-generation battery electrodes using topology optimization </h3>
 <div style="text-align:center">
 <img src="/../_media/research/2023_08_CK_battery.gif" style="width:100%">
@@ -121,6 +116,8 @@ Industry sponsor: Shell (contributor: <a style = " white-space:nowrap; " href="h
 <b> Relevant Publication(s): </b>
 
 C Imediegwu, MSP Shaffer, MP Ryan, A Panesar, <i>Modelling optimum thickness and architecture for lithium-ion battery cathodes</i>, Journal of Power Sources, 2024, 614, 235005 
+
+<hr>
 
 <h3 id="bone_CK"> Topology optimisation of bespoke orthopaedic implants </h3>
 <div style="text-align:center">
@@ -164,7 +161,6 @@ C. Lee, E. S. Greenhalgh, M. S. P. Shaffer, A. Panesar, <i> Optimized microstruc
 
 
 <h2> Numerical Modelling </h2>
-
 <h3 id="struc-power-comp"> Multiphysics Modelling for Structural Supercapacitors </h3>
 <div style="text-align:center">
 <img src="/../_media/research/shimeng_strucComp.png" style="width:100%">

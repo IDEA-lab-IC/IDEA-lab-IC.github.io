@@ -1,7 +1,7 @@
 <h1> Members of IDEA Lab </h1>
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<hr>
+
 <h2> Head of Group </h2>
 <h3 id="ajit"> Dr Ajit PANESAR </h3>
 <a href="https://www.linkedin.com/in/ajit-panesar-bb986540/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
@@ -26,7 +26,7 @@
 
 <b>Profile</b>: 
 
-Ajit is an Associate Professor in Computational Design for Advanced Manufacturing at ICL  and has extensive experience in design-optimisation including leveraging ML in design, and manufacturing expertise in composites and AM. He has authored a book chapter in the <a style = " white-space:nowrap; " href="https://doi.org/10.31399/asm.hb.v24A.a0006950">ASM Handbook Vol 24B</a> and contributed to over 40 publications (receiving >2350 citations; h-index = 15) in Q1 journals and leading conferences, with several papers exceeding 400+ citations. His efforts have been recognised by the <a style = " white-space:nowrap; " href="https://imperiallondon-my.sharepoint.com/personal/apanesar_ic_ac_uk/Documents/%23%20MAIN/%23%20Imperial/%23%20IDEA%20Lab/Admin/~%20IDEA%20Lab%20PPT%20Template/EP/V001108/1">EPSRC funded DfAM network</a> where he currently holds the <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/research/">key research theme leader</a> position for the “Computational Tools” theme. Ajit has several ongoing collaborations to progress state-of-the-art and create tangible impact across a wide-ranging sectors. He has been successful in securing funding for his research from both research councils and Industry. Importantly. he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors and the wider community!
+Ajit is an Associate Professor in Computational Design for Advanced Manufacturing at ICL  and has extensive experience in design-optimisation including leveraging ML in design, and manufacturing expertise in composites and AM. He has authored a book chapter in the <a style = " white-space:nowrap; " href="https://doi.org/10.31399/asm.hb.v24A.a0006950">ASM Handbook Vol 24B</a> and contributed to over 40 publications (receiving >3400 citations; h-index = 17) in Q1 journals and leading conferences, with several papers exceeding 250+ citations. His efforts have been recognised by the <a style = " white-space:nowrap; " href="https://imperiallondon-my.sharepoint.com/personal/apanesar_ic_ac_uk/Documents/%23%20MAIN/%23%20Imperial/%23%20IDEA%20Lab/Admin/~%20IDEA%20Lab%20PPT%20Template/EP/V001108/1">EPSRC funded DfAM network</a> where he currently holds the <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/research/">key research theme leader</a> position for the “Computational Tools” theme. Ajit has several ongoing collaborations to progress state-of-the-art and create tangible impact across a wide-ranging sectors. He has been successful in securing funding for his research from both research councils and Industry. Importantly. he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors and the wider community!
 <!-- <details>
 <summary> <b>Short scientific description</b> (click to expand) </summary>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -76,80 +76,8 @@ Energy storage systems such as batteries are critical components in the delivery
   </div>
 </div>
 
-<hr>
-<h3 id="john"> Dr Cletus John AKISIN (John) </h3>
-<a href="https://www.linkedin.com/in/cletus-john-akisin" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<a href="https://scholar.google.com/citations?hl=en&tzom=-60&user=SxTmHXYAAAAJ" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
-<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
-<div class="row">
-  <div class="columnminor">
-    <figure>
-        <img src="/../_profilePhotos/john.jpg" style="width:100%"
-				alt="John", style="float: left; margin:5px">
-    </figure>
-  </div>
-
-  <div class="columnmajor">
-  <div align="justify">
-<b>Research Aim</b>: Design, manufacture, and operation of custom-made vacuum cold spray system for in-space manufacturing and repair. A project funded by the UK space agency (UKSA).
-
-<b>Objectives</b>: 
-
-* To become an expert in metal AM fabrication processes, specifically, cold spray system.
-*	To demonstrate breadth of expertise, both, in computational and experimental methods to enable CSAM.
-*	To translate low-TRL research from University to Industry.
-
-<details>
-<summary> <b>Short scientific description</b> (click to expand) </summary>
-Cold spray additive manufacturing (CSAM) systems are already being used on Earth for additive manufacturing and repair of metal components under atmospheric conditions. Through this project we will evaluate the feasibility of CSAM for in-situ (in-free space) repairs of spacecraft components.
-
-</details>
-
-<b>Something more about me</b>: Swimming, cycling and driving long distance or road trips 
-
-  </div>
-  </div>
-</div>
-
 <!-- ------------------------------ -->
 <h2> PhD Students </h2>
-<h3 id="amber"> Ms Jier WANG (Amber) </h3>
-<a href="https://www.linkedin.com/in/jier-wang-b8a755223" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
-
-<div class="row">
-  <div class="columnminor">
-    <figure>
-        <img src="/../_profilePhotos/amber.jpg" style="width:100%"
-				alt="Amber", style="float: left; margin:5px">
-    </figure>
-  </div>
-
-  <div class="columnmajor">
-  <div align="justify">
-<b>Research Aim</b>: Applying Machine Learning (ML) to achieve inverse design of metamaterials and optimisation of functionally graded metamaterial structures.
-
-<b>Objectives</b>: 
-
-* To propose efficient ML-based functionally graded metamaterial structural design methods considering multiple objectives.
-*	To build ML-based inverse generators for metamaterial architecture design based on target properties.
-*	To apply functionally graded metamaterial designs to electric vehicles’ battery protection structures, for efficient thermal management and high structural stiffness.
-
-
-<details>
-<summary> <b>Short scientific description</b> (click to expand) </summary>
-Metamaterial structures, known for their outstanding properties, have been applied across a wide range of sectors to achieve lightweight and functional designs. Their high performance and functionality typically arise from multiscale designs, where spatially graded metamaterials with intricate complex architectures are used to construct entire structures through effective optimisation strategies. With the developments in Additive Manufacturing (AM), metamaterial structures can now be fabricated with limited manufacturing constraints, which facilitates the design of metamaterials to become more flexible. My work seeks to employ ML to improve the performance of functionally graded metamaterial designs and significantly reduce the required computational effort.
-</details>
-
-<b>Something more about me</b>: I enjoy baking.
-
-  </div>
-  </div>
-</div>
-
-
-
-<hr>
 <h3 id="bohan"> Mr Bohan PENG </h3>
 <!-- <a href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
 <a href="https://www.linkedin.com/in/bohan-peng-573724147/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
@@ -169,7 +97,7 @@ Metamaterial structures, known for their outstanding properties, have been appli
 <b>Objectives</b>: 
 
 * To investigate the effectiveness of ML-based techniques in generating designs for AM
-* T•	To realise the transformation of ML from black-box to grey-box with scientific machine learning approaches
+* To realise the transformation of ML from black-box to grey-box with scientific machine learning approaches
 * To develop ML-based methods alternative to the current numerical AM simulation methods that are less time-consuming, enabling the subsequent design optimisation that is manufacturing-aware
 
 <details>
@@ -290,7 +218,7 @@ FGMs enabled property / performance control by spatially varying the design of m
 
 <hr>
 <h3 id="priyanka"> Ms Priyanka GOYAL </h3>
-<a href="www.linkedin.com/in/priyanka-goyal1608" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://www.linkedin.com/in/priyanka-goyal1608/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
 <div class="row">
   <div class="columnminor">
@@ -324,13 +252,159 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
   </div>
 </div>
 
+<hr>
+<h3 id="aya"> Ms Aya HOSOI </h3>
+<a href="https://www.linkedin.com/in/aya-hosoi-ba1764326/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/aya.jpg" style="width:100%"
+				alt="Aya", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: Develop a topology optimisation method to design multifunctional metamaterials
+
+<b>Objectives</b>: 
+
+* Develop an efficient ML-based multi-scale topology optimisation method to achieve multi-objectives
+* Validate the performance of designed structures through fabrication and experiments
+
+
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+Metamaterials have attracted interest due to their outstanding properties across various fields, such as mechanical, thermal, electromagnetic and acoustic.  Those properties are realised by underlying architectures of metamaterials. Controlling the micro-architecture in a multiscale metamaterial opens the possibility to fulfil multifunctional applications.  The study aims to advance on the ML-based method by extending the geometry space to include 3-dimensional (3D) unit cells and caters for material anisotropy opening the opportunity to utilise fibre-reinforced additive manufacturing (FRAM).
+
+</details>
+<b>Collaboration / sponsor</b>: Asahi Kasei Corporation
+
+<b>Something more about me</b>: I enjoy hiking and skiing. 
+
+  </div>
+  </div>
+</div>
+
+<hr>
+<h3 id="sasha"> Ms Sasha HALSEY </h3>
+<a href="https://www.linkedin.com/in/sasha-halsey-51a172202/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/sasha.jpg" style="width:100%"
+				alt="Sasha", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: Optimization of laser wire additive manufacturing processes and topology
+
+<b>Objectives</b>: 
+
+* To develop a computational tool for the LWAM machine
+* To test and evaluate example componenents
+
+
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+My research is optimzing laser wire additive manufacturing (LWAM) processes and topology. There are many constraints and competing objectives that need to be considered to produce large-scale, manufacturable parts using direct energy deposition. The interaction between the laser and metal is partially understood, affected by temperature, size, speed and shape – in turn defining deposition. This covers everything from the grain structure, residual stress to surface roughness and deformations due to thermal histories.
+
+</details>
+
+<b>Something more about me</b>: I enjoy cycling up mountains across Europe. 
+
+  </div>
+  </div>
+</div>
+
+<hr>
+<h3 id="victor"> Mr Victor MOANTA </h3>
+<a href="https://www.linkedin.com/in/victor-moanta-6337b01b9/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/victor.jpg" style="width:100%"
+				alt="Victor", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: To study and experimentally characterise gas flows and their influence on part quality in laser powder bed fusion printers
+
+<b>Objectives</b>: 
+
+* To devise experimental measuring techniques for measuring the flow field inside the chamber of laser powder bed fusion printers
+* To correlate the mapped flow with spatter redeposition, process by-product removal and, ultimately, resulting quality of printed parts
+* To investigate design improvements and optimisations of the gas delivery system
+
+
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+Repeatability of part quality is one of the biggest challenges faced by the laser powder bed fusion manufacturing process. High demands for part certification in industries such as aerospace require a mature understanding of the complex phenomena occurring during printing and their influence on the quality of the part. The gas flow system is one particular component where current knowledge is very limited due to the many challenges posed by the printer environment in terms of data acquisition. However, the influence of the gas flow is undeniable and has been noted numerous times in literature due to its effect on spatter redeposition and removal of process by-products. Creating a method of in-situ flow characterisation and investigating improvements to the gas delivery system are, therefore, crucial steps in the evolution of laser powder bed fusion.
+
+</details>
+
+<b>Something more about me</b>: I am very passionate about music and games.
+
+  </div>
+  </div>
+</div>
 
 <h2> Alumni </h2>
 <!-- <details>
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
 
 <div class="row">
-
+  <!-- First row with 3 cards -->
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
+        <img src="../_profilePhotos/amber.jpg" alt="Amber" style="width:100%">
+      </a>
+      <div class="container">
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
+          <h4>Dr Jier WANG (Amber)</h4>
+        </a>
+        <p class="title">PhD alumnus</p>
+        <p>(2020-2024)</p>
+        <p>
+          <a href="mailto:a.wang20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+	
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
+        <img src="../_profilePhotos/john.jpg" alt="John" style="width:100%">
+      </a>
+      <div class="container">
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
+          <h4>Dr Cletus AKISIN (John)</h4>
+        </a>
+        <p class="title">RA alumnus</p>
+        <p>(2023-2024)</p>
+        <p>
+          <a href="mailto:c.akisin@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+	
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#chanhui">
@@ -338,19 +412,22 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#chanhui">
-        <h4>Dr Chanhui Lee</h4>
-      </a>
+          <h4>Dr Chanhui LEE</h4>
+        </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2021)</p>
         <p>
-        <a href="mailto:c.lee17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:c.lee17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
   </div>
+</div>
 
+<div class="row">
+  <!-- Second row with 3 cards -->
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#janos">
@@ -358,14 +435,14 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#janos">
-        <h4>Dr János Plocher</h4>
+          <h4>Dr János PLOCHER</h4>
         </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2022)</p>
         <p>
-        <a href="mailto:janos.plocher16@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:janos.plocher16@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
@@ -378,36 +455,18 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#yingwei">
-        <h4>Dr Yingwei Hou</h4>
+          <h4>Dr Yingwei HOU</h4>
         </a>
         <p class="title">PhD alumnus</p>
         <p>(2017-2022)</p>
         <p>
-        <a href="mailto:y.hou17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:y.hou17@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
   </div>
-
-  <!-- <div class="column">
-    <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/phd">
-        <img src="../_profilePhotos/dummy3.png" alt="Marie" style="width:100%">
-      </a>
-      <div class="container">
-        <h4>Marie Ross</h4>
-        <p class="title">PhD alumna</p>
-        <p>(20XX-20XX)</p>
-        <p>
-        <a href="mailto: " target = "_blank">
-          <button class="button">Contact</button>
-        </a>
-        </p>
-      </div>
-    </div>
-  </div> -->
 
   <div class="column">
     <div class="card">
@@ -416,42 +475,19 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
-        <h4>Dr Rachel Moloney</h4>
-      </a>
+          <h4>Dr Rachel MOLONEY</h4>
+        </a>
         <p class="title">RA alumna</p>
         <p>(2023-2024)</p>
         <p>
-        <a href="mailto:r.moloney@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
+          <a href="mailto:r.moloney@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
         </p>
       </div>
     </div>
   </div>
-
 </div>
-
-<!-- <div class="row">
-
-<div class="column">
-    <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
-        <img src="../_profilePhotos/rachel.jpg" alt="Rachel" style="width:100%">
-      </a>
-      <div class="container">
-        <h4>Rachel Moloney</h4>
-        <p class="title">RA alumna</p>
-        <p>(2023-2024)</p>
-        <p>
-        <a href="mailto:r.moloney@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target = "_blank">
-          <button class="button">Contact</button>
-        </a>
-        </p>
-      </div>
-    </div>
-  </div>
-
-</div> -->
 
 <!-- </details> -->
 
@@ -459,7 +495,7 @@ In aeronautics, shape memory polymer nanocomposites are crucial for morphing str
 /* Three columns side by side */
 .column {
   float: left;
-  width: 25%;
+  width: 33.3%;
   margin-bottom: 16px;
   padding: 0 8px;
 }

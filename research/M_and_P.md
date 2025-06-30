@@ -23,9 +23,9 @@ This study experimentally investigates the dynamic response of AM lattices under
 
 <b> Relevant Publications: </b>
 
-P Jameekornkul, A. Panesar, <i> Experimental Insights into dynamic behaviour of composite lattice structure </i>, Solid Freeform Fabrication Symposium – An Additive Manufacturing Conference, USA, Aug, 2024. (Under review)
+P Jameekornkul, A. Panesar, <i> Experimental Insights into dynamic behaviour of composite lattice structure </i>, Solid Freeform Fabrication Symposium – An Additive Manufacturing Conference, USA, Aug, 2024. https://doi.org/10.26153/tsw/58083
 
-P Jameekornkul, J. Wang, A. Panesar, <i> Insight into compressive behaviour of schwarz-p lattices fabricated by material extrusion </i>, Solid Freeform Fabrication Symposium – An Additive Manufacturing Conference, USA, Aug, 2022.
+P Jameekornkul, J. Wang, A. Panesar, <i> Insight into compressive behaviour of schwarz-p lattices fabricated by material extrusion </i>, Solid Freeform Fabrication Symposium – An Additive Manufacturing Conference, USA, Aug, 2022. http://dx.doi.org/10.26153/tsw/44661
 
 </div>
 
