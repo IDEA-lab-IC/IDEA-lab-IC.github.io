@@ -6,12 +6,54 @@ Welcome to <u>IDEA Lab</u> </h1>
 We, at Innovative DEsign & Advanced manufacturing (IDEA) Lab, led by <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/People/README#Ajit" target = "_blank">Dr Ajit Panesar</a>, are driven by the possibility to create tangible impact across a wide-ranging sectors by focusing on ubiquitous underpinning engineering objectives. For example, designing optimal structures for: light-weighting, vibration-resilience, thermal-efficiency, and multi-functionality.
 </div>
 
-<div style="text-align:center">
-<img src="/../_media/overview.png" style="width:75%">
+<h2> Research Themes </h2>
+<div class="grid-container2">
+  <div class="grid-item">
+    <a href="https://idea-lab-ic.github.io/#/research/ML_DnP" target="_blank">
+    <button>
+      <figure>
+      <!-- <figcaption>ML in Design & Process</figcaption> -->
+        <img src="/../_media/landing/theme_1.png" alt="MLinDnP" style="width:100%"> 
+        </figure>
+    </button>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="https://idea-lab-ic.github.io/#/research/MDO" target="_blank">
+    <button>
+      <figure>
+        <!-- <figcaption>Multi-disciplinary Optimisation</figcaption> -->
+        <img src="/../_media/landing/theme_2.png" alt="MDO" style="width:100%"> 
+        </figure>
+    </button>
+    </a>
+  </div>  
+
+  <div class="grid-item">
+    <a href="https://idea-lab-ic.github.io/#/research/CompDesign#PINN" target="_blank">
+    <button>
+      <figure>
+        <!-- <figcaption>Additive Manufacturing</figcaption> -->
+        <img src="/../_media/landing/theme_3.png" alt="AM" style="width:100%"> 
+        </figure>
+    </button>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="https://idea-lab-ic.github.io/#/research/CompDesign#latent-space" target="_blank">
+    <button>
+      <figure>
+        <!-- <figcaption>Energy Materials</figcaption> -->
+        <img src="/../_media/landing/theme_4.png" alt="EnergyMaterials" style="width:100%"> 
+        </figure>
+    </button>
+    </a>
+  </div> 
 </div>
 
-
-<!-- <h1> Research at IDEA Lab </h1> -->
+<!-- <div style="text-align:center">
+<img src="/../_media/overview.png" style="width:75%">
+</div>
 
 <div style="text-align: justify"> 
 The research conducted in IDEA Lab revolves around two main themes: 
@@ -20,10 +62,6 @@ The research conducted in IDEA Lab revolves around two main themes:
 2. <a style = " white-space:nowrap; " href="https://idea-lab-ic.github.io/#/research/M_and_P" target = "_blank">**material & processes** (M&P)</a>  
 
 with a strong focus on fulfilling the respective engineering objectives.
-</div>
-
-<!-- <div style="text-align:center">
-<img src="/../_media/research/researchOverview.png" style="width:100%">
 </div> -->
 
 <h2> Research Hightlights </h2>
@@ -141,6 +179,13 @@ Dr <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/qian
 .grid-container {
   display: grid;
   grid-template-columns: 0.5fr 0.5fr 0.5fr;  /* defines number of columns */
+  /* background-color: #2196F3; */
+  /* padding: 10px; */
+  grid-row-gap: 0px;
+}
+.grid-container2 {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr;  /* defines number of columns */
   /* background-color: #2196F3; */
   /* padding: 10px; */
   grid-row-gap: 0px;

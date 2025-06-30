@@ -1,7 +1,11 @@
 <!-- - [News](News/README.md "What's New") -->
 - [Our Research](README.md "IDEA Lab - Research")
-	* [Computational Design](research/CompDesign.md)
-	* [Materials and Processes](research/M_and_P.md)
+	<!-- * [Computational Design](research/CompDesign.md)
+	* [Materials and Processes](research/M_and_P.md) -->
+	* [ML in Design&Process](research/ML_DnP.md)
+	* [MDO](research/MDO.md)
+	* [AM](research/AM.md)
+	* [Energy Materials](research/EnerMat.md)
 	* [Review Papers](research/Review.md)
 	<!-- * [Multi-Func. Meta-Materials](research/MFMM.md) -->
 	<!-- * [Testing](research/testing.md) -->
