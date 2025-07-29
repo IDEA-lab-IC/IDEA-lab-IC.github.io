@@ -8,7 +8,7 @@
 <a href="https://scholar.google.com/citations?user=_tIAiyUAAAAJ&hl=en" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
 <div class="square">
 	<div>
-		<img src="/../_profilePhotos/CK.jpg" width=120 height=160
+		<img src="/../_profilePhotos/ck.jpg" width=120 height=160
 				alt="CK", style="float: left; margin:5px">
 	</div>
 
