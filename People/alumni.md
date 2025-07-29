@@ -3,6 +3,24 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <hr>
+<h3 id="CK"> Dr. Chikwesiri T. IMEDIEGWU  </h3>
+<a href="https://www.linkedin.com/in/chikwesiri-imediegwu" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://scholar.google.com/citations?user=_tIAiyUAAAAJ&hl=en" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
+<div class="square">
+	<div>
+		<img src="/../_profilePhotos/CK.jpg" width=120 height=160
+				alt="CK", style="float: left; margin:5px">
+	</div>
+
+	<p>
+		Ck was a Research Associate at the Materials department of Imperial College London. His research revolved around multiscale design of architected materials. These are materials which derive their functional behaviour from the microstructures they are comprised of. Some interesting applications of such materials are in the design of bespoke bone implants and aerospace grade structures. He demonstrated that novel lattice structures based on the mathematics of aperiodic order have the capacity to outdo their rather ubiquitous periodic counterparts. Ck also applied his expertise in multiscale optimisation to derive nanoscale topologies for state-of-the-art insertion electrode batteries such as Li-ion, Nickel Metal Hydride and Sodium-ion batteries, further improving battery performance (energy and power densities) as well as battery life-time. 
+	</p>
+	<p>
+		Ck is currently a lecturer in design optimisation at University of Manchester</a> 
+	</p>
+</div>
+
+<hr>
 <h3 id="amber"> Dr Amber WANG </h3>
 <a href="https://www.linkedin.com/in/jier-wang-b8a755223" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <div class="square">
@@ -109,7 +127,7 @@
 		Cold spray additive manufacturing systems are already being used on Earth for 3D printing of metal components under atmospheric conditions. By developing a cold spray system that can operate under high vacuum conditions, and by demonstrating successful operation within a high vacuum environment, the applications of this type of technology will be broadened to include in-space operation, thus, allowing for in-situ repairs of spacecraft. This will help to increase the lifetime of spacecraft while reducing the repair mass requirements by using a material that can be sprayed into the required shape instead of carrying a variety of specific components.	
 	</p>
 	<p>
-		Rachel is currently a <a style = " white-space:nowrap; " href="https://www.surrey.ac.uk/people/rachel-moloney">research fellow at Univerity of Surry</a> 
+		Rachel is currently a <a style = " white-space:nowrap; " href="https://www.surrey.ac.uk/people/rachel-moloney">research fellow at Univerity of Surrey</a> 
 	</p>
 </div>
 

@@ -130,13 +130,13 @@ with a strong focus on fulfilling the respective engineering objectives.
 <h2> Collaborators/Partners </h2>
 <h3> External Collaborators </h3>
 <div style="text-align:center">
-<img src="/../_media/collaborators.png" style="width:100%">
+<img src="/../_media/collaborators_1.png" style="width:100%">
 </div>
 
 <h3> Internal Collaborators </h3>
 <div style="line-height: 16px">
 <br>
-Professors <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/e.greenhalgh" target = "_blank">Emile S Greenhalgh</a>, <a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/people/m.shaffer" target = "_blank">Milo Shaffer</a> (<a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/structural-power-composites/" target = "_blank"><i>Structural Power Composites</i></a>)
+Professors <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/e.greenhalgh" target = "_blank">Emile S Greenhalgh</a>, <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/m.shaffer" target = "_blank">Milo Shaffer</a>, <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/anthony" target = "_blank">Anthony Kucernak</a> (<a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/structural-power-composites/" target = "_blank"><i>Structural Power Composites</i></a>)
 
 Professor <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/r.hewson" target = "_blank">Robert Hewson</a> (<a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/structural-metamaterials/" target = "_blank"><i>Structural Metamaterials Group</i></a>)
 
@@ -145,6 +145,9 @@ Professor <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.
 Dr <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/a.knoll" target = "_blank">Aaron Knoll</a> (<a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/aeronautics/research/facilities/space-lab/" target = "_blank"><i>Space Engineering Lab</i></a>)
 
 Dr <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/qianqian.li" target = "_blank">Qianqian Li</a> (<a style = " white-space:nowrap; " href="https://www.imperial.ac.uk/composites-centre" target = "_blank"><i>The Composite Centre</i></a>)
+
+Dr <a style = " white-space:nowrap; " href="https://profiles.imperial.ac.uk/k.steiros" target = "_blank">Kostas Steiros</a>
+
 </div>
 
 <!-- <div class="two-column-layout"> 

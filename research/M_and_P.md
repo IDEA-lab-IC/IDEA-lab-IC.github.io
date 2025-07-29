@@ -1,14 +1,14 @@
 <h1> Materials and Processes </h1>
 
 <div style="text-align: justify"> 
-Within the realm of Addtive Manufacturing, our researches have revolved around the topics of 1) investigating the stiffness, strength, and functional performance of multi-material AM; 2) fibre-reinforced AM (FRAM) and robotic assisted manufacturing.
+Within the realm of Addtive Manufacturing, our researches have revolved around the topics of 1. investigating the stiffness, strength, and functional performance of multi-material AM; 2. fibre-reinforced AM (FRAM) and robotic assisted manufacturing.
 </div>
 
 <h2> AM of Composites </h2>
 
 <h3 id="impact_PJ"> The dynamic behaviour of functionally graded lattice structures with short fibre reinforcement </h3>
 <div style="text-align:center">
-<img src="/../_media/research/CF_Grading_pat.gif" style="width:100%">
+<img src="/../_media/research/CF_Grading_pat.gif" style="width:110%">
 </div>
 
 <div align="justify">
@@ -33,7 +33,7 @@ P Jameekornkul, J. Wang, A. Panesar, <i> Insight into compressive behaviour of s
 <h3 id="am_PG"> 3D printed shape memory polymer nanocomposites </h3>
 <!-- <img src="/../_media/lattice.png" style="width:100%"> -->
 <div style="text-align: justify"> 
-Thermoplastic polyurethane (TPU) exhibits remarkable shape memory behaviour due to its inherent phase-separated microstructure. This property can be utilized in the development of morphing structures within the field of aeronautics. Complex structures can be fabricated via additive manufacturing, a sustainable and economical processing technique. 
+Thermoplastic polyurethane (TPU) exhibits remarkable shape memory behaviour due to its inherent phase-separated microstructure. This property can be utilised in the development of morphing structures within the field of aeronautics. Complex structures can be fabricated via additive manufacturing, a sustainable and economical processing technique. 
 
 This study focuses on the material and structural development of a novel shape memory polymer nanocomposite.
 

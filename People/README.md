@@ -26,12 +26,7 @@
 
 <b>Profile</b>: 
 
-Ajit is an Associate Professor in Computational Design for Advanced Manufacturing at ICL  and has extensive experience in design-optimisation including leveraging ML in design, and manufacturing expertise in composites and AM. He has authored a book chapter in the <a style = " white-space:nowrap; " href="https://doi.org/10.31399/asm.hb.v24A.a0006950">ASM Handbook Vol 24B</a> and contributed to over 40 publications (receiving >3400 citations; h-index = 17) in Q1 journals and leading conferences, with several papers exceeding 250+ citations. His efforts have been recognised by the <a style = " white-space:nowrap; " href="https://imperiallondon-my.sharepoint.com/personal/apanesar_ic_ac_uk/Documents/%23%20MAIN/%23%20Imperial/%23%20IDEA%20Lab/Admin/~%20IDEA%20Lab%20PPT%20Template/EP/V001108/1">EPSRC funded DfAM network</a> where he currently holds the <a style = " white-space:nowrap; " href="https://www.designforam.ac.uk/research/">key research theme leader</a> position for the “Computational Tools” theme. Ajit has several ongoing collaborations to progress state-of-the-art and create tangible impact across a wide-ranging sectors. He has been successful in securing funding for his research from both research councils and Industry. Importantly. he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors and the wider community!
-<!-- <details>
-<summary> <b>Short scientific description</b> (click to expand) </summary>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-</details> -->
+Ajit is an Associate Professor (Reader) in Computational Design for Advanced Manufacturing at Imperial College London, with a leading track record in <a style = "white-space:nowrap;" href="https://www.sciencedirect.com/science/article/pii/S2214860420305431">additive manufacturing</a>, <a style="white-space:nowrap;" href="https://www.sciencedirect.com/science/article/pii/S2214860422006273">topology optimisation and ML</a> (incl. <a style = "white-space:nowrap;" href="https://www.sciencedirect.com/science/article/pii/S221486042400544X">Scientific ML</a>) and architectured materials. He has authored the “<a style = "white-space:nowrap;" href="https://dl.asminternational.org/handbooks/edited-volume/187/chapter-abstract/3741931/Simulation-Driven-Design-and-the-Role-of?redirectedFrom=fulltext">Simulation-Driven Design</a>” chapter for the <a style="white-space:nowrap;" href="https://doi.org/10.31399/asm.hb.v24A.a0006950">ASM Handbook</a> bridging the gap between research and practice, and contributed to over 60 publications, with several making it to the most downloaded/cited list. He co-leads the “Theory, Modelling and AI” SIG within the <a style="white-space:nowrap;" href="https://metamaterials.network/focus-areas/theory-modelling-and-ai/">EPSRC UK Metamaterials Network</a>, and led the “Computational Tools” theme in the <a style="white-space:nowrap;" href="https://www.designforam.ac.uk/research/">EPSRC DfAM network</a>. Ajit is actively engaged in multiple collaborations aimed at advancing the state of the art and delivering tangible impact across a wide range of sectors. He has successfully secured research funding from both research councils and industry partners to deliver on his research vision. Importantly, he is extremely grateful for all the support he receives – from the members of IDEA lab, his colleagues/collaborators, mentors, funders and the wider community!
 
 <b>Something more about me</b>: loves to solve puzzles and is trained in a few martial arts (Brazilian Jiu Jitsu, Wing Chun)
   </div>
@@ -40,41 +35,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <!-- ----------------------------------------- -->
-<h2> Research Associates/Assistants </h2>
-<h3 id="CK"> Dr Chikwesiri IMEDIEGWU (CK) </h3>
-<a href="https://www.linkedin.com/in/chikwesiri-imediegwu/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<a href="https://scholar.google.com/citations?user=_tIAiyUAAAAJ&hl=en&oi=ao" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
-<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
-<div class="row">
-  <div class="columnminor">
-    <figure>
-        <img src="/../_profilePhotos/ck.jpg" style="width:100%"
-				alt="CK", style="float: left; margin:5px">
-    </figure>
-  </div>
+<!-- <h2> Research Associates/Assistants </h2> -->
 
-  <div class="columnmajor">
-  <div align="justify">
-<b>Research Aim</b>: To apply computational methods and mathematical optimisation to solve challenging physical problems and to design state-of-the-art engineering devices.
-
-<b>Objectives</b>: 
-
-* To generate numerical models of insertion-electrode batteries including underlying electrochemical transport mechanisms within the batteries. 
-* To formulate a physics-driven search leveraging topology optimisation formulation for the discovery of optimal battery electrode topologies as well as in the design of optimal orthopaedic implants.
-* To incorporate advanced digital manufacturing constraints to realise optimised electrodes and implants for onward experimental validation.
-
-
-<details>
-<summary> <b>Short scientific description</b> (click to expand) </summary>
-Energy storage systems such as batteries are critical components in the delivery of uninterrupted renewable energy of the future. One way to improve battery performance and life is by controlling the nanoarchitecture of battery electrodes. By allowing the underlying Multiphysics phenomena guiding battery operation to guide the search for optimal topologies, my work seeks to not only derive efficient and accurate battery models but to formulate gradient-based search for optimal battery electrode designs. 
-
-</details>
-
-<b>Something more about me</b>: I have a good ear. 
-
-  </div>
-  </div>
-</div>
 
 <!-- ------------------------------ -->
 <h2> PhD Students </h2>
@@ -105,7 +67,7 @@ Energy storage systems such as batteries are critical components in the delivery
 One main endeavour for realising the goals of the project is shifting the ML methods away from the traditional ‘black-box’ nature. The application of the ‘physics-based machine learning’ (PBML) concept is identified as a viable means for the objective. In addition to the development of physics-informed machine learning models, another focus is the integration of trained ML models with traditional numerical methods to leverage the strength of both techniques for multi-scale, high-fidelity, and rapid simulation as well as design optimisation. 
 </details>
 
-<b>Something more about me</b>: Aviation geek
+<b>Something more about me</b>: Aviation geek, UK CAA PPL(A) holder
 
   </div>
   </div>
@@ -364,47 +326,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
 
 <div class="row">
-  <!-- First row with 3 cards -->
-  <div class="column">
-    <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
-        <img src="../_profilePhotos/amber.jpg" alt="Amber" style="width:100%">
-      </a>
-      <div class="container">
-        <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
-          <h4>Dr Jier WANG (Amber)</h4>
-        </a>
-        <p class="title">PhD alumnus</p>
-        <p>(2020-2024)</p>
-        <p>
-          <a href="mailto:a.wang20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
-            <button class="button">Contact</button>
-          </a>
-        </p>
-      </div>
-    </div>
-  </div>
-	
-  <div class="column">
-    <div class="card">
-      <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
-        <img src="../_profilePhotos/john.jpg" alt="John" style="width:100%">
-      </a>
-      <div class="container">
-        <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
-          <h4>Dr Cletus AKISIN (John)</h4>
-        </a>
-        <p class="title">RA alumnus</p>
-        <p>(2023-2024)</p>
-        <p>
-          <a href="mailto:c.akisin@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
-            <button class="button">Contact</button>
-          </a>
-        </p>
-      </div>
-    </div>
-  </div>
-	
+  <!-- Second row with 3 cards -->
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#chanhui">
@@ -424,10 +346,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </div>
     </div>
   </div>
-</div>
 
-<div class="row">
-  <!-- Second row with 3 cards -->
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#janos">
@@ -468,6 +387,10 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
     </div>
   </div>
 
+</div>
+
+<div class="row">
+<!-- First row with 4 cards -->
   <div class="column">
     <div class="card">
       <a href="https://idea-lab-ic.github.io/#/People/alumni#rachel">
@@ -487,6 +410,73 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </div>
     </div>
   </div>
+
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
+        <img src="../_profilePhotos/john.jpg" alt="John" style="width:100%">
+      </a>
+      <div class="container">
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#john">
+          <h4>Dr Cletus AKISIN (John)</h4>
+        </a>
+        <p class="title">RA alumnus</p>
+        <p>(2023-2024)</p>
+        <p>
+          <a href="mailto:c.akisin@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
+        <img src="../_profilePhotos/amber.jpg" alt="Amber" style="width:100%">
+      </a>
+      <div class="container">
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
+          <h4>Dr Jier WANG (Amber)</h4>
+        </a>
+        <p class="title">PhD alumna</p>
+        <p>(2020-2024)</p>
+        <p>
+          <a href="mailto:a.wang20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<div class="row">
+<!-- Third row -->
+
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#CK">
+        <img src="../_profilePhotos/CK.jpg" alt="CK" style="width:100%">
+      </a>
+      <div class="container">
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#CK">
+          <h4>Dr. Chikwesiri IMEDIEGWU</h4>
+        </a>
+        <p class="title">PhD and postdoc alumnus</p>
+        <p>(2014-2025)</p>
+        <p>
+          <a href="mailto:chikwesiri.imediegwu14@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 <!-- </details> -->
