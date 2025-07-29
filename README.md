@@ -74,7 +74,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/ML_DnP#inverse-design_AW" target="_blank">
       <figure>
-      <figcaption>CD - Metamaterial Inverse Design</figcaption>
+      <figcaption>Metamaterial Inverse Design</figcaption>
         <img src="/../_media/research/Amber_inversedesign.gif" alt="amber_inverse" style="width:100%"> 
         
         </figure>
@@ -83,7 +83,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/EnerMat#battery_CK" target="_blank">
       <figure>
-        <figcaption>CD - TO for battery electrode</figcaption>
+        <figcaption>TO for battery electrode</figcaption>
         <img src="/../_media/research/2023_08_CK_battery.gif" alt="ck_battery" style="width:100%"> 
         
         </figure>
@@ -92,7 +92,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/AM#cold-spray" target="_blank">
       <figure>
-        <figcaption>M&P - Cold Spray in Vacuum</figcaption>
+        <figcaption>Cold Spray in Vacuum</figcaption>
         <br>
         <img src="/../_media/research/cold-spray.gif" alt="cold-spray" style="width:100%"> 
         
@@ -103,15 +103,15 @@ with a strong focus on fulfilling the respective engineering objectives.
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/ML_DnP#PINN" target="_blank">
       <figure>
-        <figcaption>CD - PINN for DED Temp. History Prediction</figcaption>
+        <figcaption>PINN for DED Temp. History Prediction</figcaption>
         <img src="/../_media/research/PINN_DED_gif.gif" alt="pinn" style="width:100%"> 
         </figure>
     </a>
   </div>
   <div class="grid-item">
-    <a href="https://idea-lab-ic.github.io/#/research/ML_DnP#latent-space" target="_blank">
+    <a href="https://idea-lab-ic.github.io/#/research/ML_DnP#latentspace" target="_blank">
       <figure>
-        <figcaption>CD - Transition cell generation from Latent Space</figcaption>
+        <figcaption>Transition cell generation from Latent Space</figcaption>
         <img src="/../_media/research/latent_space.gif" alt="latent-space" style="width:100%"> 
         </figure>
     </a>
@@ -119,7 +119,7 @@ with a strong focus on fulfilling the respective engineering objectives.
   <div class="grid-item">
     <a href="https://idea-lab-ic.github.io/#/research/AM#impact_PJ" target="_blank">
       <figure>
-        <figcaption>M&P - Grading for Impact</figcaption>
+        <figcaption>Grading for Impact</figcaption>
         <img src="/../_media/research/CF_Grading_pat.gif" alt="impact_PJ" style="width:100%"> 
         </figure>
     </a>
