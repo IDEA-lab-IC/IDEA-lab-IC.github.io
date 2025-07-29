@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <hr>
-<h3 id="CK"> Dr. Chikwesiri T. IMEDIEGWU  </h3>
+<h3 id="CK"> Dr Chikwesiri T. IMEDIEGWU  </h3>
 <a href="https://www.linkedin.com/in/chikwesiri-imediegwu" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <a href="https://scholar.google.com/citations?user=_tIAiyUAAAAJ&hl=en" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
 <div class="square">
@@ -12,13 +12,15 @@
 				alt="CK", style="float: left; margin:5px">
 	</div>
 
-	<p>
-		Ck was a Research Associate at the Materials department of Imperial College London. His research revolved around multiscale design of architected materials. These are materials which derive their functional behaviour from the microstructures they are comprised of. Some interesting applications of such materials are in the design of bespoke bone implants and aerospace grade structures. He demonstrated that novel lattice structures based on the mathematics of aperiodic order have the capacity to outdo their rather ubiquitous periodic counterparts. Ck also applied his expertise in multiscale optimisation to derive nanoscale topologies for state-of-the-art insertion electrode batteries such as Li-ion, Nickel Metal Hydride and Sodium-ion batteries, further improving battery performance (energy and power densities) as well as battery life-time. 
-	</p>
-	<p>
-		Ck is currently a lecturer in design optimisation at University of Manchester</a> 
-	</p>
+<p>
+	Ck was a Research Associate at the Materials department of Imperial College London. His research revolved around multiscale design of architected materials. These are materials which derive their functional behaviour from the microstructures they are comprised of. Some interesting applications of such materials are in the design of bespoke bone implants and aerospace grade structures. He demonstrated that novel lattice structures based on the mathematics of aperiodic order have the capacity to outdo their rather ubiquitous periodic counterparts. Ck also applied his expertise in multiscale optimisation to derive nanoscale topologies for state-of-the-art insertion electrode batteries such as Li-ion, Nickel Metal Hydride and Sodium-ion batteries, further improving battery performance (energy and power densities) as well as battery life-time. 
+</p>
+<p>
+	Ck is currently a lecturer in design optimisation at University of Manchester.
+</p>
 </div>
+
+
 
 <hr>
 <h3 id="amber"> Dr Amber WANG </h3>
@@ -33,7 +35,7 @@
 		My investigation focused on applying Machine Learning (ML) in Design for Additive Manufacturing (DfAM), especially in Design of lattice structures. Lattice structures are architectures constructed by spatial periodic cells. The controllable shape and size, the high strength-to-weight ratio, and the tuneable mechanical properties have brought lattice structures greater attention. I'm trying to seek for sophisticated lattice generation methods which could use ML to enhance the structural performance. I believe that lattice structures can approximate the high performance of Topology Optimisation (TO) design, but shrink the time required for generating high-resolution structures. Recent work applying ML-based lattice inverse design to functionally-graded lattice generation is published in AM journal (doi:10.1016/j.addma.2022.103238). I'm now looking into exploiting multi-functionality of lattice designs and lattice-based compliant mechanisms. Further investigation into lattice behaviour under plastic deformation is also expected to help improve lattice energy absorption capability.	
 	</p>
 	<p>
-		Amber is currently a research fellow at Brunel University</a> 
+		Amber is currently a research fellow at Brunel University.
 	</p>
 </div>
 
@@ -120,15 +122,15 @@
 				alt="Rachel", style="float: left; margin:5px">
 	</div>
 	
-	<p>
-		Rachel's research project was on designing, developing, and demonstrating a cold spray additive manufacturing device for in-space applications
-	</p>
-	<p>
-		Cold spray additive manufacturing systems are already being used on Earth for 3D printing of metal components under atmospheric conditions. By developing a cold spray system that can operate under high vacuum conditions, and by demonstrating successful operation within a high vacuum environment, the applications of this type of technology will be broadened to include in-space operation, thus, allowing for in-situ repairs of spacecraft. This will help to increase the lifetime of spacecraft while reducing the repair mass requirements by using a material that can be sprayed into the required shape instead of carrying a variety of specific components.	
-	</p>
-	<p>
-		Rachel is currently a <a style = " white-space:nowrap; " href="https://www.surrey.ac.uk/people/rachel-moloney">research fellow at Univerity of Surrey</a> 
-	</p>
+<p>
+	Rachel's research project was on designing, developing, and demonstrating a cold spray additive manufacturing device for in-space applications
+</p>
+<p>
+	Cold spray additive manufacturing systems are already being used on Earth for 3D printing of metal components under atmospheric conditions. By developing a cold spray system that can operate under high vacuum conditions, and by demonstrating successful operation within a high vacuum environment, the applications of this type of technology will be broadened to include in-space operation, thus, allowing for in-situ repairs of spacecraft. This will help to increase the lifetime of spacecraft while reducing the repair mass requirements by using a material that can be sprayed into the required shape instead of carrying a variety of specific components.	
+</p>
+<p>
+	Rachel is currently a <a style = " white-space:nowrap; " href="https://www.surrey.ac.uk/people/rachel-moloney">research fellow at Univerity of Surrey</a> 
+</p>
 </div>
 
 
