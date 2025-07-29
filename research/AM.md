@@ -37,6 +37,30 @@ The novel sinusoidal design enables control over deformation and failure respons
 </div>
 </details>
 
+<h3 id="impact_PJ">The dynamic behaviour of functionally graded lattice structures with short fibre reinforcement</h3> 
+<div style="text-align:center">
+<img src="/../_media/research/CF_Grading_pat.gif" style="width:90%">
+</div>
+
+<details>
+<summary>More details</summary>
+<div>
+This study experimentally investigates the dynamic response of AM lattices under varied impact energy. The examined lattice parameters include unit cell topology, grading strategy (relative density and cell size grading), testing direction, and the integration of carbon fibres into the polymer-based material.
+
+*	The dynamic mechanical properties are influenced by the overall relative density and unit cell topology. 
+* Fibre-reinforced lattice structures exhibit greater energy absorption than pure polymer, with a 37.6% in the benchmark case. 
+* These experimental insights enrich the understanding of lattice dynamic behaviour and support the adoption of AM composite in crash protection applications.
+
+</div>
+
+<b> Relevant Publications: </b>
+
+Jameekornkul P, Panesar A, <i> Experimental Insights into dynamic behaviour of composite lattice structure </i>, Solid Freeform Fabrication Symposium – An Additive Manufacturing Conference, USA, Aug, 2024. https://doi.org/10.26153/tsw/58083
+
+Jameekornkul P, Wang J, Panesar A, <i> Insight into compressive behaviour of schwarz-p lattices fabricated by material extrusion </i>, Solid Freeform Fabrication Symposium – An Additive Manufacturing Conference, USA, Aug, 2022. http://dx.doi.org/10.26153/tsw/44661
+
+</details>
+
 <h2> Cold Spray </h2>
 
 <h3 id="cold-spray"> Custom-made Vacuum Cold Spray System for In-space Manufacturing and Repair </h3>
