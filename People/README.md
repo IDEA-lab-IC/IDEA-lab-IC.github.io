@@ -438,7 +438,7 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
       </a>
       <div class="container">
         <a href="https://idea-lab-ic.github.io/#/People/alumni#amber">
-          <h4>Dr Jier WANG (Amber)</h4>
+          <h4>Dr Jier (Amber) WANG</h4>
         </a>
         <p class="title">PhD alumna</p>
         <p>(2020-2024)</p>
