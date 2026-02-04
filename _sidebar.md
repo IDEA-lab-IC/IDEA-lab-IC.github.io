@@ -16,7 +16,7 @@
 	<!-- * [Postdoc. RA](People/postdoc.md) -->
 	<!-- * [PhD Researchers](People/phd.md) -->
 	<!-- * [Testing](People/test.md) -->
-- [UKMMN Exercises](UKMMN_Exercises.md)
+- [Our Events](UKMMN_Exercises.md)
 <!--- [Resources](README_GROUP.md "IDEA Lab")
 	* [Adjoint Method](https://sashalsey.github.io/adjointh)
 	* [Strong Form vs Weak Form](https://sashalsey.github.io/strong_and_weak_form) -->
