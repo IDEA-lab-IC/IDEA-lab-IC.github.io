@@ -17,8 +17,8 @@
 	<!-- * [PhD Researchers](People/phd.md) -->
 	<!-- * [Testing](People/test.md) -->
 - [Resources](resources/resources.md "IDEA Lab - Resources")
-	* [DfAM](resources/DfAM.md)
 	* [UKMMN](resources/UKMMN.md)
+	* [DfAM](resources/DfAM.md)
 <!--- [Resources](README_GROUP.md "IDEA Lab")
 	* [Adjoint Method](https://sashalsey.github.io/adjointh)
 	* [Strong Form vs Weak Form](https://sashalsey.github.io/strong_and_weak_form) -->
