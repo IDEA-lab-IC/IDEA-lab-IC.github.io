@@ -1,4 +1,4 @@
 # Resources
 
-- [Design for Additive Manufacturing (DfAM)](resources/DfAM.md)
-- [UKMMN Resources](resources/UKMMN.md)
+- [Design for Additive Manufacturing (DfAM)](DfAM.md)
+- [UKMMN Resources](UKMMN.md)
