@@ -1,6 +1,6 @@
 # UKMMN Exercises
 
-# UKMMN Event
+## UKMMN Event (Topology Optimisation + homogenisation + Machine Learning)
 
 ## TO Lab
 - [TO Lab (a)](https://colab.research.google.com/github/IDEA-lab-IC/Tutorials/blob/main/notebooks/TO%20Lab%20(a).ipynb)
