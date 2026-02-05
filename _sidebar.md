@@ -16,7 +16,7 @@
 	<!-- * [Postdoc. RA](People/postdoc.md) -->
 	<!-- * [PhD Researchers](People/phd.md) -->
 	<!-- * [Testing](People/test.md) -->
-- [Resources](resources/resources.md)
+- [Resources](resources/resources.md "IDEA Lab - Resources")
 	* [DfAM](resources/DfAM.md)
 	* [UKMMN](resources/UKMMN.md)
 <!--- [Resources](README_GROUP.md "IDEA Lab")
