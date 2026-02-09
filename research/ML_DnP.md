@@ -22,7 +22,7 @@ The proposed framework brings SciML-based framework for real-life DED applicatio
 
 <b> Relevant Publication(s): </b>
 
-Peng B, Panesar A. <i> Multi-layer thermal history prediction framework for Directed Energy Deposition based on Extended physics-informed neural networks (XPINN) </i> Additive Manufacturing. (2025) (under review)
+Peng B, Panesar A. <i> Multi-layer thermal history prediction framework for Directed Energy Deposition based on Extended physics-informed neural networks (XPINN) </i> Additive Manufacturing. (2025)
 </details>
 
 <h3 id="PINN"> Multi-layer temperature history prediction during directed energy deposition using physics-informed neural network (PINN) </h3>
@@ -39,16 +39,16 @@ This project implements a physics-informed neural network (PINN)-based solution 
 * Overcomes the usual shortfall of neural networks (NNs) in dealing with discontinuities making multi-layer PINN-based simulation possible.
 * Benchmark against ANSYS validates accuracy of the proposed framework to be comparable to numerical methods. Additionally, offering computational time-savings thereby making it amenable for use in design-optimisation algorithms.
 
-The proposed framework sets the foundation for the subsequent exploration of applying scientific machine learning (SciML) techniques to real-life engineering applications. Furthermore, remarks on strategies to improve ease of training and prediction accuracy by PINN for the particular use case in DED temperature history prediction have been made. 
+The proposed framework sets the foundation for the subsequent exploration of applying scientific machine learning (SciML) techniques to real-life engineering applications. Furthermore, remarks on strategies to improve ease of training and prediction accuracy by PINN for the particular use case in DED temperature history prediction have been made.
 </div>
 
 <b> Relevant Publication(s): </b>
 
 Peng B, Panesar A. <i> Multi-scan thermal simulation using physics-informed neural network </i> Additive Manufacturing. (2024) https://doi.org/10.1016/j.addma.2024.104498
 
-Peng B, Panesar A. <i> Predicting temperature field for mental additive manufacturing using PINN </i> International Solid Freeform Fabrication Symposium. (2023)
+Peng B, Panesar A. <i> Predicting temperature field for metal additive manufacturing using PINN </i> International Solid Freeform Fabrication Symposium. (2023) p. 881–96.
 
-Peng B, Panesar A. <i> Multi-layer Thermal Simulation of Directed Energy Deposition using Physics Informed Neural Networks </i> Real-World Applications of AI and ML in Digital Engineering Seminar [Internet]. (2025) https://www.nafems.org/downloads/dropbox/nologin/aiuk25/panesar_ext_abs.pdf
+Peng B, Panesar A. <i> Multi-layer Thermal Simulation of Directed Energy Deposition using Physics Informed Neural Networks </i> Real-World Applications of AI and ML in Digital Engineering Seminar [Internet]. (2025) Coventry, United Kingdom: NAFEMS; 2025. Available from: https://www.nafems.org/downloads/dropbox/nologin/aiuk25/panesar_ext_abs.pdf
 
 </details>
 
@@ -151,7 +151,7 @@ Author, <i> TITLE </i> (YEAR) https://doi.org/10.1016/j.addma.2024.104498
 
 <h2 id="MLDnP_Publications"> Key Publications </h2>
 <!-- COPY ALL PUBLICATIONS IN EACH PROJ HERE (SORTED BY LATEST-TO-OLDEST) -->
-Peng B, Panesar A. <i> Multi-layer thermal history prediction framework for Directed Energy Deposition based on Extended physics-informed neural networks (XPINN) </i> Additive Manufacturing. (2025) (under review)
+Peng B, Panesar A. <i> Multi-layer thermal history prediction framework for Directed Energy Deposition based on Extended physics-informed neural networks (XPINN) </i> Additive Manufacturing. (2025) 
 
 Yu X, Peng B, Panesar A. <i> Smooth 3D transition cell generation based on latent space arithmetic </i> Additive Manufacturing. (2025) https://doi.org/10.1016/j.addma.2025.104714
 
