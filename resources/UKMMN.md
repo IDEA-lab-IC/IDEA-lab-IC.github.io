@@ -2,15 +2,15 @@
 
 ## UKMMN Event<br> Topology Optimisation + homogenisation + Machine Learning
 
-## TO Lab
+## Lab: TO 
 - [TO Lab (a)](https://colab.research.google.com/github/IDEA-lab-IC/Tutorials/blob/main/notebooks/TO%20Lab%20(a).ipynb)
 - [TO Lab (b)](https://colab.research.google.com/github/IDEA-lab-IC/Tutorials/blob/main/notebooks/TO%20Lab%20(b).ipynb)
 - [TO Lab (c)](https://colab.research.google.com/github/IDEA-lab-IC/Tutorials/blob/main/notebooks/TO%20Lab%20(c).ipynb)
 
-## Homogenisation Lab
+## Lab: Homogenisation
 - [Homogenisation Lab](https://colab.research.google.com/github/IDEA-lab-IC/Tutorials/blob/main/notebooks/Homogenisation%20Lab.ipynb)
 
-## ML Lab
+## Lab: ML
 - [ML Lab (0) - Overview](https://colab.research.google.com/github/IDEA-lab-IC/Tutorials/blob/main/notebooks/ML%20Lab%20(0)%20Overview.ipynb)
 - [ML Lab (a) - ML introduction](https://colab.research.google.com/github/IDEA-lab-IC/Tutorials/blob/main/notebooks/ML%20Lab%20(a)%20ML%20introduction.ipynb)
 - [ML Lab (b) - MLP build and training](https://colab.research.google.com/github/IDEA-lab-IC/Tutorials/blob/main/notebooks/ML%20Lab%20(b)%20MLP%20build%20and%20training.ipynb)
