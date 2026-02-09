@@ -17,8 +17,8 @@
 </div>
 
 <b> Relevant Publication(s): </b>
-
-Yu X, Griffis J, Manogharan G, Panesar A. <i> Multi-material additive manufacturing: a computational design perspective </i> (2025) (under review)
+Relevant Publication:
+X. Yu, J. Griffis, G. Manogharan, and A. Panesar, <i> Multi-material additive manufacturing: a computational design perspective <i> (under review) Virtual and Physical Prototyping (2025)
 </details>
 
 
@@ -79,5 +79,6 @@ Plocher J, Panesar A. <i> Review on design and structural optimisation in additi
     transform: rotate(90deg); /* arrow points down */
   }
 </style>
+
 
 
