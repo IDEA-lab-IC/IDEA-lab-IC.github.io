@@ -43,6 +43,8 @@ The collaboration between Imperial College London and the University of Birmingh
 
 <i>Topology Optimisation of bespoke lattice orthopaedic implants </i> (In preparation)
 
+Ibrahim et al. <i> The utility of additively manufactured β-Ti latticed hip implants in reducing femoral stress shielding: A finite element study. </i> Journal of the Mechanical Behaviour of Biomedical Materials. (2025) Available from: https://doi.org/10.1016/j.jmbbm.2025.106999
+
 </details>
 
 
