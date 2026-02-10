@@ -1,29 +1,6 @@
-<h1> ML in Design & Process</h1>
+<img width="891" height="34" alt="image" src="https://github.com/user-attachments/assets/f3a20857-1ad5-4596-9f4c-bf3bcb4a09c4" /><h1> ML in Design & Process</h1>
 
 <h2 id="DATAML"> Scientific ML</h2>
-
-<h3 id="XPINN"> Extending multi-layer temperature history prediction to more complex DED configurations using eXtended PINNs (XPINNs) </h3> 
-<div style="text-align:center">
-<img src="/../_media/research/XPINN_DED.gif" style="width:90%">
-</div>
-
-<details>
-<summary>More details</summary>
-<div>
-This work implements an eXtended PINNs (XPINNs)-based framework that utilises domain decomposition and demonstrates performance and capacity improvement over the PINN-based counterpart in multi-layer thermal history prediction of Directed Energy Deposition (DED) process.
-
-* Significant improvement of prediction accuracy for multi-layer DED parts of simple geometry.
-* Capability to account for complications such as dwell time and voids in design.
-* Shares SciML-based framework’s meshless nature and immediate availability of derivative information.
-* The scalable implementation of the framework allows a user defined number of sub-domains to be define. The code will be available shortly.
-
-The proposed framework brings SciML-based framework for real-life DED applications one step closer with the expanded capability. Remarks on the appropriate level of domain decomposition are also made.  
-</div>
-
-<b> Relevant Publication(s): </b>
-
-Peng B, Panesar A. <i> Multi-layer thermal history prediction framework for Directed Energy Deposition based on Extended physics-informed neural networks (XPINN) </i> Additive Manufacturing. (2025)
-</details>
 
 <h3 id="PINN"> Multi-layer temperature history prediction during directed energy deposition using physics-informed neural network (PINN) </h3>
 <div style="text-align:center">
@@ -52,7 +29,32 @@ Peng B, Panesar A. <i> Multi-layer Thermal Simulation of Directed Energy Deposit
 
 </details>
 
+<h3 id="XPINN"> Extending multi-layer temperature history prediction to more complex DED configurations using eXtended PINNs (XPINNs) </h3> 
+<div style="text-align:center">
+<img src="/../_media/research/XPINN_DED.gif" style="width:90%">
+</div>
 
+<details>
+<summary>More details</summary>
+<div>
+This work implements an eXtended PINNs (XPINNs)-based framework that utilises domain decomposition and demonstrates performance and capacity improvement over the PINN-based counterpart in multi-layer thermal history prediction of Directed Energy Deposition (DED) process.
+
+* Significant improvement of prediction accuracy for multi-layer DED parts of simple geometry.
+* Capability to account for complications such as dwell time and voids in design.
+* Shares SciML-based framework’s meshless nature and immediate availability of derivative information.
+* The scalable implementation of the framework allows a user defined number of sub-domains to be define. The code will be available shortly.
+
+The proposed framework brings SciML-based framework for real-life DED applications one step closer with the expanded capability. Remarks on the appropriate level of domain decomposition are also made.  
+</div>
+
+<b> Relevant Publication(s): </b>
+
+Peng B, Panesar A. <i> Multi-layer thermal history prediction framework for Directed Energy Deposition based on Extended physics-informed neural networks (XPINN) </i> Additive Manufacturing. (2025) Available from: https://doi.org/10.1016/j.addma.2025.104953
+
+Peng B, Panesar A. Application of scientific machine learning techniques to metal additive manufacturing simulation: a comparison between PINN and XPINN. In: International Solid Freeform Fabrication Symposium (SFF). Austin, Texas; (2025)
+
+
+</details>
 <!-- NEXT SECTION -->
 <h2 id="DDD"> Data Driven Design</h2>
 
@@ -70,6 +72,27 @@ We propose a novel lattice generation method that designs Functionally Graded Ma
 * Utilises information from fast low-resolution Topology Optimisation (TO) design to inform the trained inverse generator and map lattice cells.
 * The proposed method provides close to optimal performance whilst making the realisation of these solutions exceptionally quick.
 </div>
+</details>
+
+
+<h3 id="benchmark"> Benchmark </h3>
+<div style="text-align:center">
+<img src="/../_media/research/Benchmarktable.png" style="width:95%">
+</div>
+
+<details>
+<summary>More details</summary>
+<div>We conducted a benchmark of our lattice generation approach by comparing with other approaches; dehomogenisation and inverse homogenisation
+
+* Our approach has comparable optimal structure’s performance and the computational efficiency, compared to dehomogenisation.
+* Ensure manufacturability of the obtained structure without overhang angle or grey scale region.
+* Versatile for multiple manufacturable unit cells, opening possibility in wider application fields.
+
+</div>
+
+<b> Relevant Publication(s): </b>
+
+
 </details>
 
 <h3 id="ML_MM">ML-based inverse design of multi-material curved lattice structures</h3> 
