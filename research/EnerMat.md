@@ -15,6 +15,11 @@
 * A pseudo 4D (P4D) model was proposed, which integrates a 3D macroscopic dynamic model to solve the charge transport while coupling a 1D microscopic equilibrium electric double layer (EDL) model to determine the local double layer capacitance of the porous electrode in room-temperature ionic liquids (RTILs). 
 * In general, the proposed P4D model provides a numerical tool for analysing, developing, and optimising SSCs and more general SCs with porous electrodes in RTIL electrolytes.
 </div>
+
+<b> Relevant Publication(s): </b>
+
+Qian et al. <i> Multiscale modelling of supercapacitors with hierarchical structure. Journal of Power Sources. </i> 2026. doi: 10.1016/j.jpowsour.2025.238956 
+
 </details>
 
 <h2 id="Battery"> Battery Optimisation </h2>
@@ -55,6 +60,12 @@ Imediegwu C, Shaffer MSP, Ryan MP, Panesar A, <i>Modelling optimum thickness and
 
 
 <h2 id="MLDnP_Publications"> Key Publications </h2>
+
+Qian et al. <i>Multiscale modelling of supercapacitors with hierarchical structure. Journal of Power Sources.</i> (2026) https://doi.org/10.1016/j.jpowsour.2025.238956
+
+Imediegwu C, Shaffer MSP, Ryan MP, Panesar A, <i>Maximising lithium battery performance by capacity balancing: Determine the Pareto fronts for electrode thickness and porosity.</i> Journal of Power Sources. (2026) https://doi.org/10.1016/j.jpowsour.2025.239174
+
+Qian et al. <i>The electrical response of carbon fibre reinforced electrodes in structural power composites under cyclic compaction.</i> Composite Science and Technology. (2025) https://doi.org/10.1016/j.compscitech.2024.111020 
 
 Imediegwu C, Shaffer MSP, Ryan MP, Panesar A, <i>Modelling optimum thickness and architecture for lithium-ion battery cathodes</i>, Journal of Power Sources. (2024) https://doi.org/10.1016/j.jpowsour.2024.235005
 
