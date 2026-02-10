@@ -174,7 +174,7 @@ Author, <i> TITLE </i> (YEAR) https://doi.org/10.1016/j.addma.2024.104498
 
 <h2 id="MLDnP_Publications"> Key Publications </h2>
 <!-- COPY ALL PUBLICATIONS IN EACH PROJ HERE (SORTED BY LATEST-TO-OLDEST) -->
-Peng B, Panesar A. <i> Multi-layer thermal history prediction framework for Directed Energy Deposition based on Extended physics-informed neural networks (XPINN) </i> Additive Manufacturing. (2025) 
+Peng B, Panesar A. <i> Multi-layer thermal history prediction framework for Directed Energy Deposition based on Extended physics-informed neural networks (XPINN) </i> Additive Manufacturing. (2025)  https://doi.org/10.1016/j.addma.2025.104953
 
 Yu X, Peng B, Panesar A. <i> Smooth 3D transition cell generation based on latent space arithmetic </i> Additive Manufacturing. (2025) https://doi.org/10.1016/j.addma.2025.104714
 
