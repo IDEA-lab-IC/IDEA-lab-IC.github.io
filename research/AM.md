@@ -17,6 +17,13 @@ This work systematically investigates the dynamic behaviour of composite and fun
 * Extend quasi-static insights to dynamic regimes by characterising strain-rate sensitivity across the intermediate strain-rate range and varying impact energies, supported by plasticity model. 
 * This investigation provides critical insights into the dynamic failure response of additively manufactured lattice structures, highlighting how both design parameters and loading conditions influence mechanical performance. The focus on intermediate strain-rate regimes aligns with practical engineering applications requiring impact mitigation, such as sports equipment and tool-drop protection systems. 
 </div>
+
+<b> Relevant Publications: </b>
+
+Jameekornkul P, Panesar A. <i> Dynamic behaviour of functionally graded lattice structures with short carbon fibre reinforcement. </i> Impact Engineering. 2025; doi: 10.1016/j.ijimpeng.2025.105525 
+
+Jameekornkul P, Panesar A. <i> Experimental insights into dynamic behaviour composite lattice structure.</i> International Solid Freeform Fabrication Symposium (SFF). Austin, Texas; 2023. 
+
 </details>
 
 <h3 id="Absorption">Dynamic compression of sinusoidal plate lattices: energy absorption and failure characteristics</h3> 
@@ -35,6 +42,11 @@ This work introduces a sinusoidal geometric feature into plate lattice structure
 
 The novel sinusoidal design enables control over deformation and failure responses in plate-based lattices, with its effectiveness governed by the underlying failure mechanism and loading conditions.
 </div>
+
+<b> Relevant Publications: </b>
+
+Jameekornkul P, Panesar A. <i> Dynamic compression of sinusoidal plate lattices: energy absorption and failure characteristics. </i> Material & Design. 2025; doi: 10.1016/j.matdes.2025.114976. 
+
 </details>
 
 <h3 id="impact_PJ">The dynamic behaviour of functionally graded lattice structures with short fibre reinforcement</h3> 
