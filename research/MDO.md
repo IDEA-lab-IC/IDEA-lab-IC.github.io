@@ -10,10 +10,14 @@
 <details>
 <summary>More details</summary>
 <div>
+
 The objective of this project is to develop a right-first-time design methodology for complex engineering parts manufactured via laser wire direct energy deposition, ensuring compliance with mechanical and thermal stress constraints while minimising distortion caused by process-induced temperature gradients.
 
-* Multi-fidelity thermal models are developed to simulate transient temperature fields to predict residual stresses and distortion using couple thermomechanical simulations. Results are validated against benchmark parts using in-situ monitoring and post-process testing. 
-* Support structure, in-service mechanical and thermal loads and line of sight considerations are also optimised for. 
+* Reduced Distortion: minimises process-induced temperature gradients through a combination of topology optimisation (density fields) and strategic deposition planning.
+* High-Efficiency Modeling: using Firedrake to implement low-fidelity transient, adjoint-based thermo-mechanical simulations for rapid sensitivity analysis.
+* Model Validation: coupled thermomechanical results are validated via in-situ monitoring and post-process testing of benchmark parts.
+* Holistic Design: optimises for support structures, in-service loading, and line-of-sight constraints simultaneously.
+
 </div>
 
 </details>
