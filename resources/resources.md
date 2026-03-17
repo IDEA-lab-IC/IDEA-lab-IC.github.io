@@ -1,3 +1,4 @@
+<div style="all: initial; font-family: Arial, sans-serif;">
 # Educational Notebooks
 
 <!-- ================= HEADER ================= -->
@@ -85,4 +86,5 @@
     <li><a href="https://doi.org/10.1007/BF01196941">Stress-based topology optimization</a></li>
     <li><a href="https://doi.org/10.1016/j.advengsoft.2024.103674">HomPy homogenization code</a></li>
   </ul>
+</div>
 </div>
