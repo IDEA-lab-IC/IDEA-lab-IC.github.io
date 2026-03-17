@@ -1,5 +1,5 @@
-<div style="all: initial; font-family: Arial, sans-serif;">
 # Educational Notebooks
+<div style="all: initial; font-family: Arial, sans-serif;">
 
 <!-- ================= HEADER ================= -->
 <div style="background:#f8f9fa; padding:20px; border-radius:10px; margin-bottom:20px;">
