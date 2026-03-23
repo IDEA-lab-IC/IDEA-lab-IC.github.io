@@ -252,6 +252,40 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
   </div>
 </div>
 
+<hr>
+<h3 id="kaiwen"> Mr Kaiwen WU </h3>
+<a href="https://www.linkedin.com/in/kaiwen-wu-0315a5253/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
+<div class="row">
+  <div class="columnminor">
+    <figure>
+        <img src="/../_profilePhotos/kaiwen.jpg" style="width:100%"
+				alt="Kaiwen", style="float: left; margin:5px">
+    </figure>
+  </div>
+
+  <div class="columnmajor">
+  <div align="justify">
+<b>Research Aim</b>: Development of neural operator methods for simulating thermo-mechanical behavior in metal additive manufacturing (MAM).
+
+<b>Objectives</b>: 
+
+* To explore the capabilities of physics-informed neural operators (PINO)
+* To simulate the thermal and mechanical behavior during MAM
+* To establish a rapid prediction method for residual stress and distortion
+
+<details>
+<summary> <b>Short scientific description</b> (click to expand) </summary>
+Neural operators offer superior generalization across varying input conditions compared with conventional neural networks. When integrated with physics-informed loss functions, they enable data-free training by embedding governing physical laws into the learning process. This study aims to develop a model capable of generalizing across multiple factors, such as geometry and material properties, while accurately predicting temperature and stress fields, ultimately supporting efficient optimization-driven design and analysis.
+
+</details>
+
+<b>Something more about me</b>: I enjoy traveling and exploring historical sites, and I hate celery.
+
+  </div>
+  </div>
+</div>
+
 <h2> Alumni </h2>
 <!-- <details>
 <summary> <b>Name Cards</b> (click to expand) </summary> -->
