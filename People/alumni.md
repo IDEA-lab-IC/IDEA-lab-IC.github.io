@@ -9,14 +9,12 @@
 
 <div class="square">
 	<div>
-		 <img src="/../_profilePhotos/bohan.jpg" style="width:100%"
-				alt="Bohan", style="float: left; margin:5px" >
+		 <img src="/../_profilePhotos/pat.jpg" width=120 height=160
+				alt="Pat", style="float: left; margin:5px" >
 	</div>
-
-	<p>
-		Pat joined Idea Lab, Department of Aeronautics, Imperial College London in 2021. Her research aims to develop an innovative design framework to elevate the mechanical properties for fibre-reinforced AM, integrating cellular structure and bio-inspired strategies with the objectives to 1) explore and utilise the nature-inspired approaches in design for AM to enhance the mechanical properties, 2)investigate the plastic behaviour and failure characteristics of fibre-reinforced and metallic lattice structures fabricated by AM under dynamic loading conditions, and 3)explore innovative composite manufacturing processes and apply them to create structures for energy absorption. Known for their notable properties such as specific energy absorption and impact resistance, nature-inspired structures like cellular and hierarchical forms have been utilised for Additive Manufacturing (AM). Through experimental investigation, my objective is to explore structural design options and material variations, such as composites, to enhance energy absorption during a crash and thereby expand AM capabilities through innovative design. This work also seeks to provide insight into the dynamic behaviour of AM parts and broaden the adoption of AM in crashworthiness applications.
-	</p>
-
+<p>
+	Pat joined Idea Lab, Department of Aeronautics, Imperial College London in 2021. Her research aims to develop an innovative design framework to elevate the mechanical properties for fibre-reinforced AM, integrating cellular structure and bio-inspired strategies with the objectives to 1) explore and utilise the nature-inspired approaches in design for AM to enhance the mechanical properties, 2)investigate the plastic behaviour and failure characteristics of fibre-reinforced and metallic lattice structures fabricated by AM under dynamic loading conditions, and 3)explore innovative composite manufacturing processes and apply them to create structures for energy absorption. Known for their notable properties such as specific energy absorption and impact resistance, nature-inspired structures like cellular and hierarchical forms have been utilised for Additive Manufacturing (AM). Through experimental investigation, my objective is to explore structural design options and material variations, such as composites, to enhance energy absorption during a crash and thereby expand AM capabilities through innovative design. This work also seeks to provide insight into the dynamic behaviour of AM parts and broaden the adoption of AM in crashworthiness applications.
+</p>
 </div>
 
 <hr>
@@ -26,13 +24,13 @@
 
 <div class="square">
 	<div>
-		 <img src="/../_profilePhotos/bohan.jpg" style="width:100%"
+		 <img src="/../_profilePhotos/bohan.jpg" width=120 height=160
 				alt="Bohan", style="float: left; margin:5px" >
 	</div>
 
-	<p>
-		Bohan joined Idea Lab, Department of Aeronautics, Imperial College London in 2021. His research focuses on 1) investigating the effectiveness of ML-based techniques in generating designs for AM, 2) realising the transformation of ML from black-box to grey-box with scientific machine learning approaches, 3) developing ML-based methods alternative to the current numerical AM simulation methods that are less time-consuming, enabling the subsequent design optimisation that is manufacturing-aware. One main endeavour for realising the goals of the project is shifting the ML methods away from the traditional ‘black-box’ nature. The application of the ‘physics-based machine learning’ (PBML) concept is identified as a viable means for the objective. In addition to the development of physics-informed machine learning models, another focus is the integration of trained ML models with traditional numerical methods to leverage the strength of both techniques for multi-scale, high-fidelity, and rapid simulation as well as design optimisation. 
-	</p>
+<p>
+	Bohan joined Idea Lab, Department of Aeronautics, Imperial College London in 2021. His research focuses on 1) investigating the effectiveness of ML-based techniques in generating designs for AM, 2) realising the transformation of ML from black-box to grey-box with scientific machine learning approaches, 3) developing ML-based methods alternative to the current numerical AM simulation methods that are less time-consuming, enabling the subsequent design optimisation that is manufacturing-aware. One main endeavour for realising the goals of the project is shifting the ML methods away from the traditional ‘black-box’ nature. The application of the ‘physics-based machine learning’ (PBML) concept is identified as a viable means for the objective. In addition to the development of physics-informed machine learning models, another focus is the integration of trained ML models with traditional numerical methods to leverage the strength of both techniques for multi-scale, high-fidelity, and rapid simulation as well as design optimisation. 
+</p>
 
 </div>
 
@@ -46,7 +44,6 @@
 		<img src="/../_profilePhotos/ck.jpg" width=120 height=160
 				alt="CK", style="float: left; margin:5px">
 	</div>
-
 	<p>
 		Ck was a Research Associate at the Materials department of Imperial College London. His research revolved around multiscale design of architected materials. These are materials which derive their functional behaviour from the microstructures they are comprised of. Some interesting applications of such materials are in the design of bespoke bone implants and aerospace grade structures. He demonstrated that novel lattice structures based on the mathematics of aperiodic order have the capacity to outdo their rather ubiquitous periodic counterparts. Ck also applied his expertise in multiscale optimisation to derive nanoscale topologies for state-of-the-art insertion electrode batteries such as Li-ion, Nickel Metal Hydride and Sodium-ion batteries, further improving battery performance (energy and power densities) as well as battery life-time. 
 	</p>
