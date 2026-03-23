@@ -2,6 +2,41 @@
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+
+<h3 id="pat"> Dr Piyapat JAMEEKORNKUL (Pat) </h3>
+<a href="https://th.linkedin.com/in/piyapat-jameekornkul-861670175" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://scholar.google.com/citations?hl=en&user=XFXrQrMAAAAJ" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
+
+<div class="square">
+	<div>
+		 <img src="/../_profilePhotos/bohan.jpg" style="width:100%"
+				alt="Bohan", style="float: left; margin:5px" >
+	</div>
+
+	<p>
+		Pat joined Idea Lab, Department of Aeronautics, Imperial College London in 2021. Her research aims to develop an innovative design framework to elevate the mechanical properties for fibre-reinforced AM, integrating cellular structure and bio-inspired strategies with the objectives to 1) explore and utilise the nature-inspired approaches in design for AM to enhance the mechanical properties, 2)investigate the plastic behaviour and failure characteristics of fibre-reinforced and metallic lattice structures fabricated by AM under dynamic loading conditions, and 3)explore innovative composite manufacturing processes and apply them to create structures for energy absorption. Known for their notable properties such as specific energy absorption and impact resistance, nature-inspired structures like cellular and hierarchical forms have been utilised for Additive Manufacturing (AM). Through experimental investigation, my objective is to explore structural design options and material variations, such as composites, to enhance energy absorption during a crash and thereby expand AM capabilities through innovative design. This work also seeks to provide insight into the dynamic behaviour of AM parts and broaden the adoption of AM in crashworthiness applications.
+	</p>
+
+</div>
+
+<hr>
+<h3 id="bohan"> Dr Bohan PENG </h3>
+<a href="https://www.linkedin.com/in/bohan-peng-573724147/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+<a href="https://scholar.google.com/citations?user=rF4BwzIAAAAJ&hl=en" style="text-decoration: none;" title="Google" class="Google" target = "_blank"><i class="fa fa-google fa-fw"></i> Google Scholar</a>
+
+<div class="square">
+	<div>
+		 <img src="/../_profilePhotos/bohan.jpg" style="width:100%"
+				alt="Bohan", style="float: left; margin:5px" >
+	</div>
+
+	<p>
+		Bohan joined Idea Lab, Department of Aeronautics, Imperial College London in 2021. His research focuses on 1) investigating the effectiveness of ML-based techniques in generating designs for AM, 2) realising the transformation of ML from black-box to grey-box with scientific machine learning approaches, 3) developing ML-based methods alternative to the current numerical AM simulation methods that are less time-consuming, enabling the subsequent design optimisation that is manufacturing-aware. One main endeavour for realising the goals of the project is shifting the ML methods away from the traditional ‘black-box’ nature. The application of the ‘physics-based machine learning’ (PBML) concept is identified as a viable means for the objective. In addition to the development of physics-informed machine learning models, another focus is the integration of trained ML models with traditional numerical methods to leverage the strength of both techniques for multi-scale, high-fidelity, and rapid simulation as well as design optimisation. 
+	</p>
+
+</div>
+
+
 <hr>
 <h3 id="CK"> Dr Chikwesiri T. IMEDIEGWU  </h3>
 <a href="https://www.linkedin.com/in/chikwesiri-imediegwu" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
@@ -12,12 +47,12 @@
 				alt="CK", style="float: left; margin:5px">
 	</div>
 
-<p>
-	Ck was a Research Associate at the Materials department of Imperial College London. His research revolved around multiscale design of architected materials. These are materials which derive their functional behaviour from the microstructures they are comprised of. Some interesting applications of such materials are in the design of bespoke bone implants and aerospace grade structures. He demonstrated that novel lattice structures based on the mathematics of aperiodic order have the capacity to outdo their rather ubiquitous periodic counterparts. Ck also applied his expertise in multiscale optimisation to derive nanoscale topologies for state-of-the-art insertion electrode batteries such as Li-ion, Nickel Metal Hydride and Sodium-ion batteries, further improving battery performance (energy and power densities) as well as battery life-time. 
-</p>
-<p>
-	Ck is currently a lecturer in design optimisation at University of Manchester.
-</p>
+	<p>
+		Ck was a Research Associate at the Materials department of Imperial College London. His research revolved around multiscale design of architected materials. These are materials which derive their functional behaviour from the microstructures they are comprised of. Some interesting applications of such materials are in the design of bespoke bone implants and aerospace grade structures. He demonstrated that novel lattice structures based on the mathematics of aperiodic order have the capacity to outdo their rather ubiquitous periodic counterparts. Ck also applied his expertise in multiscale optimisation to derive nanoscale topologies for state-of-the-art insertion electrode batteries such as Li-ion, Nickel Metal Hydride and Sodium-ion batteries, further improving battery performance (energy and power densities) as well as battery life-time. 
+	</p>
+	<p>
+		Ck is currently a lecturer in design optimisation at University of Manchester.
+	</p>
 </div>
 
 <hr>
@@ -31,9 +66,6 @@
 	
 	<p>
 		My investigation focused on applying Machine Learning (ML) in Design for Additive Manufacturing (DfAM), especially in Design of lattice structures. Lattice structures are architectures constructed by spatial periodic cells. The controllable shape and size, the high strength-to-weight ratio, and the tuneable mechanical properties have brought lattice structures greater attention. I'm trying to seek for sophisticated lattice generation methods which could use ML to enhance the structural performance. I believe that lattice structures can approximate the high performance of Topology Optimisation (TO) design, but shrink the time required for generating high-resolution structures. Recent work applying ML-based lattice inverse design to functionally-graded lattice generation is published in AM journal (doi:10.1016/j.addma.2022.103238). I'm now looking into exploiting multi-functionality of lattice designs and lattice-based compliant mechanisms. Further investigation into lattice behaviour under plastic deformation is also expected to help improve lattice energy absorption capability.	
-	</p>
-	<p>
-		Amber is currently a research fellow at Brunel University.
 	</p>
 </div>
 

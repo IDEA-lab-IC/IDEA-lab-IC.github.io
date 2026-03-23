@@ -40,75 +40,6 @@ Ajit is an Associate Professor (Reader) in Computational Design for Advanced Man
 
 <!-- ------------------------------ -->
 <h2> PhD Students </h2>
-<h3 id="bohan"> Mr Bohan PENG </h3>
-<!-- <a href="https://www.linkedin.com/in/bohan-peng-573724147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWE3htgqQReLi0wGtMulFQ%3D%3D" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> -->
-<a href="https://www.linkedin.com/in/bohan-peng-573724147/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-
-<div class="row">
-  <div class="columnminor">
-    <figure>
-        <img src="/../_profilePhotos/bohan.jpg" style="width:100%"
-				alt="Bohan", style="float: left; margin:5px" >
-    </figure>
-  </div>
-
-  <div class="columnmajor">
-  <div align="justify">
-<b>Research Aim</b>: Improve the rate of first-time-right for additive manufacturing (AM) through the use of machine learning (ML) techniques. 
-
-<b>Objectives</b>: 
-
-* To investigate the effectiveness of ML-based techniques in generating designs for AM
-* To realise the transformation of ML from black-box to grey-box with scientific machine learning approaches
-* To develop ML-based methods alternative to the current numerical AM simulation methods that are less time-consuming, enabling the subsequent design optimisation that is manufacturing-aware
-
-<details>
-<summary> <b>Short scientific description</b> (click to expand) </summary>
-One main endeavour for realising the goals of the project is shifting the ML methods away from the traditional ‘black-box’ nature. The application of the ‘physics-based machine learning’ (PBML) concept is identified as a viable means for the objective. In addition to the development of physics-informed machine learning models, another focus is the integration of trained ML models with traditional numerical methods to leverage the strength of both techniques for multi-scale, high-fidelity, and rapid simulation as well as design optimisation. 
-</details>
-
-<b>Something more about me</b>: Aviation geek, UK CAA PPL(A) holder
-
-  </div>
-  </div>
-</div>
-
-
-<hr>
-<h3 id="pat"> Ms Piyapat JAMEEKORNKUL (Pat) </h3>
-<a href="https://th.linkedin.com/in/piyapat-jameekornkul-861670175" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
-<div class="row">
-  <div class="columnminor">
-    <figure>
-        <img src="/../_profilePhotos/pat.jpg" style="width:100%"
-				alt="Pat", style="float: left; margin:5px">
-    </figure>
-  </div>
-
-  <div class="columnmajor">
-  <div align="justify">
-<b>Research Aim</b>: Innovative design framework to elevate the mechanical properties for fibre-reinforced AM, integrating cellular structure and bio-inspired strategies.
-
-<b>Objectives</b>: 
-
-* To explore and utilise the nature-inspired approaches in design for AM to enhance the mechanical properties
-*	To investigate the plastic behaviour and failure characteristics of fibre-reinforced and metallic lattice structures fabricated by AM under dynamic loading conditions
-*	To explore innovative composite manufacturing processes and apply them to create structures for energy absorption
-
-
-<details>
-<summary> <b>Short scientific description</b> (click to expand) </summary>
-Known for their notable properties such as specific energy absorption and impact resistance, nature-inspired structures like cellular and hierarchical forms have been utilised for Additive Manufacturing (AM). Through experimental investigation, my objective is to explore structural design options and material variations, such as composites, to enhance energy absorption during a crash and thereby expand AM capabilities through innovative design. This work also seeks to provide insight into the dynamic behaviour of AM parts and broaden the adoption of AM in crashworthiness applications.
-</details>
-
-<b>Something more about me</b>: Exploring cool art exhibition and local cuisine 
-
-  </div>
-  </div>
-</div>
-
-<hr>
 <h3 id="shimeng"> Ms Shimeng QIAN </h3>
 <a href="https://www.linkedin.com/in/shimeng-qian-4698aa237/" style="text-decoration: none;" title="LinkedIn" class="btn btn-linkedin btn-lg" target = "_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
 <!-- <a href="#" style="text-decoration: none;" title="Twitter" class="twitter" target = "_blank"><i class="fa fa-twitter fa-fw"></i> Tweet</a> -->
@@ -470,6 +401,46 @@ Repeatability of part quality is one of the biggest challenges faced by the lase
         <p>(2014-2025)</p>
         <p>
           <a href="mailto:chikwesiri.imediegwu14@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#bohan">
+        <img src="../_profilePhotos/bohan.jpg" alt="Bohan" style="width:100%">
+      </a>
+      <div class="container">
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#bohan">
+          <h4>Dr Bohan Peng</h4>
+        </a>
+        <p class="title">PhD alumnus</p>
+        <p>(2021-2025)</p>
+        <p>
+          <a href="mailto:bohan.peng16@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
+            <button class="button">Contact</button>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <a href="https://idea-lab-ic.github.io/#/People/alumni#pat">
+        <img src="../_profilePhotos/pat.jpg" alt="Pat" style="width:100%">
+      </a>
+      <div class="container">
+        <a href="https://idea-lab-ic.github.io/#/People/alumni#pat">
+          <h4>Dr Piyapat Jameekornkul</h4>
+        </a>
+        <p class="title">PhD alumna</p>
+        <p>(2021-2025)</p>
+        <p>
+          <a href="mailto:piyapat.jameekornkul20@imperial.ac.uk?cc=a.panesar@imperial.ac.uk" target="_blank">
             <button class="button">Contact</button>
           </a>
         </p>
